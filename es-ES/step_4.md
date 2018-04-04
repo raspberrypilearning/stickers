@@ -16,7 +16,7 @@ También puedes crear una pegatina con degradado usando una imagen. Si usas una 
 
 	![screenshot](images/stickers-purple-css.png)
 
-##Desafío: Crea tu propia pegatina con una imagen 
+## Desafío: Crea tu propia pegatina con una imagen 
 
 Ahora vas a crear tu propia pegatina de imagen con efecto degradado. 
 
