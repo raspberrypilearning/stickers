@@ -31,7 +31,7 @@ También puedes crear degradados diagonales que van de esquina a esquina.
 
 	Intenta cambiar el número de grados de rotación del texto.
 
-##Desafío: Más pegatinas
+## Desafío: Más pegatinas
 
 Intenta crear más pegatinas usando diferentes direcciones para el degradado, añadiendo imágenes y texto y usando bordes y contornos. 
 
