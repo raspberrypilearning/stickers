@@ -4,15 +4,15 @@ Je kunt een verloopsticker maken met een afbeelding. Als je een afbeelding met e
 
 Je kunt ook verlopen maken die in verschillende richtingen lopen.
 
-+ Voeg een sticker toe aan `index.html` met behulp van de `firerobot.png` afbeelding:
++ Voeg een sticker toe aan `index.html` met behulp van de afbeelding `firerobot.png`:
     
     ![screenshot](images/stickers-fire-html.png)
     
     Je kunt `height` aanpassen om het formaat van de afbeelding te wijzigen, de breedte wordt automatisch gewijzigd.
 
-+ Normaal loopt een lineaire gradiënt van boven naar beneden, maar je kunt `to` gebruiken om de richting te wijzigen. Bijvoorbeeld: `to top (naar boven)`, `to left (naar links)`of `to right (naar rechts)`.
++ Normaal loopt een lineair verloop van boven naar beneden, maar je kunt `to` gebruiken om de richting te wijzigen. Bijvoorbeeld: `to top` (naar boven), `to left `(naar links) of `to right `(naar rechts).
     
-    Voor een diagonaal verloop geef je twee richtingen. In dit voorbeeld wordt `to bottom left (naar linksonder)`.
+    Voor een diagonaal verloop geef je twee richtingen. In dit voorbeeld wordt `to bottom left `(naar linksonder).
     
     Voeg deze stijl toe aan `style.css` om je nieuwe robotsticker een diagonaal verloop en een mooie rand te geven:
     
@@ -34,7 +34,7 @@ Je kunt ook verlopen maken die in verschillende richtingen lopen.
     
     ![screenshot](images/stickers-fire-text-style.png)
 
-+ En voor de laatste keer draaien we de tekst met `transform: rotate`.
++ En tot slot draaien we de tekst met `transform: rotate`.
     
     ![screenshot](images/stickers-fire-rotate.png)
     
