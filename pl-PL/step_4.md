@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own gradient sticker
+## Wyzwanie: Twoja własna naklejka z gradientem
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
+Stwórz swoją naklejkę z gradientem. Spróbuj liniowego i promienistego gradientu używając różnych kolorów.
 
-You'll need to:
+Aby to zrobić:
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
++ W pliku `index.html` dodaj `<div>` z tekstem, jaki ma być na naklejce i nadaj mu klasę `sticker` oraz nowy identyfikator (`id`).
++ W pliku `style.css` dodaj styl korzystając z identyfikatora, jaki nadałeś wcześniej. Możesz skopiować style innej naklejki i zmienić według własnego uznania. 
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Tutaj znajdziesz listę ze wszystkimi nazwami kolorów, których możesz użyć: [jumpto.cc/web-colours](http://jumpto.cc/web-colours) (np. `tomato`, `firebrick`, `peachpuff`).
 
-If you want to change the text colour you can use `color:`.
+Jeśli chcesz zmienić kolor tekstu możesz użyć `color:`.
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+Oto co można zrobić używając różnych kolorów w gradiencie liniowym:
 
 ![screenshot](images/stickers-save-robots.png)
 
