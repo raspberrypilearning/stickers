@@ -1,6 +1,6 @@
 ## Inleiding
 
-In dit project maak je veel leuke stickers die je kunt gebruiken om webpagina's te versieren. Je leert kleur verlopen, die geleidelijk van de ene in de andere kleur veranderen, te gebruiken om je stickers er cool uit te laten zien.
+In dit project maak je veel leuke stickers die je kunt gebruiken om webpagina's te versieren. Je leert verlopen te gebruiken, kleuren die geleidelijk van de ene in de andere overgaan, zodat je stickers er cool uitzien.
 
 ![screenshot](images/stickers-finished.png)
 
@@ -10,11 +10,11 @@ Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](h
 
 ## \--- collapse \---
 
-## titel: Clubleider notities
+## title: Clubleider notities
 
 ## Inleiding:
 
-In dit project maken kinderen kennis met lineaire en radiale kleur verlopen in CSS. Ze leren ook meer over randen en positionering.
+In dit project maken kinderen kennis met lineaire en radiale kleurverlopen in CSS. Ze leren ook meer over randen en positionering.
 
 ## Online bronnen
 
@@ -49,7 +49,7 @@ Je kunt ook van de uitdagingen een voltooide versie van dit project vinden in de
 
 (Alle bovenstaande bronnen kunnen ook als project en als vrijwilliger `.zip` bestanden worden gedownload.)
 
-## leerdoelen
+## Leerdoelen
 
 * Dit project introduceert het gebruik van CSS voor verlopen om interessante effecten te creëren. Studenten breiden ook hun kennis uit over CSS voor randen en positionering. 
 
@@ -66,9 +66,9 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## \--- collapse \---
 
-## titel: Projectmaterialen
+## title: Projectmaterialen
 
-## Project bestanden
+## Projectbronnen
 
 * [.zip-bestand met alle projectbestanden](resources/stickers-project-resources.zip)
 * [Online Trinket met alle 'Intro' projectbestanden](http://jumpto.cc/web-intro)
@@ -89,7 +89,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Clubleider middelen
+## Clubleider bronnen
 
 * [.zip-bestand met alle voltooide projectbestanden](resources/stickers-volunteer-resources.zip)
 * [Online voltooid Trinket-project](https://trinket.io/html/bb4e538e0a)
