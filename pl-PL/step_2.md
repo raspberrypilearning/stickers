@@ -1,45 +1,45 @@
-## Colourful coding sticker
+## Naklejka z liniowym gradientem
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+Gradient to stopniowe przejście z jednego koloru w drugi. Gradienty mogą być używane, aby osiągnąć ciekawe efekty. Zaraz użyjesz ich do stworzenia naklejek, które będzie można wykorzystać na stronach internetowych.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ Otwórz edytor: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    The project should look like this:
+    Projekt powinien wyglądać następująco:
     
     ![screenshot](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ Zróbmy naklejkę ‘I <3 Coding’ (ang. “Uwielbiam kodowanie”)g' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    Użyj `<div>` z klasą `sticker` i identyfikatorem `coding`, aby później go ostylować:
     
     ![screenshot](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ Hmm, widzisz, że edytor pokazał błąd? A to dlatego, że “<” to w HTML-u znak specjalny. Zamiast “<” musisz użyć specjalnego kodu `&lt;`.
     
-    Update your code to use `&lt;` so that the error goes away.
+    Zmień swój kod i użyj `&lt;`, aby pozbyć się tego błędu.
     
     ![screenshot](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` powoduje przejście do następnej linii.
 
-+ Now let's make the sticker look interesting.
++ Teraz zmieńmy naklejkę tak, aby była nieco ciekawsza.
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    Przejdź do pliku `style.css`. Zauważ, że klasa `.sticker` jest już opisana w taki sposób, aby naklejka wyświetlała się na stronie i miała wyśrodkowaną zawartość.
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    Pamiętaj, że do swojej naklejki dodałeś identyfikator `coding`. Na końcu pliku `style.css` dodaj poniższy kod, aby ostylować tekst:
     
     ![screenshot](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ Teraz możesz dodać gradient jako tło naklejki. Liniowy gradient polega na zmianie koloru z jednego w drugi wzdłuż linii prostej.
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    Taki gradient powoduje przejście z czerwonego na górze do purpurowego na dole. Dodaj poniższy kod do stylu `coding`:
     
     ![screenshot](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ Możesz jeszcze ulepszyć efekt dodając odpowiednie odstępy i zaokrąglone narożniki.
     
-    Add the highlighted code:
+    Dodaj podświetlony kod:
     
     ![screenshot](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    Atrybut `padding` dodaje odstęp wielkości 50px na górze i dole oraz 30px z lewej i prawej strony.
