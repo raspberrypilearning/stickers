@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Wyzwanie: Jeszcze więcej naklejek
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Teraz spróbuj zrobić więcej naklejek używając gradientów w różnych kierunkach, dodając obrazki i tekst oraz używając obu rodzajów ramek.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Wskazówka: musisz dodać kod HTML i CSS dla każdej naklejki.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Możesz skopiować jeden z przykładów i zmienić go tak, aby utworzyć nową naklejkę.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Twój projekt zawiera już zbiór obrazków robotów. Kliknij na ikonę obrazków, aby wyświetlić dostępne obrazki.
 
 ![screenshot](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+Oto przykład z użyciem gradientu `to right`:
 
 ![screenshot](images/stickers-green-html.png)
 
