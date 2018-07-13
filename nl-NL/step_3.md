@@ -1,8 +1,8 @@
 ## HTML & CSS-sticker
 
-Verlopen kunnen ook van het midden naar de randen toe van kleur veranderen, dit wordt een radiaal verloop genoemd.
+Verlopen kunnen ook vanuit het midden naar de randen toe van kleur veranderen, dit wordt een radiaal verloop genoemd.
 
-+ Laten we een sticker maken met de tekst `HTML & CSS.` `&` is een ander karakter dat gecodeerd moet worden in HTML, de code is `&amp;`.
++ Laten we een sticker maken met de tekst `HTML & CSS.` `&` is een ander teken dat gecodeerd moet worden in HTML, de code is `&amp;`.
     
     Voeg de gemarkeerde code toe om een ​​nieuwe sticker te maken:
     
@@ -18,9 +18,9 @@ Verlopen kunnen ook van het midden naar de randen toe van kleur veranderen, dit 
     
     ![screenshot](images/stickers-web-gradient.png)
     
-    Let op: verlopen kunnen meerdere kleuren bevatten, niet alleen slechts twee.
+    Let op: verlopen kunnen meerdere kleuren bevatten, niet alleen maar twee.
 
-+ De sticker ziet er veel beter uit met wat opvulling en een afgeronde rand.
++ De sticker ziet er veel beter uit met wat padding en een afgeronde rand.
     
     Voeg de gemarkeerde code toe:
     
