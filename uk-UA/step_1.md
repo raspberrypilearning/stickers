@@ -1,36 +1,36 @@
-## Introduction
+## Вступ
 
-In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
+В цьому проекті, ви будете створювати багато веселих наклейок, які можна використовувати, щоб прикрасити веб-сторінки. Ви дізнаєтеся про використання градієнтів, які поступово змінюються від одного кольору до іншого, щоб ваші наклейки виглядали круто.
 
-![screenshot](images/stickers-finished.png)
+![знімок екрану](images/stickers-finished.png)
 
-### Additional information for club leaders
+### Додаткова інформація для лідерів клубу
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
+Якщо вам потрібно роздрукувати цей проект, будь ласка, скористайтеся <версією для друку>.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## Нотатки керівника гуртка
 
-## Introduction:
+## Вступ:
 
-In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
+У цьому проекті діти будуть вводити лінійні та радіальні градієнти в CSS. Вони також дізнаються більше про межі та позиціювання.
 
-## Online Resources
+## Онлайн Ресурси
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб написати HTML & CSS онлайн. Цей проект містить такі трінкети:
 
 * ['Sunrise' starting point -- jumpto.cc/web-sunrise](http://jumpto.cc/web-sunrise)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Діти також можуть скористатися цим пустим бланком [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб написати свій власний HTML & CSS, або вони можуть по черзі використовувати цей шаблон [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Існує також trinket, що містить вибіркове рішення для вирішення проблем:
 
-* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* [Готові "Стікери" -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Offline Resources
+## Офлайн Ресурси
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Цей проект може бути [завершений офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо потрібно. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси Проекту", який включає в себе ресурси, що будуть потрібні дітям, аби завершити проект офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
 
 * intro/index.html
 * template/template.html
@@ -40,41 +40,41 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * stickers/script.js
 * stickers/robot .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Також, ви можете знайти завершену версію \---challenges\--- цього проекту в секції "Волонтерські Ресурси", яка містить:
 
 * stickers-finished/index.html
 * stickers-finished/style.css
 * stickers-finished/script.js
 * stickers-finished/robot .png images
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Всі з вищевказаних ресурсів можна завантажувати як проекти і волонтерські файли `.zip`.)
 
-## Learning Objectives
+## Мета навчання
 
-* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
+* Цей проект передбачає використання градієнтів CSS для створення цікавих ефектів. Студенти також розширюють свої знання про межі CSS та позиціювання. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Цей проект охоплює елементи з наступними стандартами [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Розробка основних 2D та 3D активів](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Завдання
 
-* "Create your own gradient sticker" - adding linear and radial gradients to text;
-* "Make more stickers!" - Combine gradients with images and text to create more stickers.
+* "Створення власної градієнтної наклейки" - додавання лінійних та радіальних градієнтів до тексту;
+* "Зробіть більше наклейок!" - Об'єднайте градієнти з зображеннями та текстом, щоб створити більше наклейок.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## матеріали проекту
 
-## Project resources
+## Ресурси проекту
 
-* [.zip file containing all project resources](resources/stickers-project-resources.zip)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [.zip-файл, що містить всі ресурси проекту](resources/stickers-project-resources.zip)
+* [Online Trinket містить всі проектні ресурси](http://jumpto.cc/web-intro)
+* [Online Trinket містить всі проектні ресурси наклейок](http://jumpto.cc/web-stickers)
+* [Онлайн шаблон Trinket](http://jumpto.cc/trinket-template)
+* [Пустий Online Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -89,10 +89,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Club leader resources
+## Ресурси лідера клубу
 
-* [.zip file containing all completed project resources](resources/stickers-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
+* [.zip файли, що містять всі проектні ресурси](resources/stickers-volunteer-resources.zip)
+* [Онлайн завершений проект Trinket](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
