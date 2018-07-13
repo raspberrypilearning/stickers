@@ -1,32 +1,32 @@
 ---
-Title: Stickers
+Title: Наліпки
 hero_image: images/stickers.png
 theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Stickers!
-description: Create fun robot stickers to decorate your web pages.
+curriculum: 1, дизайн-1, програмування-0, фізичне обчислення за допомогою комп'ютера 0, виробництво-0, спільноти-0
+title: Наліпки!
+description: Створюйте веселі наклейки робота, щоб прикрасити свою веб-сторінку.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
-interests: art
+interests: мистецтво
 technologies: html-css-javascript
-site_areas: projects
+site_areas: проекти
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Colourful coding sticker
+    title: Кольорове кодування наклейок
   - 
-    title: HTML & CSS sticker
+    title: Наклейка HTML & CSS
   - 
-    title: 'Challenge: Create your own gradient sticker'
+    title: 'Виклик: створіть свою власну градієнтну наклейку'
   - 
-    title: Fancy robot sticker 
+    title: 'Наклейка робот-смайлик '
   - 
-    title: 'Challenge: Make more stickers'
+    title: 'Завдання: зробіть більше наклейок'
