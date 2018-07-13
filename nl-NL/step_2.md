@@ -10,11 +10,11 @@ Een verloop is een geleidelijke overgang van de ene kleur naar de andere. Verlop
 
 + Laten we een 'I <3 Coding (I love coding) makeng' sticker.
     
-    Gebruik een `<div>` met een `sticker` klasse en een `codering` id zodat je het kunt opmaken:
+    Gebruik een `<div>` met een `sticker` klasse en een `coding` id zodat je het kunt opmaken:
     
     ![screenshot](images/stickers-coding-error.png)
 
-+ Hmm, heb je gemerkt dat je een foutmelding kreeg? Dit komt omdat '<' een speciaal teken in HTML is. In plaats van '<' moet je de speciale code `&lt;`.
++ Hmm, heb je gemerkt dat je een foutmelding kreeg? Dit komt omdat '<' een speciaal teken in HTML is. In plaats van '<' moet je de speciale code `&lt;` gebruiken.
     
     Werk je code bij door `&lt;` te gebruiken, zodat de fout verdwijnt.
     
@@ -32,14 +32,14 @@ Een verloop is een geleidelijke overgang van de ene kleur naar de andere. Verlop
 
 + Nu kun je een verloop toevoegen aan de achtergrond van de sticker. Een lineaire verloop verandert langs een rechte lijn van de ene naar de andere kleur.
     
-    Dit verloop verandert van rood aan de bovenkant naar magenta aan de onderkant. Voeg de verloop code toe aan je `coding` stijl:
+    Dit verloop verandert van rood aan de bovenkant naar magenta aan de onderkant. Voeg de verloopcode toe aan je `coding` stijl:
     
     ![screenshot](images/stickers-coding-gradient.png)
 
-+ Je kunt het resultaat verbeteren door opvulling en afgeronde hoeken toe te voegen.
++ Je kunt het resultaat verbeteren door opvulling (Engels: padding) en afgeronde hoeken toe te voegen.
     
     Voeg de gemarkeerde code toe:
     
     ![screenshot](images/stickers-coding-padding.png)
     
-    De `padding (opvulling)` stijl voegt een padding toe van 50px aan de boven- en onderkant en 30px aan de linker- en rechterkant.
+    De `padding ` stijl voegt een padding toe van 50px aan de boven- en onderkant en 30px aan de linker- en rechterkant.
