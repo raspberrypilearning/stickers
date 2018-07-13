@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## Naklejka z promienistym gradientem
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+Gradienty mogą też zmieniać kolor od środka w kierunku krawędzi - nazywamy je gradientami promienistymi.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ Zróbmy naklejkę z tekstem `HTML & CSS.` `&` to kolejny znak, który musimy zakodować w HTML-u, kod tego znaku to `&amp;`.
     
-    Add the highlighted code to create a new sticker:
+    Aby stworzyć nową naklejkę, dodaj podświetlony kod:
     
     ![screenshot](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ Teraz przejdź do pliku `style.css` i dodaj styl do swojej nowej naklejki:
     
     ![screenshot](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    Atrybut `text-shadow` dodaje cień, który znajduje się 2px niżej i bardziej na prawo od tekstu. W ten sposób sprawiamy wrażenie jakby tekst wystawał.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ Przejdźmy teraz do gradientu. Tym razem użyjemy gradientu promienistego. Kolor będzie zmieniał się od żółtego na środku przez pomarańczowy po czerwony.
     
     ![screenshot](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    Zauważ, że gradienty mogą zawierać więcej niż dwa kolory.
 
-+ The sticker will look much better with some padding and a rounded border.
++ Naklejka będzie wyglądać znacznie lepiej kiedy dodamy do niej odstępy i zaokrągloną ramkę.
     
-    Add the highlighted code:
+    Dodaj podświetlony kod:
     
     ![screenshot](images/stickers-web-padding.png)
