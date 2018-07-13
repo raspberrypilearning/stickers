@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## Naklejka z gradientem i obrazkiem
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+Możesz zrobić też naklejkę z gradientem używając obrazka. Gradient będzie widoczny, jeśli użyjesz obrazka z przezroczystym tłem.
 
-You can also create gradients to run in different directions.
+Możesz także użyć gradientów skierowanych w różne strony.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ Dodaj naklejkę do `index.html` używając obrazka `firerobot.png`:
     
     ![screenshot](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    Możesz zmienić `height` (ang. wysokość) obrazka, aby zmienić jego rozmiar. Szerokość dostosuje się automatycznie.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ Zazwyczaj liniowy gradient zaczyna się u góry i kończy na dole. Jeśli jednak dodamy `to`, możemy zmienić kierunek gradientu (np. `to top` - do góry, `to left` - do lewej, `to right` - do prawej).
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    Możesz także zrobić skośne gradienty które idą od jednego narożnika do drugiego. Musisz wtedy podać dwa kierunki. Ten przykład używa `to bottom left` (ang. do dołu do lewej).
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    Dodaj poniższy kod do `style.css` aby nadać naklejce z robotem skośny gradient i fajną ramkę:
     
     ![screenshot](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    Zauważ, że możesz użyć `outline` aby stworzyć kolejną ramkę na zewnątrz tej zwykłej. `outline-offset` określa odległość między ramkami.
 
-+ Let's add some text to this sticker.
++ Dodaj trochę tekstu na naklejce.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    W pliku `index.html` dodaj tag `<span>` zawierający tekst “ROBOTS” i nadaj mu identyfikator.
     
     ![screenshot](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ Tekst będzie wyglądał lepiej kiedy go powiększysz i ustawisz w odpowiednim miejscu.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    Aby ustawić tekst musisz dodać `position: relative;` do `#greensticker` i `position: absolute` do `#greentext`. Opisywaliśmy to szczegółowo w projekcie `Zbuduj robota`.
     
-    Add the following code to `style.css`:
+    Dodaj podświetlony kod do `style.css`:
     
     ![screenshot](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ A na koniec obróćmy trochę tekst używając `transform: rotate`.
     
     ![screenshot](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    Spróbuj pozmieniać ilość stopni, o jaką obrócony jest tekst.
