@@ -1,8 +1,8 @@
-/**
+/ **
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
- */
+ * /
 
 (function(){
 
@@ -150,29 +150,30 @@ var self = window.StyleFix = {
 	
 	deCamelCase: function(str) {
 		return str.replace(/[A-Z]/g, function($0) { return '-' + $0.toLowerCase() });
+
 	}
 };
 
-/**************************************
+/ **************************************
  * Process styles
- **************************************/
+ ************************************** /
 (function(){
 	setTimeout(function(){
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
 	}, 10);
 	
 	document.addEventListener('DOMContentLoaded', StyleFix.process, false);
-})();
+}) ();
 
 function $(expr, con) {
 	return [].slice.call((con || document).querySelectorAll(expr));
 }
 
-})();
+}) ();
 
-/**
+/ **
  * PrefixFree
- */
+ * /
 (function(root){
 
 if(!window.StyleFix || !window.getComputedStyle) {
@@ -244,7 +245,7 @@ var self = window.PrefixFree = {
 		}
 
 		return value;
-	},
+	с
 	
 	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
 	prefixSelector: function(selector) {
@@ -357,9 +358,9 @@ var functions = {
 		property: 'backgroundImage',
 		params: 'red, teal'
 	},
-	'calc': {
-		property: 'width',
-		params: '1px + 5%'
+	},
+		},
+		},
 	},
 	'element': {
 		property: 'backgroundImage',
