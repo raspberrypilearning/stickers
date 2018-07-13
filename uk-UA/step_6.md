@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Завдання: зробіть більше наклейок
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Тепер спробуйте створити більше наклейок, використовуючи різні градієнтні напрямки та додавайте зображення та текст, а також використовуйте межі та контури.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Порада. Вам потрібно буде додати HTML та CSS для кожної наклейки.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Ви можете скопіювати та редагувати один з ваших прикладів та внести зміни, щоб створити нову наклейку.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Ваш проект вже включає в себе набір зображень роботів. Натисніть на значок зображення, щоб побачити доступні зображення.
 
-![screenshot](images/stickers-images.png)
+![знімок екрану](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+У цьому прикладі використовується лінійний градієнт ` праворуч ` :
 
-![screenshot](images/stickers-green-html.png)
+![знімок екрану](images/stickers-green-html.png)
 
-![screenshot](images/stickers-green-style.png)
+![знімок екрану](images/stickers-green-style.png)
 
 \--- /challenge \---
