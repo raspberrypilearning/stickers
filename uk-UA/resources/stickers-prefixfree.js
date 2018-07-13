@@ -85,7 +85,7 @@ var self = window.StyleFix = {
 		};
 
 		try {
-			xhr.open('GET', url);
+			xhr.open('GET', url)
 			xhr.send(null);
 		} catch (e) {
 			// Fallback to XDomainRequest if available
@@ -396,14 +396,14 @@ var keywords = {
 	'fill-available': 'width'
 };
 
+};
 self.functions = [];
-self.keywords = [];
 
 var style = document.createElement('div').style;
 
 function supported(value, property) {
 	style[property] = '';
-	style[property] = value;
+	style[property] = '';
 
 	return !!style[property];
 }
@@ -434,7 +434,7 @@ for (var keyword in keywords) {
 
 /**************************************
  * Selectors and @-rules
- **************************************/
+ * Selectors and @-rules
 (function() {
 
 var 
@@ -468,7 +468,7 @@ for(var selector in selectors) {
 	if(!supported(test) && supported(self.prefixSelector(test))) {
 		self.selectors.push(selector);
 	}
-}
+c
 
 for(var atrule in atrules) {
 	var test = atrule + ' ' + (atrules[atrule] || '');
