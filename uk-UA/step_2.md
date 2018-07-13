@@ -1,45 +1,45 @@
-## Colourful coding sticker
+## Кольорове кодування наклейок
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+Градієнт - це поступова зміна від одного кольору до іншого. Градієнти можуть бути використані для створення крутих ефектів. Ви використовуватимете їх для створення наклейок, які ви можете використати на своїх веб-сторінках.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ Відкрийте цей trinket:<a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-letter</a>.
     
-    The project should look like this:
+    Проект повинен виглядати так:
     
-    ![screenshot](images/stickers-starter.png)
+    ![знімок екрану](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ Давайте зробимо "I <3 Coding' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    Використовуйте `<div>` з наклейкою ` ` клас та ` кодування ` id, щоб ви могли його стилізувати:
     
-    ![screenshot](images/stickers-coding-error.png)
+    ![знімок екрану](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ Хм, ви помітили, що у вас виникла помилка? Це тому, що '<' є спеціальним символом у HTML. Замість "<" потрібно використовувати спеціальний код `&lt; `.
     
-    Update your code to use `&lt;` so that the error goes away.
+    Оновіть свій код, використовуючи `&lt; ` тоді помилка зникає.
     
-    ![screenshot](images/stickers-coding-fixed.png)
+    ![знімок екрану](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` дає новий рядок.
 
-+ Now let's make the sticker look interesting.
++ Тепер давайте зробимо наклейку цікавішою.
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    Перейдіть до ` style.css ` файл Ви побачите, що `.sticker ` клас був призначений для вас. Це дозволить розмістити наклейки на сторінці та зосередити їх вміст.
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    Пам'ятайте, що ви додали ідентифікатор ` кодування ` до наклейки ` style.css ` додайте наступний код, щоб набрати текст:
     
-    ![screenshot](images/stickers-coding-font.png)
+    ![знімок екрану](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ Тепер ви можете додати градієнт на тло наклейки. Лінійний градієнт змінюється від одного кольору до іншого вздовж прямої лінії.
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    Цей градієнт змінюватиметься з червоного у верхній частині до пурпурового у нижній частині. Додайте код градієнта до стилю ` кодування ` :
     
-    ![screenshot](images/stickers-coding-gradient.png)
+    ![знімок екрану](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ Ви можете покращити результат, додавши заповнення та округлі кути.
     
-    Add the highlighted code:
+    Додайте виділений код:
     
-    ![screenshot](images/stickers-coding-padding.png)
+    ![знімок екрану](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    Стиль ` заповнення` додає 50 пікселів у верхній і нижній частині та 30 пікселів ліворуч і праворуч.
