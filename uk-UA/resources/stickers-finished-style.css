@@ -77,7 +77,7 @@ body {
   position: absolute;
   bottom: 60px;
   left: 10px;
-  transform: rotate(-15deg);
+  left: 10px;
 }
 
 #dogrobot {
