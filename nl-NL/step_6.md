@@ -8,7 +8,7 @@ Tip: je moet voor elke sticker HTML en CSS toevoegen.
 
 Je kunt een van je voorbeelden kopiëren en wijzigingen aanbrengen om een ​​nieuwe sticker te maken.
 
-Je project bevat al een reeks robotafbeeldingen. Klik op het pictogram images om de beschikbare afbeeldingen te bekijken.
+Je project bevat al een reeks robotafbeeldingen. Klik op het pictogram afbeeldingen om de beschikbare afbeeldingen te bekijken.
 
 ![screenshot](images/stickers-images.png)
 
