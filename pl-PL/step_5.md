@@ -1,4 +1,4 @@
-## Naklejka z gradientem i obrazkiem
+## Naklejka z robotem
 
 Możesz zrobić też naklejkę z gradientem używając obrazka. Gradient będzie widoczny, jeśli użyjesz obrazka z przezroczystym tłem.
 
