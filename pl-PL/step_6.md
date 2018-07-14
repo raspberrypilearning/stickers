@@ -12,7 +12,7 @@ Twój projekt zawiera już zbiór obrazków robotów. Kliknij na ikonę obrazkó
 
 ![screenshot](images/stickers-images.png)
 
-Oto przykład z użyciem gradientu `to right`:
+Oto przykład z użyciem gradientu liniowego `to right`:
 
 ![screenshot](images/stickers-green-html.png)
 
