@@ -22,7 +22,7 @@ Możesz także użyć gradientów skierowanych w różne strony.
 
 + Dodaj trochę tekstu na naklejce.
     
-    W pliku `index.html` dodaj tag `<span>` zawierający tekst “ROBOTS” i nadaj mu identyfikator.
+    W pliku `index.html` dodaj tag `<span>` zawierający tekst “ROBOTY” i nadaj mu identyfikator.
     
     ![screenshot](images/stickers-fire-span.png)
 
