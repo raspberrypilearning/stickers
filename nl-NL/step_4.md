@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Uitdaging: maak je eigen stcker met verloop
+## Uitdaging: maak je eigen sticker met verloop
 
 Maak nu je eigen sticker met een verloop. Probeer lineaire en radiale verlopen met meerdere HTML-kleuren.
 
