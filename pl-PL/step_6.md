@@ -22,6 +22,6 @@ Oto przykład z użyciem gradientu liniowego `to right`:
 ***
 ### Tłumaczenie wykonane przez wolontariuszy 
 
-Projekt ten przetłumaczyła **Aleksandra Leśniak**. 
+Projekt ten przetłumaczyli **Wojtek Zieliński** i **Aleksandra Leśniak**. 
 
 Dzięki naszym wspaniałym wolontariuszom, ludzie na całym świecie mogą nauczyć się kodowania. Tłumacząc nasze projekty możesz pomóc nam dotrzeć do większej liczby ludzi. Więcej informacji na stronie [rpf.io/translators](https://rpf.io/translators).
