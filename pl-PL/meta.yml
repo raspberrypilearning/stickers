@@ -1,4 +1,5 @@
-Title: Naklejki!
+---
+Title: Naklejki
 hero_image: images/stickers.png
 theme: orange
 duration: 2
@@ -7,7 +8,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Naklejki!
-description: Naucz się, jak stworzyć własne naklejki do użycia na stronach internetowych.
+description: Stwórz zabawne naklejki z robotami do ozdobienia swoich stron internetowych.
+original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
 site_areas: projects
@@ -15,5 +17,10 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Naklejki!
+steps:
+  - title: Wprowadzenie
+  - title: Naklejka z liniowym gradientem
+  - title: Naklejka z promienistym gradientem
+  - title: 'Wyzwanie: Twoja własna naklejka z gradientem'
+  - title: 'Naklejka z robotem'
+  - title: 'Wyzwanie: Jeszcze więcej naklejek'
