@@ -28,7 +28,7 @@ Możesz także użyć gradientów skierowanych w różne strony.
 
 + Tekst będzie wyglądał lepiej kiedy go powiększysz i ustawisz w odpowiednim miejscu.
     
-    Aby ustawić tekst musisz dodać `position: relative;` do `#greensticker` i `position: absolute` do `#greentext`. Opisywaliśmy to szczegółowo w projekcie `Zbuduj robota`.
+    Aby ustawić tekst musisz dodać `position: relative;` do `#greensticker` i `position: absolute` do `#greentext`. Pozycjonowanie wytłumaczone jest szczegółowo w projekcie `Zbuduj robota`.
     
     Dodaj podświetlony kod do `style.css`:
     
