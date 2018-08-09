@@ -8,7 +8,7 @@ Gradient to stopniowe przejście z jednego koloru w drugi. Gradienty mogą być 
     
     ![screenshot](images/stickers-starter.png)
 
-+ Zróbmy naklejkę "<3 Kodowanie"g' sticker.
++ Zróbmy naklejkę "<3 Kodowanie".
     
     Użyj `<div>` z klasą `sticker` i identyfikatorem `coding`, aby później ją ostylować:
     
