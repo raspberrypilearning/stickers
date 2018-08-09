@@ -18,7 +18,7 @@ Wykonując ten projekt dzieci poznają liniowy i promienisty gradient w CSS. Nau
 
 ## Zasoby Online
 
-Do pisania kodu HTML i CSS online rekomendujemy użytkowanie edytora [trinket](https://trinket.io/). Do tego projektu udostępnione są też szablony:
+Do pisania kodu HTML i CSS online rekomendujemy użytkowanie edytora [trinket](https://trinket.io/). Do tego projektu udostępnione są następujące szablony:
 
 * ["Naklejki" - początek -- jumpto.cc/web-sunrise](http://jumpto.cc/web-sunrise)
 
@@ -53,7 +53,7 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
 
 * Ten projekt wprowadza użycie gradientów CSS do tworzenia ciekawych efektów. Uczniowie poszerzą również swoją wiedzę na temat ramek i pozycjonowania w CSS. 
 
-Ten projekt obejmuje elementy z następujących wątków [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
 
 * [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
