@@ -8,11 +8,11 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: '¡Pegatinas!'
-description: Crea pegatinas robóticas divertidas para decorar tus páginas web.
+description: Crea pegatinas divertidas de robots para decorar tus páginas web.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
-interests: art
+interests: arte
 technologies: html-css-javascript
-site_areas: projects
+site_areas: proyectos
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -25,8 +25,8 @@ steps:
   - 
     title: Crea una pegatina con degradado radial
   - 
-    title: Crea una pegatina con degradado que contenga una imagen
+    title: 'Crea una pegatina con degradado que contenga una imagen'
   - 
-    title: Degradados horizontales
+    title: 'Degradados horizontales'
   - 
-    title: Degradados diagonales
+    title: 'Degradados diagonales'
