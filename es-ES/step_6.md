@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Desafío: haz más pegatinas
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Ahora intenta hacer más pegatinas usando diferentes direcciones de degradado, agregando imágenes y texto y utilizando bordes y contornos.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Consejo: Deberás agregar HTML y CSS para cada pegatina.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Puedes copiar y editar uno de los ejemplos y hacer cambios para crear una nueva pegatina.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Tu proyecto ya incluye un conjunto de imágenes de robot. Haz clic en el icono de imágenes para ver las imágenes disponibles.
 
-![screenshot](images/stickers-images.png)
+![captura de pantalla](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+Este ejemplo utiliza un degradado lineal con `to right`:
 
-![screenshot](images/stickers-green-html.png)
+![captura de pantalla](images/stickers-green-html.png)
 
-![screenshot](images/stickers-green-style.png)
+![captura de pantalla](images/stickers-green-style.png)
 
 \--- /challenge \---
