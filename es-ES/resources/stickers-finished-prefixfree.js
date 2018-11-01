@@ -1,8 +1,8 @@
-/**
+/ **
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
- */
+ * /
 
 (function(){
 
@@ -13,7 +13,7 @@ if(!window.addEventListener) {
 var self = window.StyleFix = {
 	link: function(link) {
 		try {
-			// Ignore stylesheets with data-noprefix attribute as well as alternate stylesheets
+			Ignora hojas de estilo con el atributo de datos no-prefix así como las hojas de estilo alternativas
 			if(link.rel !== 'stylesheet' || link.hasAttribute('data-noprefix')) {
 				return;
 			}
@@ -121,13 +121,13 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Linked stylesheets
+		// Hojas de estilos vinculadas
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		// Inline stylesheets
+		// Hojas de estilos en línea
 		$('style').forEach(StyleFix.styleElement);
 		
-		// Inline styles
+		// Estilos en línea
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -153,9 +153,9 @@ var self = window.StyleFix = {
 	}
 };
 
-/**************************************
- * Process styles
- **************************************/
+/ **************************************
+ * Procesa los estilos
+ ************************************** /
 (function(){
 	setTimeout(function(){
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
@@ -225,7 +225,7 @@ var self = window.PrefixFree = {
 		// Fix double prefixing
 		css = css.replace(RegExp('-' + prefix, 'g'), '-');
 		
-		// Prefix wildcard
+		// comodín de prefijo
 		css = css.replace(/-\*-(?=[a-z]+)/gi, self.prefix);
 		
 		return css;
@@ -246,12 +246,12 @@ var self = window.PrefixFree = {
 		return value;
 	},
 	
-	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
+	// Advertencia: los prefijos no importa qué, incluso si el selector es compatible sin prefijo
 	prefixSelector: function(selector) {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	// Warning: Prefixes no matter what, even if the property is supported prefix-less
+	// Advertencia: los prefijos no importa qué, incluso si la propiedad es compatible sin prefijo
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -259,9 +259,9 @@ var self = window.PrefixFree = {
 	}
 };
 
-/**************************************
- * Properties
- **************************************/
+/ **************************************
+ * Propiedades
+ ************************************** /
 (function() {
 	var prefixes = {},
 		properties = [],
@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
+	¿Por qué hacemos esto en lugar de iterar sobre las propiedades de un objeto .style? Porque Webkit no va a iterar sobre ellos.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
@@ -277,10 +277,10 @@ var self = window.PrefixFree = {
 			var parts = property.split('-'),
 				prefix = parts[1];
 				
-			// Count prefix uses
+			// El prefijo count usa
 			prefixes[prefix] = ++prefixes[prefix] || 1;
 			
-			// This helps determining shorthands
+			Esto ayuda a determinar abreviaturas
 			while(parts.length > 3) {
 				parts.pop();
 				
@@ -348,10 +348,10 @@ var self = window.PrefixFree = {
 })();
 
 /**************************************
- * Values
- **************************************/
+ * Valores
+ ************************************** /
 (function() {
-// Values that might need prefixing
+// Valores que pueden necesitar prefijos
 var functions = {
 	'linear-gradient': {
 		property: 'backgroundImage',
@@ -377,8 +377,8 @@ functions['repeating-radial-gradient'] =
 functions['radial-gradient'] =
 functions['linear-gradient'];
 
-// Note: The properties assigned are just to *test* support. 
-// The keywords will be prefixed everywhere.
+// Nota: Las propiedades asignadas son solo para * probar * el soporte. 
+// Las palabras clave van a ser prefijadas en todas partes.
 var keywords = {
 	'initial': 'color',
 	'zoom-in': 'cursor',
@@ -480,15 +480,15 @@ for(var atrule in atrules) {
 
 root.removeChild(style);
 
-})();
+}) ();
 
-// Properties that accept properties as their value
+// Propiedades que aceptan propiedades como su valor
 self.valueProperties = [
 	'transition',
 	'transition-property'
 ]
 
-// Add class for current prefix
+// Agrega la clase para el prefijo actual
 root.className += ' ' + self.prefix;
 
 StyleFix.register(self.prefixCSS);
