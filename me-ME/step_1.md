@@ -20,7 +20,7 @@ U ovom projektu djeca će se upoznati sa linearnim i radijalnim gradijentima u C
 
 Za pisanje HTML-a i CSS-a online preporučujemo da koristite [trinket](https://trinket.io/). Ovaj projekat sadrži sljedeće trinkete:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* [Početak projekta 'Naljepnice!' -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 Za pisanje sopstvenog HTML-a i CSS-a, djeca takođe mogu da koriste ovaj prazan trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) ili da koriste ovaj trinket šablon [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
