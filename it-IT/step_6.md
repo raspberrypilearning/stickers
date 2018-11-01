@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Sfida: crea più adesivi
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Ora prova a creare più adesivi utilizzando diverse direzioni del gradiente, aggiungendo immagini e testo e modificando i bordi.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Suggerimento: dovrai aggiungere HTML e CSS per ciascun adesivo.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Puoi copiare e modificare uno dei tuoi esempi per creare un nuovo adesivo.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Il tuo progetto include un set di immagini di robot. Clicca sull'icona delle immagini per vedere le immagini disponibili.
 
 ![screenshot](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+Questo esempio utilizza un gradiente lineare con ` to right ` (a destra):
 
 ![screenshot](images/stickers-green-html.png)
 
