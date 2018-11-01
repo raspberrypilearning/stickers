@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## Adesivo de robô enfeitado
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+Você pode fazer um adesivo com gradiente usando uma imagem. Se você usar uma imagem com fundo transparente, o gradiente será exibido ao fundo.
 
-You can also create gradients to run in different directions.
+Você também pode criar gradientes para percorrer diferentes direções.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ Adicione um adesivo ao `index. html` usando a imagem `firerobot.png`:
     
     ![screenshot](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    Você pode ajustar a altura `height` para redimensionar a imagem, a largura mudará automaticamente.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ Normalmente, um gradiente linear começa seu percurso de cima para baixo, mas você pode usar `to` para mudar a direção. Por exemplo: `to top` (para o topo), `to left` (para a esquerda) ou `to right` (para a direita).
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    Para um gradiente diagonal, forneça duas direções. Este exemplo usa `to bottom left` (para o canto inferior esquerdo).
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    Adicione este estilo ao `Style. css` para dar a sua nova vinheta do robô, um gradiente diagonal e uma borda enfeitada:
     
     ![screenshot](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    Observe que você pode usar a `outline` (contorno) para criar outra borda do lado de fora da borda usual. `outline-offset` (espaçamento de contorno) cria uma lacuna entre a borda e o contorno.
 
-+ Let's add some text to this sticker.
++ Vamos adicionar um texto a este adesivo.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    Adicione um `<span>` contendo o texto "ROBÔS" ao` index.html ` e dê a ele um id.
     
     ![screenshot](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ O texto ficará melhor se você aumentá-lo e posicioná-lo.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    Para posicionar o texto, você precisará adicionar ` position: relative; ` para ` #firerobot` e `position: absolute` para ` #firetext `. Posicionamento é coberto com mais detalhes no projeto` Build a Robot `.
     
-    Add the following code to `style.css`:
+    Adicione o seguinte código ao ` style.css `:
     
     ![screenshot](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ E para um toque final, vamos girar o texto usando `transform: rotate` (transformação de rotação).
     
     ![screenshot](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    Tente alterar o número de graus que o texto é girado.
