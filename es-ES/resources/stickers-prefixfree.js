@@ -2,7 +2,7 @@
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
- */
+ * /
 
 (function(){
 
@@ -13,7 +13,7 @@ if(!window.addEventListener) {
 var self = window.StyleFix = {
 	link: function(link) {
 		try {
-			// Ignore stylesheets with data-noprefix attribute as well as alternate stylesheets
+			// Ignora las hojas de estilo con el atributo data-noprefix así como las hojas de estilo alternativas
 			if(link.rel !== 'stylesheet' || link.hasAttribute('data-noprefix')) {
 				return;
 			}
@@ -43,14 +43,14 @@ var self = window.StyleFix = {
 				if(css && link.parentNode && (!xhr.status || xhr.status < 400 || xhr.status > 600)) {
 					css = self.fix(css, true, link);
 					
-					// Convert relative URLs to absolute, if needed
+					// Convierte las URL relativas en absolutas, si es necesario
 					if(base) {
 						css = css.replace(/url\(\s*?((?:"|')?)(.+?)\1\s*?\)/gi, function($0, quote, url) {
 							if(/^([a-z]{3,10}:|#)/i.test(url)) { // Absolute & or hash-relative
 								return $0;
 							}
 							else if(/^\/\//.test(url)) { // Scheme-relative
-								// May contain sequences like /../ and /./ but those DO work
+								// Puede contener secuencias como /../ y /./ pero esas SI funcionan
 								return 'url("' + base_scheme + url + '")';
 							}
 							else if(/^\//.test(url)) { // Domain-relative
@@ -121,13 +121,13 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Linked stylesheets
+		// Hojas de estilos vinculadas
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		// Inline stylesheets
+		// Hojas de estilos en línea
 		$('style').forEach(StyleFix.styleElement);
 		
-		// Inline styles
+		// Estilos en línea
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -153,26 +153,26 @@ var self = window.StyleFix = {
 	}
 };
 
-/**************************************
- * Process styles
- **************************************/
+/ **************************************
+ * Procesa los estilos
+ ************************************** /
 (function(){
 	setTimeout(function(){
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
 	}, 10);
 	
 	document.addEventListener('DOMContentLoaded', StyleFix.process, false);
-})();
+}) ();
 
 function $(expr, con) {
 	return [].slice.call((con || document).querySelectorAll(expr));
 }
 
-})();
+}) ();
 
-/**
- * PrefixFree
- */
+/ **
+ * Sin prefijo
+ * /
 (function(root){
 
 if(!window.StyleFix || !window.getComputedStyle) {
@@ -251,7 +251,7 @@ var self = window.PrefixFree = {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	// Warning: Prefixes no matter what, even if the property is supported prefix-less
+	// Advertencia: prefijos siempre, incluso si la propiedad es compatible prefix-less
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -259,9 +259,9 @@ var self = window.PrefixFree = {
 	}
 };
 
-/**************************************
- * Properties
- **************************************/
+/ **************************************
+ * Propiedades
+ ************************************** /
 (function() {
 	var prefixes = {},
 		properties = [],
@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
+	// ¿Por qué hacemos esto en lugar de iterar sobre propiedades en un objeto .style? Porque Webkit no va a iterar sobre ellos.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
@@ -277,10 +277,10 @@ var self = window.PrefixFree = {
 			var parts = property.split('-'),
 				prefix = parts[1];
 				
-			// Count prefix uses
+			// El prefijo de cuenta usa
 			prefixes[prefix] = ++prefixes[prefix] || 1;
 			
-			// This helps determining shorthands
+			Esto ayuda a determinar las abreviaturas
 			while(parts.length > 3) {
 				parts.pop();
 				
@@ -296,7 +296,7 @@ var self = window.PrefixFree = {
 		return StyleFix.camelCase(property) in dummy;
 	}
 	
-	// Some browsers have numerical indices for the properties, some don't
+	// Algunos navegadores tienen índices numéricos para las propiedades, otros no
 	if(style.length > 0) {
 		for(var i=0; i<style.length; i++) {
 			iterate(style[i])
@@ -377,8 +377,8 @@ functions['repeating-radial-gradient'] =
 functions['radial-gradient'] =
 functions['linear-gradient'];
 
-// Note: The properties assigned are just to *test* support. 
-// The keywords will be prefixed everywhere.
+// Nota: Las propiedades asignadas son solo para * probar * el soporte. 
+// Las palabras clave van a estar prefijadas en todas partes.
 var keywords = {
 	'initial': 'color',
 	'zoom-in': 'cursor',
@@ -415,7 +415,7 @@ for (var func in functions) {
 	
 	if (!supported(value, property)
 	  && supported(self.prefix + value, property)) {
-		// It's supported, but with a prefix
+		// Es compatible, pero con un prefijo
 		self.functions.push(func);
 	}
 }
@@ -488,7 +488,7 @@ self.valueProperties = [
 	'transition-property'
 ]
 
-// Add class for current prefix
+// Agrega la clase para el prefijo actual
 root.className += ' ' + self.prefix;
 
 StyleFix.register(self.prefixCSS);
