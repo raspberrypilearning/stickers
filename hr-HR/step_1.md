@@ -20,7 +20,7 @@ U ovom projektu, djeca će se upoznati s linearnim i radijalnim gradijentima u C
 
 Preporučujemo upotrebu [triketa](https://trinket.io/) za pisanje HTML & CSS-a na mreži. Ovaj projekt sadrži sljedeće trikove:
 
-* [Polazna točka "izlaska sunca" - jumpto.cc/web-unrise](http://jumpto.cc/web-sunrise)
+* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 Djeca također mogu koristiti ovu praznu nakit [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) da napišu vlastiti HTML & CSS ili alternativno mogu koristiti ovaj predložak nakita [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
