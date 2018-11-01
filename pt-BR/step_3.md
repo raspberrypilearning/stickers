@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## Adesivo de HTML & CSS
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+Os gradientes também podem mudar de cor do centro para as bordas, isso é chamado de gradiente radial.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ Vamos criar um adesivo com o texto ` HTML & CSS. ` `&` é outro caractere que precisa ser codificado em HTML, o código é `&amp; `.
     
-    Add the highlighted code to create a new sticker:
+    Adicione o código destacado para criar um novo adesivo:
     
     ![screenshot](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ Agora mude para o seu arquivo ` style.css ` e adicione um estilo para o seu novo adesivo:
     
     ![screenshot](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    O código `text-shadow` (texto-sombra) adiciona uma sombra que se estende 2px abaixo e à direita do texto para torná-lo mais destacado.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ Agora para o gradiente. Desta vez vamos usar um gradiente radial. A cor mudará de amarelo no centro para laranja e depois vermelho.
     
     ![screenshot](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    Observe que os gradientes podem incluir várias cores, não apenas duas.
 
-+ The sticker will look much better with some padding and a rounded border.
++ O adesivo ficará muito melhor com algum espaçamento e borda arredondada.
     
-    Add the highlighted code:
+    Adicione o código destacado:
     
     ![screenshot](images/stickers-web-padding.png)
