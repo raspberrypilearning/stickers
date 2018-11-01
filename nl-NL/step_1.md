@@ -20,7 +20,7 @@ In dit project maken kinderen kennis met lineaire en radiale kleurverlopen in CS
 
 We raden aan [ trinket ](https://trinket.io/) te gebruiken om online HTML & CSS te scrhijven. Dit project bevat de volgende trinkets:
 
-* ['Sunrise' startpunt - jumpto.cc/web-sunrise](http://jumpto.cc/web-sunrise)
+* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 Kinderen kunnen ook gebruik maken van deze lege trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze sjabloon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) gebruiken.
 
