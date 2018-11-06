@@ -14,7 +14,7 @@ Se intendete stampare questo progetto, cliccate su [Versione stampabile](https:/
 
 ## Introduzione:
 
-In questo progetto, i bambini saranno introdotti ai gradienti lineari e radiali nei CSS. Impareranno anche di più sui bordi e il posizionamento.
+In questo progetto, i bambini apprenderanno l'uso dei gradienti lineari e radiali nei CSS. Impareranno anche di più sui confini e il posizionamento.
 
 ## Risorse online
 
