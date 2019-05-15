@@ -1,36 +1,36 @@
-## 前書き
+## はじめに
 
 このプロジェクトでは、Webページを飾るために使用できるたくさんの楽しいステッカーを作成します。 ある色から別の色に徐々に変化するグラデーションを使用して、ステッカーをすっきりと見せる方法について学習します。
 
 ![スクリーンショット](images/stickers-finished.png)
 
-### クラブ指導者のための追加情報
+### クラブリーダーのための追加情報
 
-あなたはこのプロジェクトを印刷する必要がある場合は、使用してください [プリンターに優しいバージョン](https://projects.raspberrypi.org/en/projects/stickers/print)。
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/stickers/print)を使用してください。
 
-## \---崩壊\---
+## \--- collapse \---
 
-## title：クラブリーダーノート
+## title：クラブリーダー・ノート
 
-## 前書き：
+## はじめに
 
 このプロジェクトでは、子供たちはCSSの線形および放射状のグラデーションに導入されます。彼らはまた、国境と位置付けについてもっと学びます。
 
-## オンラインリソース
+## オンライン・リソース
 
-HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を使用することをお勧めします。このプロジェクトには、次の小物が含まれています：
+オンラインでHTMLやCSSを書くため[小道具](https://trinket.io/)を使うことをおすすめします。このプロジェクトでは次の小道具が含まれています。
 
 * ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 子供はこの空白の小物 [（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) を使って独自のHTML & CSSを書くことができます。あるいは、このテンプレートtrinket [（jumpto.cc/html-template）](http://jumpto.cc/html-template)使用することもできます。
 
-挑戦のサンプルソリューションを含む小物もあります：
+また、チャレンジ(課題)に対しての回答例を含むtrinketもあります(以下参照)。
 
 * ['ステッカー'が完成しました - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## オフラインリソース
+## オフライン・リソース
 
-このプロジェクトは、することができます [オフライン完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) 好まます。 このプロジェクトの[プロジェクトマテリアル]リンクをクリックすると、プロジェクトリソースにアクセスできます。 このリンクには、「プロジェクトリソース」セクションがあります。このセクションには、このプロジェクトをオフラインで完了するために必要なリソースが含まれています。 各子供がこれらのリソースのコピーにアクセスできることを確認してください。 このセクションには、次のファイルが含まれています。
+このプロジェクトは[オフライン](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)で完成することが可能です。 “プロジェクト資料”のリンクをクリックすることでこのプロジェクトのリソースにアクセスすることが可能です。 リンクには”プロジェクト・リソース”の個所もあり、ここにプロジェクトをオフラインで完成させるために必要なリソースが含まれている。 各子供がこのリソースのコピーを持っていることを確認してください。 このセクションは下記ファイルを含む：
 
 * イントロ/ index.html
 * template / template.html
@@ -40,37 +40,37 @@ HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を
 * ステッカー/ script.js
 * ステッカー/ロボット.png画像
 
-このプロジェクトの課題の完成版は、次の内容を含む「ボランティアリソース」セクションでも見つけることができます。
+なお、プロジェクト課題の完成版をボランティア・リソースのセクションに含まれています。
 
 * ステッカーが完成/ index.html
 * ステッカーが完成/ style.css
 * ステッカーが完成/ script.js
 * ステッカー仕上げ/ロボット.png画像
 
-（上記のリソースはすべて、プロジェクトとしてダウンロード可能で、 `.zip` ファイルをボランティアします）。
+また、すべての上記のリソースはプロジェクトとボランティア`.zip` ファイルとしてダウンロードすることも可能。
 
 ## 学習目標
 
 * このプロジェクトでは、CSSグラデーションを使用して興味深い効果を作り出しています。学生はまた、CSSのボーダーとポジショニングの知識を広げます。 
 
-このプロジェクトでは、以下の要素を網羅しています [ラズベリーパイデジタルメイクカリキュラム](http://rpf.io/curriculum)：
+このプロジェクトは [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
 
 * [基本2Dおよび3Dアセットを設計する](https://www.raspberrypi.org/curriculum/design/creator)。
 
-## 課題
+## チャレンジ
 
 * 「独自のグラデーションステッカーを作成する」 - テキストに線形および放射状のグラデーションを追加する。
 * "もっとステッカーを作る！" - グラデーションを画像やテキストと組み合わせて、より多くのステッカーを作成します。
 
-\--- /崩壊\---
+\--- /collapse \---
 
-## \---崩壊\---
+## \--- collapse \---
 
-## title：プロジェクト資料
+## title: プロジェクト資料
 
-## プロジェクトリソース
+## プロジェクト資料
 
-* [すべてのプロジェクトリソースを含む.zipファイル](resources/stickers-project-resources.zip)
+* [全プロジェクト・リソースの入った.zipファイル](resources/stickers-project-resources.zip)
 * [すべての「イントロ」プロジェクトリソースを含むオンライントレンケ](http://jumpto.cc/web-intro)
 * [すべての「ステッカー」プロジェクトリソースを含むオンライントーケンケット](http://jumpto.cc/web-stickers)
 * [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
@@ -89,10 +89,10 @@ HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を
 * [ステッカー/ rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [ステッカー/ yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## クラブリーダーのリソース
+## クラブ・リーダー向けリソース
 
-* [完了したすべてのプロジェクトリソースを含む.zipファイル](resources/stickers-volunteer-resources.zip)
-* [オンラインで完成したTrinketプロジェクト](https://trinket.io/html/bb4e538e0a)
+* [全プロジェクトの完成版リソースの入った.zipファイル](resources/stickers-volunteer-resources.zip)
+* [完成版プロジェクトのオンラインtrinket](https://trinket.io/html/bb4e538e0a)
 * [ステッカーが完成/ index.html](resources/stickers-finished-index.html)
 * [ステッカーが完成/ style.css](resources/stickers-finished-style.css)
 * [stickers-finished / prefixfree.js](resources/stickers-finished-prefixfree.js)
@@ -105,4 +105,4 @@ HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を
 * [ステッカーが完成/ rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
 * [stickers-finished / yellowrobot.png](resources/stickers-finished-yellowrobot.png)
 
-\--- /崩壊\---
+\--- /collapse \---
