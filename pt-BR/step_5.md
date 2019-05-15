@@ -1,4 +1,4 @@
-## Adesivo de robô enfeitado
+## Fancy robot sticker
 
 Você pode fazer um adesivo com gradiente usando uma imagem. Se você usar uma imagem com fundo transparente, o gradiente será exibido ao fundo.
 
@@ -36,6 +36,6 @@ Você também pode criar gradientes para percorrer diferentes direções.
 
 + E para um toque final, vamos girar o texto usando `transform: rotate` (transformação de rotação).
     
-    ![screenshot](images/stickers-fire-rotate.png)
+    ![captura](images/stickers-fire-rotate.png)
     
     Tente alterar o número de graus que o texto é girado.
