@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafio \---
 
-## Desafio: faça mais adesivos
+## Challenge: Make more stickers
 
 Agora tente criar mais adesivos usando diferentes direções de gradiente e adicionando imagens e texto e usando bordas e contornos.
 
