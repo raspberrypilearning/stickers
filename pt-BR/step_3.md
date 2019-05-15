@@ -6,17 +6,17 @@ Os gradientes também podem mudar de cor do centro para as bordas, isso é chama
     
     Adicione o código destacado para criar um novo adesivo:
     
-    ![screenshot](images/stickers-web-html.png)
+    ![captura de tela](images/stickers-web-html.png)
 
 + Agora mude para o seu arquivo ` style.css ` e adicione um estilo para o seu novo adesivo:
     
-    ![screenshot](images/stickers-web-font.png)
+    ![captura de tela](images/stickers-web-font.png)
     
     O código `text-shadow` (texto-sombra) adiciona uma sombra que se estende 2px abaixo e à direita do texto para torná-lo mais destacado.
 
 + Agora para o gradiente. Desta vez vamos usar um gradiente radial. A cor mudará de amarelo no centro para laranja e depois vermelho.
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![captura de tela](images/stickers-web-gradient.png)
     
     Observe que os gradientes podem incluir várias cores, não apenas duas.
 
