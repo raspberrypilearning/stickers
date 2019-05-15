@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafío \---
 
-## Desafío: haz más pegatinas
+## Degradados diagonales
 
 Ahora intenta hacer más pegatinas usando diferentes direcciones de degradado, agregando imágenes y texto y utilizando bordes y contornos.
 
