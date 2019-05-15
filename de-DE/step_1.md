@@ -1,36 +1,36 @@
-## Introduction
+## Einleitung
 
 In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
 
-![screenshot](images/stickers-finished.png)
+![Screenshot](images/stickers-finished.png)
 
-### Additional information for club leaders
+### Zusätzliche Information für Clubleiter
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/stickers/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Anmerkungen für Clubleiter
 
-## Introduction:
+## Einleitung:
 
 In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
 
-## Online Resources
+## Online-Ressourcen
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um online HTML & CSS schreiben zu können. Dieses Projekt enthält folgende Trinkets:
 
 * ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
 * ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Offline Resources
+## Offline-Ressourcen
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stelle sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
 * intro/index.html
 * template/template.html
@@ -40,24 +40,24 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * stickers/script.js
 * stickers/robot .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
 * stickers-finished/index.html
 * stickers-finished/style.css
 * stickers-finished/script.js
 * stickers-finished/robot .png images
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
 
-## Learning Objectives
+## Lernziele
 
 * This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Herausforderungen
 
 * "Create your own gradient sticker" - adding linear and radial gradients to text;
 * "Make more stickers!" - Combine gradients with images and text to create more stickers.
@@ -66,15 +66,15 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projektmaterial
 
-## Project resources
+## Projektressourcen
 
-* [.zip file containing all project resources](resources/stickers-project-resources.zip)
+* [.zip-Datei mit allen Projektressourcen](resources/stickers-project-resources.zip)
 * [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
 * [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
+* [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -89,10 +89,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Club leader resources
+## Ressourcen für Clubleiter
 
-* [.zip file containing all completed project resources](resources/stickers-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/stickers-volunteer-resources.zip)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
