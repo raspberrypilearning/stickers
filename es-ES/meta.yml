@@ -1,5 +1,5 @@
 ---
-Title: '¡Pegatinas!'
+Title: Stickers
 hero_image: images/stickers.png
 theme: orange
 duration: 2
@@ -7,12 +7,12 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: '¡Pegatinas!'
+title: Stickers!
 description: Crea pegatinas divertidas de robots para decorar tus páginas web.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: arte
 technologies: html-css-javascript
-site_areas: proyectos
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -25,8 +25,8 @@ steps:
   - 
     title: Crea una pegatina con degradado radial
   - 
-    title: 'Crea una pegatina con degradado que contenga una imagen'
+    title: 'Desafío: crea tu propia etiqueta con degradado'
   - 
-    title: 'Degradados horizontales'
+    title: 'Pegatina lujosa de un robot '
   - 
-    title: 'Degradados diagonales'
+    title: 'Desafío: haz más pegatinas'
