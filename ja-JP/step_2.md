@@ -2,9 +2,9 @@
 
 グラデーションは、ある色から別の色へと徐々に変化します。グラデーションはクールなエフェクトを作成するために使用できます。あなたはあなたのウェブページで使用できるステッカーを作成するためにそれらを使用するつもりです。
 
-+ この小物を開きます： <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>。
++ Trinketをひらく: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    プロジェクトは次のようになります。
+    プロジェクトはこのようになります。
     
     ![スクリーンショット](images/stickers-starter.png)
 
