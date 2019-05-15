@@ -16,12 +16,12 @@ Los degradados también pueden cambiar de color desde el centro hacia los bordes
 
 + Ahora el gradiente. Esta vez vamos a usar un degradado radial. El color cambiará de amarillo en el centro a naranja y luego a rojo.
     
-    ![captura de pantalla](images/stickers-web-gradient.png)
+    ![screenshot](images/stickers-web-gradient.png)
     
     Ten en cuenta que los gradientes pueden incluir varios colores, no solo dos.
 
 + La pegatina se verá mucho mejor con un poco de espacio y un borde redondeado.
     
-    Agrega el código resaltado:
+    Agregua el código resaltado:
     
     ![captura de pantalla](images/stickers-web-padding.png)
