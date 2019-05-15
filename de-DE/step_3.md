@@ -6,7 +6,7 @@ Gradients can also change colour from the centre out towards the edges, this is 
     
     Add the highlighted code to create a new sticker:
     
-    ![screenshot](images/stickers-web-html.png)
+    ![Screenshot](images/stickers-web-html.png)
 
 + Now switch to your `style.css` file and add a style for your new sticker:
     
@@ -16,12 +16,12 @@ Gradients can also change colour from the centre out towards the edges, this is 
 
 + Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![Screenshot](images/stickers-web-gradient.png)
     
     Notice that gradients can include multiple colours, not just two.
 
 + The sticker will look much better with some padding and a rounded border.
     
-    Add the highlighted code:
+    Füge den markierten Code hinzu:
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![Screenshot](images/stickers-web-padding.png)
