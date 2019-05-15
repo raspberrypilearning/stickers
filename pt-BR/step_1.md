@@ -6,31 +6,31 @@ Neste projeto, você criará muitos adesivos divertidos que você poderá usar p
 
 ### Informação adicional para líderes de clubes
 
-Se você precisar imprimir esse projeto, por favor usar[ a versão para impressão](https://projects.raspberrypi.org/en/projects/stickers/print).
+Se você precisar imprimir este projeto, use a [Versão para Impressão](https://projects.raspberrypi.org/en/projects/stickers/print).
 
 ## \--- collapse \---
 
-## title: Notas dos líderes dos clubes
+## title: Notas do líder do clube
 
 ## Introdução:
 
 Neste projeto, as crianças serão apresentadas aos gradientes lineares e radiais em CSS. Eles também aprenderão mais sobre bordas e posicionamento.
 
-## Recursos online
+## Recursos Online
 
 Recomendamos usar o[ trinket ](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
 * ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças também podem fazer uso deste trinket em branco [ (jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este template trinket [ (jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Há também um Trinket contendo um exemplo de solução para os desafios:
 
 * ['Stickers' (adesivos) Concluído - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Recursos offline
+## Recursos Offline
 
-Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 * intro/index.html
 * template/template.html
@@ -49,7 +49,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 (Todos os recursos acima também podem ser baixados como arquivos de projeto e de voluntário no formato `.zip`.)
 
-## Objetivos do aprendizado
+## Objetivos de aprendizado
 
 * Este projeto introduz o uso de gradientes CSS para criar alguns efeitos interessantes. Os alunos também ampliarão seus conhecimentos sobre bordas e posicionamento de CSS. 
 
@@ -64,17 +64,17 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \--- colapso \---
 
-## title: Materiais do Projeto
+## Título: Materiais do projeto
 
-## Recursos do Projeto
+## Recursos do projeto
 
 * [arquivo.zip contendo todos os recursos do projeto](resources/stickers-project-resources.zip)
 * [Trinket Online contendo todos os recursos do projeto 'Intro'](http://jumpto.cc/web-intro)
 * [Trinket Online contendo todos os recursos do projeto 'Stickers'](http://jumpto.cc/web-stickers)
-* [Tema padrão Trinket online](http://jumpto.cc/trinket-template)
-* [Tema em branco Trinket online](http://jumpto.cc/trinket-blank)
+* [Template Online Trinket](http://jumpto.cc/trinket-template)
+* [Trinket online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -89,9 +89,9 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Recursos para líderes de clube
+## Recursos do líder do clube
 
-* [Arquivo.zip contendo todos os recursos do projeto concluído](resources/stickers-volunteer-resources.zip)
+* [arquivo .zip contém todos os recursos do projeto](resources/stickers-volunteer-resources.zip)
 * [Projeto Trinket online e completo](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
