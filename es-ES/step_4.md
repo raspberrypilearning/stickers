@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafío \---
 
-## Desafío: crea tu propia etiqueta con degradado
+## Crea una pegatina con degradado que contenga una imagen
 
 Ahora haz tu propia etiqueta con degradado. Prueba los degradados lineales y radiales utilizando múltiples colores HTML.
 
