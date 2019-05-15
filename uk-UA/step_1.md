@@ -2,15 +2,15 @@
 
 В цьому проекті, ви будете створювати багато веселих наклейок, які можна використовувати, щоб прикрасити веб-сторінки. Ви дізнаєтеся про використання градієнтів, які поступово змінюються від одного кольору до іншого, щоб ваші наклейки виглядали круто.
 
-![знімок екрану](images/stickers-finished.png)
+![screenshot](images/stickers-finished.png)
 
-### Додаткова інформація для лідерів клубу
+### Додаткова інформація для керівників гуртка
 
-Якщо вам потрібно роздрукувати цей проект, будь ласка, скористайтеся <версією для друку>.
+Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/en/projects/stickers/print).
 
 ## \--- collapse \---
 
-## Нотатки керівника гуртка
+## title: Нотатки керівника гуртка
 
 ## Вступ:
 
@@ -18,19 +18,19 @@
 
 ## Онлайн Ресурси
 
-Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб написати HTML & CSS онлайн. Цей проект містить такі трінкети:
+Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб написати HTML & CSS онлайн. Цей проект містить такі trinkets:
 
 * ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 Діти також можуть скористатися цим пустим бланком [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб написати свій власний HTML & CSS, або вони можуть по черзі використовувати цей шаблон [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Існує також trinket, що містить вибіркове рішення для вирішення проблем:
+Є також trinket, що містить зразки вирішення \---challenges\---:
 
 * [Готові "Стікери" -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
 ## Офлайн Ресурси
 
-Цей проект може бути [завершений офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо потрібно. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси Проекту", який включає в себе ресурси, що будуть потрібні дітям, аби завершити проект офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
+Цей проект може бути [ завершено оффлайн ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо це є бажаним. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси Проекту", який включає в себе ресурси, що будуть потрібні дітям, аби завершити проект офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
 
 * intro/index.html
 * template/template.html
@@ -49,31 +49,31 @@
 
 (Всі з вищевказаних ресурсів можна завантажувати як проекти і волонтерські файли `.zip`.)
 
-## Мета навчання
+## Цілі навчання
 
 * Цей проект передбачає використання градієнтів CSS для створення цікавих ефектів. Студенти також розширюють свої знання про межі CSS та позиціювання. 
 
 Цей проект охоплює елементи з наступними стандартами [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Розробка основних 2D та 3D активів](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Завдання
 
 * "Створення власної градієнтної наклейки" - додавання лінійних та радіальних градієнтів до тексту;
 * "Зробіть більше наклейок!" - Об'єднайте градієнти з зображеннями та текстом, щоб створити більше наклейок.
 
-\--- /collapse \---
+\---collapse\---
 
-## \--- collapse \---
+## \---collapse\---
 
-## матеріали проекту
+## title: Матеріали проекту
 
-## Ресурси проекту
+## Проектні ресурси
 
-* [.zip-файл, що містить всі ресурси проекту](resources/stickers-project-resources.zip)
+* [.zip file, що містить всі ресурси проекту](resources/stickers-project-resources.zip)
 * [Online Trinket містить всі проектні ресурси](http://jumpto.cc/web-intro)
 * [Online Trinket містить всі проектні ресурси наклейок](http://jumpto.cc/web-stickers)
-* [Онлайн шаблон Trinket](http://jumpto.cc/trinket-template)
+* [Шаблон Online Trinket](http://jumpto.cc/trinket-template)
 * [Пустий Online Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
@@ -89,10 +89,10 @@
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Ресурси лідера клубу
+## Ресурси лідерів клубу
 
-* [.zip файли, що містять всі проектні ресурси](resources/stickers-volunteer-resources.zip)
-* [Онлайн завершений проект Trinket](https://trinket.io/html/bb4e538e0a)
+* [.zip файл, що містить всі проектні ресурси](resources/stickers-volunteer-resources.zip)
+* [Завершений Trinket проект онлайн](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
@@ -105,4 +105,4 @@
 * [stickers-finished/rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
 * [stickers-finished/yellowrobot.png](resources/stickers-finished-yellowrobot.png)
 
-\--- /collapse \---
+-- /collapse \---
