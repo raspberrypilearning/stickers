@@ -36,6 +36,6 @@ También puedes crear degradados que van en diferentes direcciones.
 
 + Y para el detalle final, giremos el texto usando `transform: rotate`.
     
-    ![captura de pantalla](images/stickers-fire-rotate.png)
+    ![screenshot](images/stickers-fire-rotate.png)
     
     Intenta cambiar el número de grados en que se gira el texto.
