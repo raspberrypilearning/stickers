@@ -6,7 +6,7 @@ You can also create gradients to run in different directions.
 
 + Add a sticker to `index.html` using the `firerobot.png` image:
     
-    ![screenshot](images/stickers-fire-html.png)
+    ![Screenshot](images/stickers-fire-html.png)
     
     You can adjust the `height` to resize the image, the width will change automatically.
 
@@ -16,7 +16,7 @@ You can also create gradients to run in different directions.
     
     Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
     
-    ![screenshot](images/stickers-fire-gradient.png)
+    ![Screenshot](images/stickers-fire-gradient.png)
     
     Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
 
@@ -24,7 +24,7 @@ You can also create gradients to run in different directions.
     
     Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
     
-    ![screenshot](images/stickers-fire-span.png)
+    ![Screenshot](images/stickers-fire-span.png)
 
 + The text will look better if you make it bigger and position it.
     
@@ -32,7 +32,7 @@ You can also create gradients to run in different directions.
     
     Add the following code to `style.css`:
     
-    ![screenshot](images/stickers-fire-text-style.png)
+    ![Screenshot](images/stickers-fire-text-style.png)
 
 + And for a final twist, let's rotate the text using `transform: rotate`.
     
