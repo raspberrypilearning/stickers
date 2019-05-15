@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- завдання \---
 
 ## Завдання: зробіть більше наклейок
 
@@ -10,12 +10,12 @@
 
 Ваш проект вже включає в себе набір зображень роботів. Натисніть на значок зображення, щоб побачити доступні зображення.
 
-![знімок екрану](images/stickers-images.png)
+![скріншот](images/stickers-images.png)
 
 У цьому прикладі використовується лінійний градієнт ` праворуч ` :
 
-![знімок екрану](images/stickers-green-html.png)
+![Знімок екрану](images/stickers-green-html.png)
 
-![знімок екрану](images/stickers-green-style.png)
+![скріншот](images/stickers-green-style.png)
 
 \--- /challenge \---
