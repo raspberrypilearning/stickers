@@ -1,12 +1,12 @@
-## Colourful coding sticker
+## Crear una pegatina con degradado lineal
 
 A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ Abre este Trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    The project should look like this:
+    El proyecto debería parecerse a esto:
     
-    ![screenshot](images/stickers-starter.png)
+    ![captura de pantalla](images/stickers-starter.png)
 
 + Hagamos un codín 'I <3g' sticker.
     
@@ -38,7 +38,7 @@ A gradient is a gradual change from one colour to another. Gradients can be used
 
 + Puede mejorar el resultado agregando espacio alrededor y esquinas redondeadas.
     
-    Agregua el código resaltado:
+    Agrega el código resaltado:
     
     ![captura de pantalla](images/stickers-coding-padding.png)
     
