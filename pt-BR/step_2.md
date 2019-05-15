@@ -1,4 +1,4 @@
-## Adesivo colorido sobre Programação
+## Colourful coding sticker
 
 Um gradiente é uma mudança gradual de uma cor para outra. Os gradientes podem ser usados ​​para criar efeitos interessantes. Você vai usá-los para criar adesivos que pode usar em suas páginas web.
 
@@ -6,7 +6,7 @@ Um gradiente é uma mudança gradual de uma cor para outra. Os gradientes podem 
     
     O projeto deve ficar assim:
     
-    ![screenshot](images/stickers-starter.png)
+    ![captura de tela](images/stickers-starter.png)
 
 + Vamos fazer um adesivo 'Eu <3 Programação!' g' sticker.
     
@@ -40,6 +40,6 @@ Um gradiente é uma mudança gradual de uma cor para outra. Os gradientes podem 
     
     Adicione o código destacado:
     
-    ![screenshot](images/stickers-coding-padding.png)
+    ![capturas de tela](images/stickers-coding-padding.png)
     
     O estilo `padding` adiciona o preenchimento de 50px na parte superior e inferior e 30px à esquerda e à direita.
