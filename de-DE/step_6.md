@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Aufgabe: Noch mehr Aufkleber erstellen
 
 Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
 
@@ -10,12 +10,12 @@ You can copy and edit one of your examples and make changes to create a new stic
 
 Your project already includes a set of robot images. Click on the images icon to see the available images.
 
-![screenshot](images/stickers-images.png)
+![Screenshot](images/stickers-images.png)
 
 This example uses a linear gradient with `to right`:
 
-![screenshot](images/stickers-green-html.png)
+![Screenshot](images/stickers-green-html.png)
 
-![screenshot](images/stickers-green-style.png)
+![Screenshot](images/stickers-green-style.png)
 
 \--- /challenge \---
