@@ -1,7 +1,7 @@
 ---
 Title: Naljepnice
-hero_image: slike / stickers.png
-theme: narančasta
+hero_image: images/stickers.png
+theme: naranča
 duration: 2
 listed: true
 ingredient: false
@@ -12,14 +12,14 @@ description: Izradite naljepnice za zabavne robote kako biste ukrasili svoje web
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projekti
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Sretan rođendan
   - 
     title: Naljepnica sa šarenim kodiranjem
   - 
