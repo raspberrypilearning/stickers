@@ -6,7 +6,7 @@ Također možete stvoriti gradijente za pokretanje u različitim smjerovima.
 
 + Dodaj naljepnicu na `index.html` pomoću slike `firerobot.png`:
     
-    ![zaslona](images/stickers-fire-html.png)
+    ![screenshot](images/stickers-fire-html.png)
     
     Možete podesiti `visinu` da biste promijenili veličinu slike, širina će se automatski promijeniti.
 
@@ -16,7 +16,7 @@ Također možete stvoriti gradijente za pokretanje u različitim smjerovima.
     
     Dodajte ovaj stil u `style.css` da biste novu robotsku naljepnicu dijagonalni gradijent i lijepu granicu:
     
-    ![zaslona](images/stickers-fire-gradient.png)
+    ![screenshot](images/stickers-fire-gradient.png)
     
     Napominjemo da možete upotrijebiti `obris` da biste izradili drugi granični okvir izvan uobičajenog. `obrisni offset` daje prazninu između obruba i obrisa.
 
@@ -24,7 +24,7 @@ Također možete stvoriti gradijente za pokretanje u različitim smjerovima.
     
     Dodaj `<span>` koji sadrži tekst "ROBOTS" na `index.html` i dajte joj id.
     
-    ![zaslona](images/stickers-fire-span.png)
+    ![screenshot](images/stickers-fire-span.png)
 
 + Tekst će izgledati bolje ako ga povećate i položite ga.
     
@@ -32,10 +32,10 @@ Također možete stvoriti gradijente za pokretanje u različitim smjerovima.
     
     Dodajte sljedeći kod `style.css`:
     
-    ![zaslona](images/stickers-fire-text-style.png)
+    ![screenshot](images/stickers-fire-text-style.png)
 
 + A za konačni uvijar, zakrenite tekst pomoću `transformacije: zakreni`.
     
-    ![zaslona](images/stickers-fire-rotate.png)
+    ![screenshot](images/stickers-fire-rotate.png)
     
     Pokušajte promijeniti broj stupnjeva koje je tekst rotiran.
