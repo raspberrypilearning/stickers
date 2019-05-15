@@ -1,4 +1,4 @@
-\--- izazov \---
+\--- challenge \---
 
 ## Izazov: Napravite više naljepnica
 
@@ -10,12 +10,12 @@ Možete kopirati i urediti jedan od primjera i napraviti izmjene kako biste stvo
 
 Vaš projekt već uključuje skup robota. Kliknite ikonu slika da biste vidjeli dostupne slike.
 
-![zaslona](images/stickers-images.png)
+![screenshot](images/stickers-images.png)
 
 Ovaj primjer koristi linearni gradijent s `na desno`:
 
-![zaslona](images/stickers-green-html.png)
+![screenshot](images/stickers-green-html.png)
 
-![zaslona](images/stickers-green-style.png)
+![screenshot](images/stickers-green-style.png)
 
-\--- / izazov \---
+\--- /challenge \---
