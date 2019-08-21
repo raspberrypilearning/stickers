@@ -1,36 +1,36 @@
 ## Εισαγωγή
 
-In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
+Σε αυτό το έργο, θα δημιουργήσεις πολλά διασκεδαστικά αυτοκόλλητα που μπορείς να χρησιμοποιήσεις για να διακοσμήσεις ιστοσελίδες. Θα μάθεις να χρησιμοποιείς διαβαθμίσεις που αλλάζουν σταδιακά από το ένα χρώμα στο άλλο για να κάνεις τα αυτοκόλλητα σου εντυπωσιακά.
 
 ![screenshot](images/stickers-finished.png)
 
-### Additional information for club leaders
+### Πρόσθετες πληροφορίες για τους αρχηγούς των ομάδων
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/stickers/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Σημειώσεις συντονιστή ομάδας
 
 ## Εισαγωγή:
 
-In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
+Σε αυτό το πρόγραμμα, τα παιδιά θα εισαχθούν σε γραμμικές και ακτινωτές διαβαθμίσεις (gradients) στο CSS. Θα μάθουν επίσης περισσότερα για τα όρια και την τοποθέτηση.
 
 ## Online Πόροι
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Συνιστούμε να χρησιμοποιήσετε την εφαρμογή [trinket](https://trinket.io/) για να γράψετε HTML & CSS online. Το έργο αυτό περιλαμβάνει τα ακόλουθα trinkets:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* ['Αυτοκόλλητα' αρχικό στάδιο -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Τα παιδιά μπορούν επίσης να χρησιμοποιήσουν αυτό το κενό trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) για να γράψουν το δικό τους HTML & CSS κώδικα, ή εναλλακτικά αυτό το trinket πρότυπο [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Υπάρχει επίσης ένα trinket που περιέχει μια υποδειγματική λύση στις προκλήσεις:
 
-* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* ['Αυτοκόλλητα' Ολοκληρωμένο -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Offline Πόροι
+## Offline (εκτός σύνδεσης διαδικτύου) Πόροι
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Αυτό το έργο μπορεί να [ολοκληρωθεί χωρίς σύνδεση](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), αν προτιμάς. Μπορείς να αποκτήσεις πρόσβαση στους πόρους του έργου κάνοντας κλικ στον σύνδεσμο 'Υλικό έργου'. Αυτός ο σύνδεσμος περιέχει μια ενότητα 'Πόροι έργου', η οποία περιλαμβάνει πόρους που τα παιδιά θα χρειαστούν για να ολοκληρώσουν αυτό το έργο εκτός σύνδεσης. Βεβαιωθείτε ότι κάθε παιδί έχει πρόσβαση σε ένα αντίγραφο αυτών των πόρων. Αυτή η ενότητα περιλαμβάνει τα ακόλουθα αρχεία:
 
 * intro/index.html
 * template/template.html
@@ -40,41 +40,41 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * stickers/script.js
 * stickers/robot .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Μπορείτε επίσης να βρείτε μια ολοκληρωμένη έκδοση των προκλήσεων αυτού του έργου στην ενότητα 'Πόροι εθελοντών', η οποία περιέχει:
 
 * stickers-finished/index.html
 * stickers-finished/style.css
 * stickers-finished/script.js
 * stickers-finished/robot .png images
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Όλοι οι παραπάνω πόροι μπορούν επίσης να μεταφορτωθούν ως συμπιεσμένα `.zip` αρχεία.)
 
 ## Στόχοι μάθησης
 
-* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
+* Αυτό το έργο εισάγει τη χρήση των διαβαθμίσεων CSS για τη δημιουργία ενδιαφέροντων αποτελεσμάτων. Οι μαθητές θα επεκτείνουν επίσης τις γνώσεις τους σχετικά με τα όρια CSS και την τοποθέτηση. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Αυτό το έργο περιλαμβάνει στοιχεία από τα παρακάτω μαθήματα του [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Προκλήσεις
 
-* "Create your own gradient sticker" - adding linear and radial gradients to text;
-* "Make more stickers!" - Combine gradients with images and text to create more stickers.
+* "Δημιούργησε το δικό σου διαβαθμισμένο αυτοκόλλητο" - προσθέτοντας γραμμικές και ακτινωτές διαβαθμίσεις στο κείμενο.
+* "Κάνε περισσότερα αυτοκόλλητα!" - Συνδύασε διαβαθμίσεις με εικόνες και κείμενο για να δημιουργήσεις περισσότερα αυτοκόλλητα.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Υλικό έργου
 
 ## Πόροι έργου
 
-* [.zip file containing all project resources](resources/stickers-project-resources.zip)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/stickers-project-resources.zip)
+* [Online Trinket που περιέχει όλους τους πόρους του έργου 'Εισαγωγή'](http://jumpto.cc/web-intro)
+* [Online Trinket που περιέχει όλους τους πόρους του έργου 'Αυτοκόλλητα'](http://jumpto.cc/web-stickers)
+* [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
+* [Online κενό Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -91,8 +91,8 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Πόροι συντονιστή ομάδας
 
-* [.zip file containing all completed project resources](resources/stickers-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/stickers-volunteer-resources.zip)
+* [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
