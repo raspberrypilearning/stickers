@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own gradient sticker
+## Πρόκληση: Δημιούργησε το δικό σου διαβαθμισμένο αυτοκόλλητο
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
+Τώρα δημιούργησε το δικό σου διαβαθμισμένο αυτοκόλλητο. Δοκίμασε γραμμικές και ακτινωτές διαβαθμίσεις χρησιμοποιώντας πολλά χρώματα HTML.
 
-You'll need to:
+Θα χρειαστεί:
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
++ Να προσθέσεις ένα `<div>` με το κείμενο του αυτοκόλλητου στο `index.html` και να του δώσεις την κλάση του `αυτοκόλλητου` και μια νέα `ταυτότητα`.
++ Πρόσθεσε μορφοποίηση για την `ταυτότητα` που επέλεξες στο `style.css` . Θα μπορούσες να αντιγράψεις μια από τις μορφοποιήσεις αυτοκόλλητων που έχεις ήδη δημιουργήσει και να τις επεξεργαστείς. 
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Υπάρχει μια λίστα με όλα τα ονόματα των χρωμάτων που μπορείς να χρησιμοποιήσεις: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), η οποία περιλαμβάνει ονόματα όπως `tomato`, `firebrick` και `peachpuff`.
 
-If you want to change the text colour you can use `color:`.
+Αν θέλεις να αλλάξεις το χρώμα κειμένου, μπορείς να χρησιμοποιήσεις το `color:`.
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+Ακολουθεί ένα παράδειγμα του τι που μπορείς να κάνεις με πολλά χρώματα σε γραμμική διαβάθμιση:
 
 ![screenshot](images/stickers-save-robots.png)
 
