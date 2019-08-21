@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Πρόκληση: Φτιάξε περισσότερα αυτοκόλλητα
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Τώρα δοκίμασε να δημιουργήσεις περισσότερα αυτοκόλλητα χρησιμοποιώντας διαφορετικές κατευθύνσεις διαβαθμίσεων και προσθέτοντας εικόνες και κείμενο και χρησιμοποιώντας όρια και περιγράμματα.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Συμβουλή: Θα χρειαστεί να προσθέσεις HTML και CSS για κάθε αυτοκόλλητο.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Μπορείς να αντιγράψεις και να επεξεργαστείς ένα από τα παραδείγματα σου και να κάνεις αλλαγές για να δημιουργήσεις ένα νέο αυτοκόλλητο.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Το έργο σου περιλαμβάνει ήδη ένα σύνολο από εικόνες ρομπότ. Κάνε κλικ στο εικονίδιο εικόνων για να δεις τις διαθέσιμες εικόνες.
 
 ![screenshot](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+Αυτό το παράδειγμα χρησιμοποιεί γραμμική διαβάθμιση με `προς τα δεξιά`:
 
 ![screenshot](images/stickers-green-html.png)
 
