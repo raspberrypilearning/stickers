@@ -1,20 +1,20 @@
 \--- challenge \---
 
-## Challenge: Create your own gradient sticker
+## Défi : Crée ton propre autocollant dégradé
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
+Maintenant, crée ton propre autocollant dégradé. Essaie des dégradés linéaires et radiaux en utilisant plusieurs couleurs HTML.
 
-You'll need to:
+Tu auras besoin de:
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
++ Ajoute un `<div>` avec ton texte d'autocollant à `index.html ` et donner lui la classe `sticker` et un nouvel `id`.
++ Ajoute un style pour l'`id` que tu choisi dans `style.css`. Tu peux copier l'un des styles d'autocollant que tu as déjà créé et modifie le. 
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Tu peux utiliser une liste de tous les noms de couleurs que tu peux utiliser: [jumpto.cc/web-colours](http://jumpto.cc/web-colours) , qui inclut des noms de couleur tels que `tomato` , `firebrick` et `peachpuff` .
 
-If you want to change the text colour you can use `color:`.
+Si tu veux changer la couleur du texte, tu peux utiliser `color:` .
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+Voici un exemple de ce que tu peux faire avec plusieurs couleurs dans un dégradé linéaire:
 
-![screenshot](images/stickers-save-robots.png)
+![capture d'écran](images/stickers-save-robots.png)
 
 \--- /challenge \---
