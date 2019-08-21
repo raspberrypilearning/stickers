@@ -13,7 +13,7 @@ if(!window.addEventListener) {
 var self = window.StyleFix = {
 	link: function(link) {
 		try {
-			// Ignora las hojas de estilo con el atributo data-noprefix así como las hojas de estilo alternativas
+			// Ignore stylesheets with data-noprefix attribute as well as alternate stylesheets
 			if(link.rel !== 'stylesheet' || link.hasAttribute('data-noprefix')) {
 				return;
 			}
@@ -43,14 +43,14 @@ var self = window.StyleFix = {
 				if(css && link.parentNode && (!xhr.status || xhr.status < 400 || xhr.status > 600)) {
 					css = self.fix(css, true, link);
 					
-					// Convierte las URL relativas en absolutas, si es necesario
+					// Convert relative URLs to absolute, if needed
 					if(base) {
 						css = css.replace(/url\(\s*?((?:"|')?)(.+?)\1\s*?\)/gi, function($0, quote, url) {
 							if(/^([a-z]{3,10}:|#)/i.test(url)) { // Absolute & or hash-relative
 								return $0;
 							}
 							else if(/^\/\//.test(url)) { // Scheme-relative
-								// Puede contener secuencias como /../ y /./ pero esas SI funcionan
+								// May contain sequences like /../ and /./ but those DO work
 								return 'url("' + base_scheme + url + '")';
 							}
 							else if(/^\//.test(url)) { // Domain-relative
@@ -60,13 +60,13 @@ var self = window.StyleFix = {
 								return 'url("' + base_query + url + '")';
 							}
 							else {
-								// Path-relative
+								// Ruta-relativa
 								return 'url("' + base + url + '")';
 							}
 						});
 
-						// behavior URLs shoudn’t be converted (Issue #19)
-						// base should be escaped before added to RegExp (Issue #81)
+						// Las URL de comportamiento no deben convertirse (Problema # 19)
+						// la base debe escaparse antes de agregarse a RegExp (Problema # 81)
 						var escaped_base = base.replace(/([\\\^\$*+[\]?{}.=!:(|)])/g,"\\$1");
 						css = css.replace(RegExp('\\b(behavior:\\s*?url\\(\'?"?)' + escaped_base, 'gi'), '$1');
 						}
@@ -80,7 +80,7 @@ var self = window.StyleFix = {
 					parent.insertBefore(style, link);
 					parent.removeChild(link);
 					
-					style.media = link.media; // Duplicate is intentional. See issue #31
+					style.media = link.media; // Duplicar es intencional. Ver numero # 31
 				}
 		};
 
@@ -88,7 +88,7 @@ var self = window.StyleFix = {
 			xhr.open('GET', url);
 			xhr.send(null);
 		} catch (e) {
-			// Fallback to XDomainRequest if available
+			// Retirar a XDomainRequest si está disponible
 			if (typeof XDomainRequest != "undefined") {
 				xhr = new XDomainRequest();
 				xhr.onerror = xhr.onprogress = function() {};
@@ -196,9 +196,9 @@ var self = window.PrefixFree = {
 	prefixCSS: function(css, raw, element) {
 		var prefix = self.prefix;
 		
-		// Gradient angles hotfix
+		// Revisión de ángulos degradados
 		if(self.functions.indexOf('linear-gradient') > -1) {
-			// Gradients are supported with a prefix, convert angles to legacy
+			// Los degradados son compatibles con un prefijo, conviertan ángulos en legado
 			css = css.replace(/(\s|:|,)(repeating-)?linear-gradient\(\s*(-?\d*\.?\d*)deg/ig, function ($0, delim, repeating, deg) {
 				return delim + (repeating || '') + 'linear-gradient(' + (90-deg) + 'deg';
 			});
@@ -208,7 +208,7 @@ var self = window.PrefixFree = {
 		css = fix('keywords', '(\\s|:)', '(\\s|;|\\}|$)', '$1' + prefix + '$2$3', css);
 		css = fix('properties', '(^|\\{|\\s|;)', '\\s*:', '$1' + prefix + '$2:', css);
 		
-		// Prefix properties *inside* values (issue #8)
+		// Prefijar las propiedades * dentro de * los valores (problema # 8)
 		if (self.properties.length) {
 			var regex = RegExp('\\b(' + self.properties.join('|') + ')(?!:)', 'gi');
 			
@@ -222,10 +222,10 @@ var self = window.PrefixFree = {
 			css = fix('atrules', '@', '\\b', '@' + prefix + '$1', css);
 		}
 		
-		// Fix double prefixing
+		// Corregir prefijo doble
 		css = css.replace(RegExp('-' + prefix, 'g'), '-');
 		
-		// Prefix wildcard
+		// comodín de prefijo
 		css = css.replace(/-\*-(?=[a-z]+)/gi, self.prefix);
 		
 		return css;
@@ -308,7 +308,7 @@ var self = window.PrefixFree = {
 		}
 	}
 
-	// Find most frequently used prefix
+	// Encontrar el prefijo usado más frecuentemente
 	var highest = {uses:0};
 	for(var prefix in prefixes) {
 		var uses = prefixes[prefix];
@@ -323,7 +323,7 @@ var self = window.PrefixFree = {
 	
 	self.properties = [];
 
-	// Get properties ONLY supported with a prefix
+	// Obtener propiedades SOLO soportadas con un prefijo
 	for(var i=0; i<properties.length; i++) {
 		var property = properties[i];
 		
@@ -336,7 +336,7 @@ var self = window.PrefixFree = {
 		}
 	}
 	
-	// IE fix
+	// corrección IE
 	if(self.Prefix == 'Ms' 
 	  && !('transform' in dummy) 
 	  && !('MsTransform' in dummy) 
@@ -348,10 +348,10 @@ var self = window.PrefixFree = {
 })();
 
 /**************************************
- * Values
+ * Valores
  **************************************/
 (function() {
-// Values that might need prefixing
+// Valores que pueden necesitar prefijo
 var functions = {
 	'linear-gradient': {
 		property: 'backgroundImage',
@@ -425,7 +425,7 @@ for (var keyword in keywords) {
 
 	if (!supported(keyword, property)
 	  && supported(self.prefix + keyword, property)) {
-		// It's supported, but with a prefix
+		// Es compatible, pero con un prefijo
 		self.keywords.push(keyword);
 	}
 }
@@ -433,7 +433,7 @@ for (var keyword in keywords) {
 })();
 
 /**************************************
- * Selectors and @-rules
+ * Selectores y @-reglas
  **************************************/
 (function() {
 
@@ -482,7 +482,7 @@ root.removeChild(style);
 
 })();
 
-// Properties that accept properties as their value
+// Propiedades que aceptan propiedades como su valor
 self.valueProperties = [
 	'transition',
 	'transition-property'
