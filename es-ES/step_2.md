@@ -1,6 +1,6 @@
-## Crear una pegatina con degradado lineal
+## Pegatina colorida de programación
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+Un degradado o gradiente es un cambio gradual de un color a otro. Los gradientes se pueden utilizar para crear efectos geniales. Los vas a utilizar para crear adhesivos que puedes usar en tus páginas web.
 
 + Abre este Trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
@@ -8,7 +8,7 @@ A gradient is a gradual change from one colour to another. Gradients can be used
     
     ![captura de pantalla](images/stickers-starter.png)
 
-+ Hagamos un codín 'I <3g' sticker.
++ Hagamos una pegatina "Yo <3 programar"g' sticker.
     
     Utilice un `<div>` con una clase `sticker` y una Identificación `coding` para que puedas darle estilo:
     
@@ -30,13 +30,13 @@ A gradient is a gradual change from one colour to another. Gradients can be used
     
     ![captura de pantalla](images/stickers-coding-font.png)
 
-+ Ahora puedes agregar un degradado para el fondo de la etiqueta. Un degradado lineal cambia de un color a otro a lo largo de una línea recta.
++ Ahora puedes agregar un gradiente para el fondo de la etiqueta. Un degradado lineal cambia de un color a otro a lo largo de una línea recta.
     
-    Este degradado cambiará de rojo en la parte superior a magenta en la parte inferior. Agrega el código de gradiente a tu estilo `coding`:
+    Este gradiente cambiará de rojo en la parte superior a magenta en la parte inferior. Agrega el código de gradiente a tu estilo `coding`:
     
     ![captura de pantalla](images/stickers-coding-gradient.png)
 
-+ Puede mejorar el resultado agregando espacio alrededor y esquinas redondeadas.
++ Puedes mejorar el resultado agregando espacio alrededor y esquinas redondeadas.
     
     Agrega el código resaltado:
     
