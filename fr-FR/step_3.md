@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## Autocollant HTML & CSS
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+Les dégradés peuvent également changer de couleur du centre vers les bords, on appelle cela un dégradé radial.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ Créons un autocollant avec le texte `HTML & CSS.` `&` est un autre caractère qui nécessite un encodage en HTML, le code est `&amp;`.
     
-    Add the highlighted code to create a new sticker:
+    Ajoute le code en surbrillance pour créer un nouvel autocollant:
     
-    ![screenshot](images/stickers-web-html.png)
+    ![capture d'écran](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ Passe maintenant à ton fichier `style.css` et ajoute un style pour ton nouvel autocollant:
     
-    ![screenshot](images/stickers-web-font.png)
+    ![capture d'écran](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    Le code `text-shadow` ajoute une ombre qui étend 2px ci-dessous et à la droite du texte pour le faire ressortir.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ Maintenant pour le dégradé. Cette fois, utilisons un dégradé radial. La couleur passera du jaune au centre à l'orange puis au rouge.
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![capture d'écran](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    Note que les dégradés peuvent inclure plusieurs couleurs, pas seulement deux.
 
-+ The sticker will look much better with some padding and a rounded border.
++ L'autocollant sera beaucoup mieux avec un peu de remplissage et une bordure arrondie.
     
-    Add the highlighted code:
+    Ajoute le code en surbrillance:
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![capture d'écran](images/stickers-web-padding.png)
