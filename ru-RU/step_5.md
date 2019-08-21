@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## Стикер с крутым роботом
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+Ты можешь сделать градиентную наклейку, используя изображение. Если ты используешь изображение с прозрачным фоном, то градиент будет видно насквозь.
 
-You can also create gradients to run in different directions.
+Ты также можешь создавать градиенты в разных направлениях.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ Добавь стикер в `index.html` используя картинку `firerobot.png `:
     
     ![screenshot](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    Ты можешь настроить высоту - `height`, чтобы изменить размер изображения, а ширина изменится автоматически.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ Обычно линейный градиент проходит сверху вниз, но ты можешь использовать `to`, чтобы изменить направление. Например: `to top` для направления наверх, `to left` для направления налево или `to right` для направления направо.
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    Для диагонального градиента ты указываешь два направления. Этот пример использует направление "вниз и влево" - ` to bottom left`.
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    Добавь этот стиль в ` style.css ` чтобы дать твоему новому стикеру с роботом диагональный градиент и крутую границу:
     
     ![screenshot](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    Обрати внимание, что ты можешь использовать `outline`, чтобы создать другую границу за пределами обычной. А `outline-offset` дает разрыв между границей и контуром.
 
-+ Let's add some text to this sticker.
++ Давай добавим немного текста к этому стикеру.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    Добавь `<span>`, содержащий текст «ROBOTS», в ` index.html ` и присвой ему id.
     
     ![screenshot](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ Текст будет выглядеть лучше, если ты сделаешь его больше и разместишь его как положено.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    Для позиционирования текста тебе нужно добавить `position: relative;` на `#greensticker` и `position: absolute` на `position: absolute`. Позиционирование более подробно описано в проекте `Построй робота`.
     
-    Add the following code to `style.css`:
+    Добавь следующий код к твоему `functions.php` файлу:
     
     ![screenshot](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ И наконец - ты также можешь вращать текст, используя `transform: rotate`.
     
     ![screenshot](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    Попробуй изменить количество градусов, на которое поворачивается текст.
