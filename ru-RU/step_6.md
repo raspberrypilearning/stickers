@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Задача: добавь больше стикеров
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Теперь попробуй сделать больше стикеров, используя разные направления градиента и добавив изображения и текст, используя границы и контуры.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Подсказка: Тебе нужно добавить HTML и CSS для каждого стикера.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Ты можешь скопировать и редактировать один из твоих примеров и внести изменения для создания нового стикера.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Твой проект уже содержит набор изображений роботов. Нажми на иконку изображений, чтобы увидеть доступные изображения.
 
 ![screenshot](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+Этот пример использует линейный градиент с направлением `to right`:
 
 ![screenshot](images/stickers-green-html.png)
 
