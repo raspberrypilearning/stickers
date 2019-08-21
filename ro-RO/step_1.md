@@ -1,36 +1,36 @@
-## Introduction
+## Introducere
 
-In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
+În acest proiect, vei crea o mulțime de stickere distractive pe care le poți folosi la decorarea paginilor web. Vei învăța despre folosirea gradientelor care se schimbă treptat de la o culoare la alta pentru a-ți face stickerele să arate mai frumoase.
 
 ![screenshot](images/stickers-finished.png)
 
-### Additional information for club leaders
+### Informații suplimentare pentru liderii de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
+Dacă trebuie să printezi acest proiect, folosește [Versiunea printabilă](https://projects.raspberrypi.org/en/projects/stickers/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note pentru liderul clubului
 
-## Introduction:
+## Introducere:
 
-In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
+În acest proiect, copiii vor învăța despre gradientele lineare și radiale în CSS. De asemenea, ei vor afla mai multe despre margini și poziționare.
 
-## Online Resources
+## Resurse online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Recomandăm folosirea [trinket](https://trinket.io/) pentru a scrie HTML & CSS online. Proiectul conține următoarele trinket-uri:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* [Începutul „Stickere” -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Copiii pot, de asemenea, să folosească acest trinket gol [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pentru a scrie propriul cod HTML & CSS sau, alternativ, acest șablon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Există, de asemenea, un trinket care conține un exemplu de soluție pentru provocări:
 
-* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* [„Stickere” complet -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Offline Resources
+## Resurse offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Acest proiect poate fi [completat offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) dacă dorești. Poți accesa resursele proiectului dând click pe link-ul „Materiale pentru proiect”. Acest link conține o secțiune „Resursele proiectului” care include resurse de care copiii vor avea nevoie pentru a completa acest proiect offline. Asigură-te că fiecare copil are acces la câte o copie din aceste resurse. Secțiunea include următoarele fișiere:
 
 * intro/index.html
 * template/template.html
@@ -38,43 +38,43 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * stickers/index.html
 * stickers/style.css
 * stickers/script.js
-* stickers/robot .png images
+* stickers/robot imagini .png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+De asemenea, poți găsi o versiune completă a provocărilor din acest proiect în secțiunea „Resursele voluntarilor”, care conține:
 
 * stickers-finished/index.html
 * stickers-finished/style.css
 * stickers-finished/script.js
-* stickers-finished/robot .png images
+* stickers-finished/robot imagini .png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toate resursele de mai sus se pot descărca ca și fișiere `.zip` pentru proiecte și voluntari.)
 
-## Learning Objectives
+## Obiective de învățare
 
-* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
+* Acest proiect introduce folosirea gradientelor CSS pentru a crea efecte interesante. Studenții își vor îmbogăți cunoștințele în margini și poziționare în CSS. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale curriculumului [Raspberry Pi Digital Making](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Proiectarea elementelor grafice 2D și 3D de bază](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Provocări
 
-* "Create your own gradient sticker" - adding linear and radial gradients to text;
-* "Make more stickers!" - Combine gradients with images and text to create more stickers.
+* „Creează-ți propriul sticker cu gradient” - adăugarea gradientelor liniare și radiale la text;
+* „Realizează mai multe stickere!” - combinarea gradientelor cu imagini și text pentru a crea mai multe stickere.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiale pentru proiect
 
-## Project resources
+## Resursele proiectului
 
-* [.zip file containing all project resources](resources/stickers-project-resources.zip)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [fișier .zip care conține toate resursele proiectului](resources/stickers-project-resources.zip)
+* [Trinket online care conține toate resursele proiectului „Intro”](http://jumpto.cc/web-intro)
+* [Trinket online care conține toate resursele proiectului „Stickere”](http://jumpto.cc/web-stickers)
+* [Șablon Trinket online](http://jumpto.cc/trinket-template)
+* [Trinket online gol](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -89,10 +89,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Club leader resources
+## Resursele liderului de club
 
-* [.zip file containing all completed project resources](resources/stickers-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
+* [fișier .zip care conține toate resursele proiectului, completate](resources/stickers-volunteer-resources.zip)
+* [Proiect Trinket online, completat](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
