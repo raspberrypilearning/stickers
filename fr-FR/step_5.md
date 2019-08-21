@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## Autocollant robot fantaisiste
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+Tu peux créer un autocollant dégradé à l'aide d'une image. Si tu utilises une image avec un arrière-plan transparent alors le dégradé sera visible.
 
-You can also create gradients to run in different directions.
+Tu peux également créer des dégradés à exécuter dans différentes directions.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ Ajoute un autocollant à `index.html` en utilisant l'image `firerobot.png`:
     
-    ![screenshot](images/stickers-fire-html.png)
+    ![capture d'écran](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    Tu peux ajuster le `hauteur` pour redimensionner l'image, la largeur changera automatiquement.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ Normalement, un dégradé linéaire va du haut vers le bas, mais tu peux utiliser `to` pour changer de direction. Par exemple: `to top` , `to left` ou `to right` .
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    Pour un gradient en diagonale, tu donnes deux directions. Cet exemple utilise `to bottom left` .
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    Ajoute ce style à `style.css` pour donner à ton nouvel autocollant robot un dégradé diagonal et une bordure fantaisie:
     
-    ![screenshot](images/stickers-fire-gradient.png)
+    ![capture d'écran](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    Note que tu peux utiliser `outline` pour créer un autre bord en dehors de l'habituel. `outline-offset` donne l'écart entre la bordure et le contour.
 
-+ Let's add some text to this sticker.
++ Ajoutons du texte à cet autocollant.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    Ajoute un `<span>`contenant le texte "ROBOTS" à `index.html` et lui donner un id.
     
-    ![screenshot](images/stickers-fire-span.png)
+    ![capture d'écran](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ Le texte paraîtra mieux si tu le fait plus grand et le positionne.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    Pour positionner le texte, tu dois ajouter `position: relative; ` à `#greensticker` et `position: absolue` à `#greentext` . Le positionnement est traité plus en détail dans le projet `Construire un robot`.
     
-    Add the following code to `style.css`:
+    Ajoute ce qui suit au fichier `style.css`:
     
-    ![screenshot](images/stickers-fire-text-style.png)
+    ![capture d'écran](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ Et pour une dernière rotation, faisons pivoter le texte en utilisant `transform: rotate` .
     
-    ![screenshot](images/stickers-fire-rotate.png)
+    ![capture d'écran](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    Essaie de changer le nombre de degrés de rotation du texte.
