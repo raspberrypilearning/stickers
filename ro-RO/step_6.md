@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Provocare: Realizează mai multe stickere
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Acum încearcă să faci mai multe stickere folosind diferite tipuri de gradient și adăugând imagini și text cu margini și chenare.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Sfat: Va trebui să adaugi HTML și CSS pentru fiecare sticker.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Poți copia și edita unul dintre exemple și să faci schimbări pentru a crea un nou sticker.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Proiectul tău deja include un set de imagini cu roboți. Dă click pe iconița imagine pentru a vedea imaginile disponibile.
 
-![screenshot](images/stickers-images.png)
+![captură de ecran](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+Acest exemplu folosește un gradient liniar cu `to right`:
 
-![screenshot](images/stickers-green-html.png)
+![captură de ecran](images/stickers-green-html.png)
 
-![screenshot](images/stickers-green-style.png)
+![captură de ecran](images/stickers-green-style.png)
 
 \--- /challenge \---
