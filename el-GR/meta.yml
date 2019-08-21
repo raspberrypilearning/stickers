@@ -1,14 +1,14 @@
 ---
 Title: Αυτοκόλλητα
 hero_image: images/stickers.png
-theme: πορτοκαλί
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Αυτοκόλλητα!
-description: Create fun robot stickers to decorate your web pages.
+description: Δημιούργησε αστεία αυτοκόλλητα ρομπότ για να διακοσμήσεις τις ιστοσελίδες σου.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
@@ -21,12 +21,12 @@ steps:
   - 
     title: Εισαγωγή
   - 
-    title: Colourful coding sticker
+    title: Πολύχρωμα αυτοκόλλητα κώδικα
   - 
     title: Αυτοκόλλητο HTML & CSS
   - 
-    title: 'Challenge: Create your own gradient sticker'
+    title: 'Πρόκληση: Δημιούργησε το δικό σου διαβαθμισμένο αυτοκόλλητο'
   - 
-    title: 'Fancy robot sticker '
+    title: 'Φανταστικό αυτοκόλλητο ρομπότ'
   - 
-    title: 'Πρόκληση: Φτιάξτε περισσότερα αυτοκόλλητα'
+    title: 'Πρόκληση: Φτιάξε περισσότερα αυτοκόλλητα'
