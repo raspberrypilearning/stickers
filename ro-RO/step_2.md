@@ -1,45 +1,45 @@
-## Colourful coding sticker
+## Sticker colorat
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+Un gradient este o schimbare treptată de la o culoare la alta. Gradienții pot fi folosiți pentru a crea efecte cool. Le vei folosi pentru a crea stickere pe care le vei putea folosi pe paginile tale web.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ Deschide acest trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    The project should look like this:
+    Proiectul ar trebui să arate astfel:
     
-    ![screenshot](images/stickers-starter.png)
+    ![captură de ecran](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ Hai să facem un 'I <3 Coding' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    Folosește un `<div>` cu o clasă `sticker` și un id `coding` pentru a-l putea personaliza:
     
-    ![screenshot](images/stickers-coding-error.png)
+    ![captură de ecran](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ Hmm, ai observat că ai primit o eroare? Asta pentru că caracterul „<” e un caracter speciale în HTML. În locul lui trebuie să folosim codul special `&lt;`.
     
-    Update your code to use `&lt;` so that the error goes away.
+    Actualizează-ți codul pentru a folosi `&lt;` pentru a elimina eroarea.
     
-    ![screenshot](images/stickers-coding-fixed.png)
+    ![captură de ecran](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` începe o nouă linie.
 
-+ Now let's make the sticker look interesting.
++ Acum hai să facem sticker-ul să arate interesant.
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    Deschide fișierul `style.css`. Vei vedea că clasa `.sticker` ți-a fost dată deja. Aceasta va personaliza stickerele din pagină și va centra conținutul lor.
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    Nu uita că ai adăugat id-ul `coding` la sticker-ul tău. În partea de jos a fișierului `style.css`, adaugă următorul cod pentru a stiliza textul:
     
-    ![screenshot](images/stickers-coding-font.png)
+    ![captură de ecran](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ Acum poți adăuga un gradient pentru fundalul sticker-ului. Un gradient liniar își schimbă culoarea treptat de-a lungul unei linii drepte.
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    Acest gradient își va schimba culoarea din roșu sus până în magenta jos. Adaugă codul gradientului tău la stilul `coding`:
     
-    ![screenshot](images/stickers-coding-gradient.png)
+    ![captură de ecran](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ Poți îmbunătăți rezultatul adăugând spațiere și colțuri rotunjite.
     
-    Add the highlighted code:
+    Adaugă codul evidențiat:
     
-    ![screenshot](images/stickers-coding-padding.png)
+    ![captură de ecran](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    Stilul `padding` adaugă o spațiere de 50px în partea de sus și de jos și 30px în dreapta și stânga.
