@@ -1,8 +1,8 @@
-\--- desafío \---
+\--- challenge \---
 
-## Degradados diagonales
+## Desafío: haz más pegatinas
 
-Ahora intenta hacer más pegatinas usando diferentes direcciones de degradado, agregando imágenes y texto y utilizando bordes y contornos.
+Ahora intenta hacer más pegatinas usando diferentes direcciones de gradiente, agregando imágenes y texto y utilizando bordes y contornos.
 
 Consejo: Deberás agregar HTML y CSS para cada pegatina.
 
@@ -12,7 +12,7 @@ Tu proyecto ya incluye un conjunto de imágenes de robot. Haz clic en el icono d
 
 ![captura de pantalla](images/stickers-images.png)
 
-Este ejemplo utiliza un degradado lineal con `to right`:
+Este ejemplo utiliza un gradiente lineal con `to right`:
 
 ![captura de pantalla](images/stickers-green-html.png)
 
