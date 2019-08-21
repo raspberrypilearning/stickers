@@ -20,9 +20,9 @@ En este proyecto, los niños tendrán una introducción a gradientes lineales y 
 
 Recomendamos el uso de [ trinket](https://trinket.io/) para escribir HTML & CSS en línea. Este proyecto contiene los siguientes trinkets:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* ['Stickers' punto de inicio -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Los niños también pueden hacer uso de esta baratija en blanco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar este trinket plantilla [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Los niños también pueden hacer uso de este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar esta plantilla de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 También hay un Trinket que contiene una solución de muestra a los desafíos:
 
@@ -51,16 +51,16 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 ## Objetivos del Aprendizaje
 
-* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
+* Este proyecto introduce el uso de gradientes CSS para crear efectos interesantes. Los estudiantes también ampliarán sus conocimientos de fronteras y posicionamiento CSS. 
 
 Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Retos
+## Desafíos
 
-* "Create your own gradient sticker" - adding linear and radial gradients to text;
-* "Make more stickers!" - Combine gradients with images and text to create more stickers.
+* "Crea tu propia pegatina de gradiente" - añadiendo gradientes lineales y radiales al texto;
+* "¡Haz más pegatinas!" - Combina los gradientes con imágenes y texto para crear más pegatinas.
 
 \--- /collapse \---
 
@@ -71,10 +71,10 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 ## Recursos del proyecto
 
 * [Archivo .zip que contiene todos los recursos del proyecto](resources/stickers-project-resources.zip)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Trinket en línea que contiene todos los recursos del proyecto "Intro"](http://jumpto.cc/web-intro)
+* [Trinket en línea que contiene todos los recursos del proyecto "Pegatinas"](http://jumpto.cc/web-stickers)
+* [Plantilla Trinket en línea](http://jumpto.cc/trinket-template)
+* [Trinquet en línea en blanco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
