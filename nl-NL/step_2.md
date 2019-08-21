@@ -42,4 +42,4 @@ Een verloop is een geleidelijke overgang van de ene kleur naar de andere. Verlop
     
     ![screenshot](images/stickers-coding-padding.png)
     
-    De `padding ` stijl voegt een padding toe van 50px aan de boven- en onderkant en 30px aan de linker- en rechterkant.
+    De `padding` stijl voegt een padding toe van 50px aan de boven- en onderkant en 30px aan de linker- en rechterkant.
