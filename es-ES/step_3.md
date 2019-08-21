@@ -1,6 +1,6 @@
 ## Pegatina HTML & CSS
 
-Los degradados también pueden cambiar de color desde el centro hacia los bordes, esto se denomina degradado radial.
+Los gradiente también pueden cambiar de color desde el centro hacia los bordes, esto se denomina gradiente radial.
 
 + Vamos a crear una etiqueta con el texto ` HTML & CSS. ` `&` es otro carácter que necesita codificación en HTML, el código es `&amp; `.
     
@@ -14,14 +14,14 @@ Los degradados también pueden cambiar de color desde el centro hacia los bordes
     
     El código ` text-shadow ` agrega una sombra que se extiende 2px debajo y a la derecha del texto para resaltarlo.
 
-+ Ahora el gradiente. Esta vez vamos a usar un degradado radial. El color cambiará de amarillo en el centro a naranja y luego a rojo.
++ Ahora el gradiente. Esta vez utilicemos un gradiente radial. El color cambiará de amarillo en el centro hasta naranja y luego rojo.
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![captura de pantalla](images/stickers-web-gradient.png)
     
     Ten en cuenta que los gradientes pueden incluir varios colores, no solo dos.
 
 + La pegatina se verá mucho mejor con un poco de espacio y un borde redondeado.
     
-    Agregua el código resaltado:
+    Agrega el código resaltado:
     
     ![captura de pantalla](images/stickers-web-padding.png)
