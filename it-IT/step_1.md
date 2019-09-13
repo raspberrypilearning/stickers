@@ -20,7 +20,7 @@ In questo progetto, i bambini apprenderanno l'uso dei gradienti lineari e radial
 
 Consigliamo di usare un [trinket](https://trinket.io/) per scrivere in HTML e CSS online. Questo progetto contiene i seguenti trinket:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* [Punto di partenza 'Adesivi' - jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 I ragazzi possono anche usare questo trinket vuoto [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) per scrivere liberamente in HTML e CSS, oppure possono usare questo modello [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
