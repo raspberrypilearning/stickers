@@ -1,60 +1,110 @@
 ## Introduction
 
-Dans ce projet, vous allez créer tout un tas de stickers amusants que vous pouvez utiliser pour décorer vos pages Web. Vous allez apprendre à utiliser des dégradés que changent graduellement d'une couleur à une autre pour que vos stickers aient l'air cool. 
+Dans ce projet, tu vas créer de nombreux autocollants amusants que tu pourras utiliser pour décorer des pages Web. Tu apprendras à utiliser des dégradés qui changent progressivement d'une couleur à l'autre pour rendre tes autocollants cool.
 
-![screenshot](images/stickers-finished.png)
+![capture d'écran](images/stickers-finished.png)
+
+### Informations complémentaires pour les responsables de club
+
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/fr-FR/projects/stickers/print).
 
 --- collapse ---
 ---
-title: Notes pour le leader du club
+title: Notes pour le responsable de club
 ---
 
-
 ## Introduction:
-Dans ce projet, les dégradés linéaires et radiaux dans CSS seront présentés aux enfants. Ils en apprendront aussi davantage sur les bordures et le positionnement. 
 
-## Ressources en ligne
+Dans ce projet, les enfants seront initiés aux dégradés linéaires et radiaux en CSS. Ils en apprendront également davantage sur les bords et le positionnement.
 
-Nous recommandons d'utiliser [trinket](https://trinket.io/) pour écrire du HTML & CSS en ligne. Ce projet contient les trinkets suivants :
+## Ressources en-ligne
 
-+ [Point de départ 'Sunrise'  -- jumpto.cc/web-sunrise](http://jumpto.cc/web-sunrise)
+Nous recommandons d'utiliser [trinket](https://trinket.io/) pour écrire du HTML & CSS en ligne. Ce projet contient les trinkets suivants:
 
-Des enfants peuvent aussi utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML & CSS, ou ils peuvent utiliser ce trinket modèle [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+* [Le point de départ des "Autocollants" -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Il y a aussi un trinket contenant une solution d'exemple à tous les challenges :
+Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML & CSS, ou utiliser ce trinket modèle [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-+ ['Stickers' terminé -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+Il y a aussi un Trinket contenant un exemple de solution pour les défis:
 
-## Ressources hors ligne
-Ce projet peut être [terminé hors ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien 'Matériaux du projet' pour ce projet. Ce lien contient une section 'Ressources du projet', laquelle inclut des ressources dont les enfants auront besoin pour terminer ce projet en mode hors ligne. Assurez-vous que chaque enfant ait accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+* ['Autocollants' Terminés -- trinket.io/html/3cdd03551b](https://trinket.io/html/3cdd03551b)
 
-+ intro/index.html
-+ template/template.html
-+ template/style.css
-+ stickers/index.html
-+ stickers/style.css
-+ stickers/script.js
-+ stickers/robot .png images
+## Ressources hors-ligne
 
-Vous pouvez aussi trouver une version terminée des challenges de ce projet dans la section 'Ressources bénévoles', qui contient :
+Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour terminer ce projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants:
 
-+ stickers-finished/index.html
-+ stickers-finished/style.css
-+ stickers-finished/script.js
-+ stickers-finished/robot .png images
+* intro/index.html
+* template/template.html
+* template/style.css
+* stickers/index.html
+* stickers/style.css
+* stickers/script.js
+* stickers/robot .png images
 
+Vous pouvez aussi trouver une version terminée du projet dans la section "Ressources du bénévole" qui contient:
 
-(Toutes les ressources ci-dessus sont aussi téléchargeables en tant que fichiers `.zip` bénévoles et projet.)
+* stickers-finished/index.html
+* stickers-finished/style.css
+* stickers-finished/script.js
+* stickers-finished/robot .png images
+
+(Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers `.zip` projet et bénévole)
 
 ## Objectifs d'apprentissage
-+ Ce projet présente l'utilisation des dégradés CSS pour créer des effets intéressants. Les étudiants étendront aussi leur connaissance des bordures et du positionnement dans CSS. 
 
-Ce projet couvre des éléments des composantes suivantes de [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+* Ce projet introduit l'utilisation de dégradés CSS pour créer des effets intéressants. Les étudiants approfondiront également leurs connaissances des bordures et du positionnement CSS. 
 
-+ [Conception de ressources 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator).
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création Numérique](http://rpf.io/curriculum):
+
+* [Concevoir des éléments de base 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Défis
-+ "Créer votre propre sticker dégradé" - ajouter des dégradés linéaires et radiaux à du texte ;
-+ "Faire plus de stickers !" - Combiner des dégradés avec des images et du texte pour créer plus de stickers.
+
+* "Crée ton propre autocollant de dégradé" - ajoute des dégradés linéaires et radiaux au texte;
+* "Crée plus d'autocollants!" - Combine des dégradés avec des images et du texte pour créer plus d'autocollants.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Matériaux du projet
+---
+
+## Ressources pour le projet
+
+* [Fichier .zip contenant toutes les ressources du projet](resources/stickers-project-resources.zip)
+* [Trinket en ligne contenant toutes les ressources du projet 'Intro'](http://jumpto.cc/web-intro)
+* [Trinket en ligne contenant toutes les ressources du projet 'Autocollants'](http://jumpto.cc/web-stickers)
+* [Modèle de Trinket en ligne](http://jumpto.cc/trinket-template)
+* [Trinket en ligne vide](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [stickers/index.html](resources/stickers-index.html)
+* [stickers/style.css](resources/stickers-style.css)
+* [stickers/prefixfree.js](resources/stickers-prefixfree.js)
+* [stickers/bluerobot.png](resources/stickers-bluerobot.png)
+* [stickers/firerobot.png](resources/stickers-firerobot.png)
+* [stickers/purplerobot.png](resources/stickers-purplerobot.png)
+* [stickers/spacerobot.png](resources/stickers-spacerobot.png)
+* [stickers/dogrobot.png](resources/stickers-dogrobot.png)
+* [stickers/greenrobot.png](resources/stickers-greenrobot.png)
+* [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
+* [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
+
+## Ressources pour le responsable de club
+
+* [Fichier .zip contenant toutes les ressources du projet terminé](resources/stickers-volunteer-resources.zip)
+* [Projet Trinket en ligne terminé](https://trinket.io/html/3cdd03551b)
+* [stickers-finished/index.html](resources/stickers-finished-index.html)
+* [stickers-finished/style.css](resources/stickers-finished-style.css)
+* [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
+* [stickers-finished/bluerobot.png](resources/stickers-finished-bluerobot.png)
+* [stickers-finished/firerobot.png](resources/stickers-finished-firerobot.png)
+* [stickers-finished/purplerobot.png](resources/stickers-finished-purplerobot.png)
+* [stickers-finished/spacerobot.png](resources/stickers-finished-spacerobot.png)
+* [stickers-finished/dogrobot.png](resources/stickers-finished-dogrobot.png)
+* [stickers-finished/greenrobot.png](resources/stickers-finished-greenrobot.png)
+* [stickers-finished/rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
+* [stickers-finished/yellowrobot.png](resources/stickers-finished-yellowrobot.png)
 
 --- /collapse ---

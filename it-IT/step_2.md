@@ -1,47 +1,45 @@
 ## Programmare un adesivo colorato
 
-Un gradiente è un cambiamento graduale da un colore a un altro. I gradienti possono essere usati per creare effetti incredibili. Impareremo a usarli per creare degli adesivi e decorare le pagine web.
+Un gradiente è un cambiamento graduale da un colore all'altro. Le sfumature possono essere utilizzate per creare effetti interessanti. Li userai per creare adesivi che potrai utilizzare sulle tue pagine web.
 
 + Apri questo trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
+    
+    Il progetto dovrebbe assomigliare a questo:
+    
+    ![screenshot](images/stickers-starter.png)
 
-	Il progetto dovrebbe avere questo aspetto:
++ Facciamo un adesivo "I <3 Coding" sticker.
+    
+    Utilizza un `<div>` con classe `stickers` (adesivo) e id `coding` (codifica) in modo tale da poterne modificare lo stile:
+    
+    ![screenshot](images/stickers-coding-error.png)
 
-	![screenshot](images/stickers-starter.png)
++ Hmm hai notato che hai ottenuto un errore? Questo perché "<" è un carattere speciale in HTML. Invece di '<' è necessario utilizzare il codice speciale `&lt;` .
+    
+    Aggiorna il tuo codice utilizzando `&lt;` in modo da rimuovere l'errore.
+    
+    ![screenshot](images/stickers-coding-fixed.png)
+    
+    `<br>` dà una nuova linea.
 
-+ Realizziamo insieme un adesivo con scritto "Io <3 programmare".
++ Ora facciamo in modo che l'adesivo abbia un aspetto interessante.
+    
+    Passa al file `style.css`. Vedrai che la classe `.sticker` è già stata creata per te. Questo imposterà gli adesivi sulla pagina e centrerà il loro contenuto.
+    
+    Ricorda che hai aggiunto l'id `coding` (codifica) al tuo adesivo. Nella parte inferiore di `style.css` è necessario aggiungere il seguente codice per definire lo stile del testo:
+    
+    ![screenshot](images/stickers-coding-font.png)
 
-	Usa un `<div>` con la class (categoria) `sticker` e un id `coding` per lo stile:
++ Ora puoi aggiungere una sfumatura per lo sfondo dell'adesivo. Un gradiente lineare passa da un colore all'altro lungo una linea retta.
+    
+    Questo gradiente cambierà da rosso in alto a magenta in basso. Aggiungi il codice gradiente allo stile dell'id `coding` (codifica):
+    
+    ![screenshot](images/stickers-coding-gradient.png)
 
-	![screenshot](images/stickers-coding-error.png)
-
-
-+ Hai notato che ti ha dato errore? Succede perché '<' è un carattere speciale in HTML. Invece di '<' devi usare il codice speciale `&lt;`.
-
-	Aggiorna il codice con `&lt;` e l'errore sparirà.
-
-	![screenshot](images/stickers-coding-fixed.png)
-
-	`<br>` inizia una nuova riga.
-
-+ Ora rendiamo l'adesivo più interessante.
-
-	Passa al file `style.css`. Vedrai che la categoria `.sticker` è stata creata. In questo modo gli adesivi appaiono sulla pagina e il contenuto viene centrato.
-
-	Ricorda che hai aggiunto l'id `coding` all'adesivo. In fondo allo `style.css` aggiungi il codice seguente per dare lo stile al testo:
-
-	![screenshot](images/stickers-coding-font.png)
-
-+ Ora puoi aggiungere un gradiente allo sfondo dell'adesivo. Un gradiente lineare passa da un colore a un altro secondo una linea retta.
-
-	Questo gradiente cambierà dal rosso nella parte superiore al magenta nella parte inferiore. Aggiungi il codice del gradiente allo stile `coding`:
-
-	![screenshot](images/stickers-coding-gradient.png)
-
-+ Puoi migliorare il risultato aggiungendo uno spazio intorno (il padding) e gli angoli arrotondati.
-
-	Aggiungi il codice evidenziato:
-
-	![screenshot](images/stickers-coding-padding.png)
-
-	Lo stile del "padding" aggiunge uno spazio di 50px nella parte superiore e inferiore e uno spazio di 30px a sinistra e a destra.
-
++ Puoi migliorare il risultato aumentando la spaziatura e arrotondando gli angoli.
+    
+    Aggiungi il codice evidenziato:
+    
+    ![screenshot](images/stickers-coding-padding.png)
+    
+    Il parametro `padding` aggiunge una spaziatura di 50px nella parte superiore e inferiore e 30px a sinistra e a destra.

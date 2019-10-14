@@ -1,4 +1,5 @@
-Title: Stickers
+---
+Title: Autocollants
 hero_image: images/stickers.png
 theme: orange
 duration: 2
@@ -6,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Stickers!
-description: Créez des stickers de robot amusants pour décorer vos pages Web..
+title: Autocollants!
+description: Créez des autocollants de robot amusants pour décorer tes pages Web.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
@@ -16,10 +17,10 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introduction
-- title: Sticker codage coloré
-- title: Sticker HTML & CSS
-- title: 'Défi : Créez votre propre sticker dégradé'
-- title: Sticker robot fantaisiste
-- title: 'Défi : Faire plus de stickers'
+steps:
+  - title: Introduction
+  - title: Autocollant de codage coloré
+  - title: Autocollant HTML & CSS
+  - title: 'Défi: Crée ton propre autocollant dégradé'
+  - title: Autocollant robot fantaisiste
+  - title: 'Défi: Faire plus d''autocollants'

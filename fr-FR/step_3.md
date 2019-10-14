@@ -1,30 +1,27 @@
-## Sticker HTML & CSS
+## Autocollant HTML & CSS
 
-Les dégradés peuvent aussi changer la couleur du centre vers les bords, c'est ce qu'on appelle un dégradé radial. 
+Les dégradés peuvent également changer de couleur du centre vers les bords, on appelle cela un dégradé radial.
 
-+ Créons un sticker avec le texte `HTML & CSS.`  `&` est un autre caractère qui nécessite un encodage en HTML, le code est `&amp;`.
++ Créons un autocollant avec le texte `HTML & CSS.` `&` est un autre caractère qui nécessite un encodage en HTML, le code est `&amp;`.
+    
+    Ajoute le code en surbrillance pour créer un nouvel autocollant:
+    
+    ![capture d'écran](images/stickers-web-html.png)
 
-	Ajoutez le code en surbrillance pour créer un nouveau sticker : 
++ Passe maintenant à ton fichier `style.css` et ajoute un style pour ton nouvel autocollant:
+    
+    ![capture d'écran](images/stickers-web-font.png)
+    
+    Le code `text-shadow` ajoute une ombre qui étend 2px ci-dessous et à la droite du texte pour le faire ressortir.
 
-	![screenshot](images/stickers-web-html.png)
++ Maintenant pour le dégradé. Cette fois, utilisons un dégradé radial. La couleur passera du jaune au centre à l'orange puis au rouge.
+    
+    ![capture d'écran](images/stickers-web-gradient.png)
+    
+    Note que les dégradés peuvent inclure plusieurs couleurs, pas seulement deux.
 
-+ Maintenant, passez à votre fichier `style.css` et ajoutez un style pour votre nouveau sticker.
-
-	![screenshot](images/stickers-web-font.png)
-
-	Le code `text-shadow` ajoute une ombre qui s'étend de 2 px au-dessous et sur la droite du texte pour le faire ressortir. 
-
-+ Maintenant passons au dégradé. Cette fois, utilisons un dégradé radial. La couleur variera du jaune au centre au orange puis au rouge. 
-
-	![screenshot](images/stickers-web-gradient.png)
-
-	Remarquez que les dégradés peuvent inclure de multiples couleurs, et pas seulement deux. 
-
-+ Le sticker aura une bien meilleure apparence avec un peu de remplissage et une bordure arrondie. 
-
-	Ajoutez le code en surbrillance :
-
-	![screenshot](images/stickers-web-padding.png)
-
-
-
++ L'autocollant sera beaucoup mieux avec un peu de remplissage et une bordure arrondie.
+    
+    Ajoute le code en surbrillance:
+    
+    ![capture d'écran](images/stickers-web-padding.png)
