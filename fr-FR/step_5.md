@@ -22,11 +22,11 @@ Tu peux également créer des dégradés à exécuter dans différentes directio
 
 + Ajoutons du texte à cet autocollant.
     
-    Ajoute un `<span>`contenant le texte "ROBOTS" à `index.html` et lui donner un id.
+    Ajoute un `<span>`contenant le texte "ROBOTS" à `index.html` et donne lui un id.
     
     ![capture d'écran](images/stickers-fire-span.png)
 
-+ Le texte paraîtra mieux si tu le fait plus grand et le positionne.
++ Le texte paraîtra mieux si tu le fais plus grand et le positionne.
     
     Pour positionner le texte, tu dois ajouter `position: relative; ` à `#greensticker` et `position: absolue` à `#greentext` . Le positionnement est traité plus en détail dans le projet `Construire un robot`.
     
@@ -34,7 +34,7 @@ Tu peux également créer des dégradés à exécuter dans différentes directio
     
     ![capture d'écran](images/stickers-fire-text-style.png)
 
-+ Et pour une dernière rotation, faisons pivoter le texte en utilisant `transform: rotate` .
++ Et pour une dernière rotation, fais pivoter le texte en utilisant `transform: rotate` .
     
     ![capture d'écran](images/stickers-fire-rotate.png)
     
