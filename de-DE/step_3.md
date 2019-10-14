@@ -1,6 +1,6 @@
-## HTML & CSS sticker
+## HTML & CSS-Sticker
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+Die Farbverläufe können auch von der Mitte nach oben hin zu den Kanten wechseln, dies wird als radialer Gradient bezeichnet.
 
 + Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
     
