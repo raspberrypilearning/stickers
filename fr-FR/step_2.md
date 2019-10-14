@@ -24,7 +24,7 @@ Un dégradé est un changement progressif d'une couleur à une autre. Les dégra
 
 + Maintenant, rendons l'autocollant intéressant.
     
-    Bascule vers le fichier ` style.css `. Tu verras que la classe `.sticker ` a été prévu pour toi. Cela permettra de mettre en page des autocollants sur la page et de centrer leur contenu.
+    Bascule vers le fichier ` style.css `. Tu verras que la classe `.sticker ` a été prévue pour toi. Cela permettra de mettre en page des autocollants sur la page et de centrer leur contenu.
     
     Rappels-toi que tu as ajouté l'id `coding` à ton autocollant. Au bas de ` style.css ` ajoute le code suivant pour styler le texte:
     
