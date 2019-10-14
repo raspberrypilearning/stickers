@@ -27,7 +27,7 @@ I ragazzi possono anche usare questo trinket vuoto [(jumpto.cc/html-blank)](http
 
 Inoltre, è presente un trinket contente una soluzione di esempio per le sfide:
 
-* ['Adesivi' finito - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* ['Adesivi' finito - trinket.io/html/0476f6f88a](https://trinket.io/html/0476f6f88a)
 
 ## Risorse offline
 
@@ -94,7 +94,7 @@ title: Materiali del progetto
 ## Risorse per gli organizzatori del club
 
 * [File .zip con tutte le risorse del progetto completate](resources/stickers-volunteer-resources.zip)
-* [Trinket online completato](https://trinket.io/html/bb4e538e0a)
+* [Trinket online completato](https://trinket.io/html/0476f6f88a)
 * [adesivi-finiti/index.html](resources/stickers-finished-index.html)
 * [adesivi-finiti/style.css](resources/stickers-finished-style.css)
 * [adesivi-finiti/prefixfree.js](resources/stickers-finished-prefixfree.js)
