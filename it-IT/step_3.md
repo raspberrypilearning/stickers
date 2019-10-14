@@ -20,7 +20,7 @@ Le sfumature possono anche cambiare il colore dal centro verso i bordi, questo �
     
     Nota che le sfumature possono includere più colori, non solo due.
 
-+ L'adesivo apparirà molto meglio con maggiori spaziature e bordi arrotondati.
++ L'adesivo avrà un aspetto migliore con un po' di spaziatura e un bordo arrotondato.
     
     Aggiungi il codice evidenziato:
     
