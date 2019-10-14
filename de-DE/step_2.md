@@ -1,6 +1,6 @@
-## Farbig kodierte Aufkleber
+## Farbig kodierte Sticker
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+Ein Farbverlauf ist ein allmählicher Wechsel von einer Farbe zur anderen. Mit Farbverläufen lassen sich coole Effekte erzielen. Du wirst sie verwenden, um Aufkleber zu erstellen, die du auf deinen Webseiten verwenden kannst.
 
 + Öffne diesen Trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
@@ -8,38 +8,38 @@ A gradient is a gradual change from one colour to another. Gradients can be used
     
     ![Screenshot](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ Lass uns einen 'I <3 codierten Sticker' macheng' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    Benutze eine `<div>` mit einer `sticker` Klasse und einer `Codierung` Id, damit du sie stilisieren kannst:
     
     ![Screenshot](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ Hmm hast du gemerkt, dass du einen Fehler hast? Dies liegt daran, dass '<' in HTML ein Sonderzeichen ist. Anstelle von '<' musst du einen Spezialcode verwenden: `&lt;`.
     
-    Update your code to use `&lt;` so that the error goes away.
+    Aktualisiere deinen Code, um `&lt;` zu verwenden, damit der Fehler weggeht.
     
     ![Screenshot](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` gibt eine neue Zeile aus.
 
-+ Now let's make the sticker look interesting.
++ Lass uns den Aufkleber jetzt interessant aussehen lassen.
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    Wechsel in die Datei `style.css`. Du wirst sehen, dass die `.sticker` Klasse für Dich bereitgestellt wurde. Dadurch werden Aufkleber auf der Seite angeordnet und deren Inhalt zentriert.
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    Denke daran, dass du die Id `coding` zu deinen Sticker hinzugefügt hast. Am Ende von `style.css` fügst du den folgenden Code hinzu, um den Text zu stilisieren:
     
     ![Screenshot](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ Jetzt kannnst du einen Farbverlauf für den Hintergrund des Aufklebers hinzufügen. Ein linearer Farbverlauf ändert sich entlang einer geraden Linie von einer Farbe zur anderen.
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    Dieser Farbverlauf ändert sich von Rot oben nach Magenta unten. Füge den Gradientencode zu deinen `Codierung` Stil hinzu:
     
     ![Screenshot](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ Du kannst das Ergebnis verbessern, indem du Auffüllungen und abgerundete Ecken hinzufügst.
     
     Füge den markierten Code hinzu:
     
     ![Screenshot](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    Der `Auffüllungs`-Stil fügt oben und unten eine Auffüllung von 50px und rechts und links 30px hinzu.
