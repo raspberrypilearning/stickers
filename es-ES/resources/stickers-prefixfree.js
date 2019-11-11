@@ -60,13 +60,13 @@ var self = window.StyleFix = {
 								return 'url("' + base_query + url + '")';
 							}
 							else {
-								// Ruta-relativa
+								// Path-relative
 								return 'url("' + base + url + '")';
 							}
 						});
 
-						// Las URL de comportamiento no deben convertirse (Problema # 19)
-						// la base debe escaparse antes de agregarse a RegExp (Problema # 81)
+						// behavior URLs shoudn’t be converted (Issue #19)
+						// base should be escaped before added to RegExp (Issue #81)
 						var escaped_base = base.replace(/([\\\^\$*+[\]?{}.=!:(|)])/g,"\\$1");
 						css = css.replace(RegExp('\\b(behavior:\\s*?url\\(\'?"?)' + escaped_base, 'gi'), '$1');
 						}
@@ -80,7 +80,7 @@ var self = window.StyleFix = {
 					parent.insertBefore(style, link);
 					parent.removeChild(link);
 					
-					style.media = link.media; // Duplicar es intencional. Ver numero # 31
+					style.media = link.media; // Duplicate is intentional. Ver numero # 31
 				}
 		};
 
@@ -154,7 +154,7 @@ var self = window.StyleFix = {
 };
 
 / **************************************
- * Procesa los estilos
+ * Process styles
  ************************************** /
 (function(){
 	setTimeout(function(){
@@ -171,7 +171,7 @@ function $(expr, con) {
 }) ();
 
 / **
- * Sin prefijo
+ * PrefixFree
  * /
 (function(root){
 
@@ -196,9 +196,9 @@ var self = window.PrefixFree = {
 	prefixCSS: function(css, raw, element) {
 		var prefix = self.prefix;
 		
-		// Revisión de ángulos degradados
+		// Gradient angles hotfix
 		if(self.functions.indexOf('linear-gradient') > -1) {
-			// Los degradados son compatibles con un prefijo, conviertan ángulos en legado
+			// Gradients are supported with a prefix, convert angles to legacy
 			css = css.replace(/(\s|:|,)(repeating-)?linear-gradient\(\s*(-?\d*\.?\d*)deg/ig, function ($0, delim, repeating, deg) {
 				return delim + (repeating || '') + 'linear-gradient(' + (90-deg) + 'deg';
 			});
@@ -208,7 +208,7 @@ var self = window.PrefixFree = {
 		css = fix('keywords', '(\\s|:)', '(\\s|;|\\}|$)', '$1' + prefix + '$2$3', css);
 		css = fix('properties', '(^|\\{|\\s|;)', '\\s*:', '$1' + prefix + '$2:', css);
 		
-		// Prefijar las propiedades * dentro de * los valores (problema # 8)
+		// Prefix properties *inside* values (issue #8)
 		if (self.properties.length) {
 			var regex = RegExp('\\b(' + self.properties.join('|') + ')(?!:)', 'gi');
 			
@@ -222,10 +222,10 @@ var self = window.PrefixFree = {
 			css = fix('atrules', '@', '\\b', '@' + prefix + '$1', css);
 		}
 		
-		// Corregir prefijo doble
+		// Fix double prefixing
 		css = css.replace(RegExp('-' + prefix, 'g'), '-');
 		
-		// comodín de prefijo
+		// Prefix wildcard
 		css = css.replace(/-\*-(?=[a-z]+)/gi, self.prefix);
 		
 		return css;
@@ -251,7 +251,7 @@ var self = window.PrefixFree = {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	// Advertencia: prefijos siempre, incluso si la propiedad es compatible prefix-less
+	// Warning: Prefixes no matter what, even if the property is supported prefix-less
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -260,7 +260,7 @@ var self = window.PrefixFree = {
 };
 
 / **************************************
- * Propiedades
+ * Properties
  ************************************** /
 (function() {
 	var prefixes = {},
@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// ¿Por qué hacemos esto en lugar de iterar sobre propiedades en un objeto .style? Porque Webkit no va a iterar sobre ellos.
+	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
@@ -277,10 +277,10 @@ var self = window.PrefixFree = {
 			var parts = property.split('-'),
 				prefix = parts[1];
 				
-			// El prefijo de cuenta usa
+			// Count prefix uses
 			prefixes[prefix] = ++prefixes[prefix] || 1;
 			
-			Esto ayuda a determinar las abreviaturas
+			// This helps determining shorthands
 			while(parts.length > 3) {
 				parts.pop();
 				
@@ -296,7 +296,7 @@ var self = window.PrefixFree = {
 		return StyleFix.camelCase(property) in dummy;
 	}
 	
-	// Algunos navegadores tienen índices numéricos para las propiedades, otros no
+	// Some browsers have numerical indices for the properties, some don't
 	if(style.length > 0) {
 		for(var i=0; i<style.length; i++) {
 			iterate(style[i])
@@ -308,7 +308,7 @@ var self = window.PrefixFree = {
 		}
 	}
 
-	// Encontrar el prefijo usado más frecuentemente
+	// Find most frequently used prefix
 	var highest = {uses:0};
 	for(var prefix in prefixes) {
 		var uses = prefixes[prefix];
@@ -323,7 +323,7 @@ var self = window.PrefixFree = {
 	
 	self.properties = [];
 
-	// Obtener propiedades SOLO soportadas con un prefijo
+	// Get properties ONLY supported with a prefix
 	for(var i=0; i<properties.length; i++) {
 		var property = properties[i];
 		
@@ -336,7 +336,7 @@ var self = window.PrefixFree = {
 		}
 	}
 	
-	// corrección IE
+	// IE fix
 	if(self.Prefix == 'Ms' 
 	  && !('transform' in dummy) 
 	  && !('MsTransform' in dummy) 
@@ -348,10 +348,10 @@ var self = window.PrefixFree = {
 })();
 
 /**************************************
- * Valores
+ * Values
  **************************************/
 (function() {
-// Valores que pueden necesitar prefijo
+// Values that might need prefixing
 var functions = {
 	'linear-gradient': {
 		property: 'backgroundImage',
@@ -377,8 +377,8 @@ functions['repeating-radial-gradient'] =
 functions['radial-gradient'] =
 functions['linear-gradient'];
 
-// Nota: Las propiedades asignadas son solo para * probar * el soporte. 
-// Las palabras clave van a estar prefijadas en todas partes.
+// Note: The properties assigned are just to *test* support. 
+// The keywords will be prefixed everywhere.
 var keywords = {
 	'initial': 'color',
 	'zoom-in': 'cursor',
@@ -415,7 +415,7 @@ for (var func in functions) {
 	
 	if (!supported(value, property)
 	  && supported(self.prefix + value, property)) {
-		// Es compatible, pero con un prefijo
+		// It's supported, but with a prefix
 		self.functions.push(func);
 	}
 }
@@ -425,7 +425,7 @@ for (var keyword in keywords) {
 
 	if (!supported(keyword, property)
 	  && supported(self.prefix + keyword, property)) {
-		// Es compatible, pero con un prefijo
+		// It's supported, but with a prefix
 		self.keywords.push(keyword);
 	}
 }
@@ -433,7 +433,7 @@ for (var keyword in keywords) {
 })();
 
 /**************************************
- * Selectores y @-reglas
+ * Selectors and @-rules
  **************************************/
 (function() {
 
@@ -482,13 +482,13 @@ root.removeChild(style);
 
 })();
 
-// Propiedades que aceptan propiedades como su valor
+// Properties that accept properties as their value
 self.valueProperties = [
 	'transition',
 	'transition-property'
 ]
 
-// Agrega la clase para el prefijo actual
+// Add class for current prefix
 root.className += ' ' + self.prefix;
 
 StyleFix.register(self.prefixCSS);
