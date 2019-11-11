@@ -10,9 +10,9 @@ curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Aufkleber!
 description: Fertige ein paar tolle Roboter-Aufkleber an, um deine Webseiten damit zu dekorieren.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
-interests: art
+interests: Kunst
 technologies: html-css-javascript
-site_areas: projects
+site_areas: Projekte
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -23,9 +23,9 @@ steps:
   - 
     title: Farbig kodierte Aufkleber
   - 
-    title: HTML und CSS Aufkleber
+    title: HTML & CSS Aufkleber
   - 
-    title: 'Aufgabe: Erstelle deinen eigenen Gradienten-Aufkleber'
+    title: 'Aufgabe: Erstelle deinen eigenen Farbverlaufs-Aufkleber (Gradienten)'
   - 
     title: 'Ausgefallener Roboter-Aufkleber'
   - 
