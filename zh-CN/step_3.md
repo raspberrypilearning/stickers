@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## HTML & CSS 贴纸
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+渐变也可以从中心向边缘改变颜色，这被称为径向渐变。
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ 让我们用`HTML & CSS`文本创建一张贴纸。`&` 是另一种需要在HTML中编码的字符，代码为`&amp;`。
     
-    Add the highlighted code to create a new sticker:
+    添加高亮处代码以创建新的贴纸：
     
-    ![screenshot](images/stickers-web-html.png)
+    ![截图](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ 现在，切换至您的`style.css`文件并为您的新贴纸添加一个样式。
     
-    ![screenshot](images/stickers-web-font.png)
+    ![截图](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    `text-shadow`代码可以添加阴影，此阴影可向文本下和右侧延申2px，使其突出。
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ 现在进行渐变。这次让我们使用径向渐变。颜色将由黄色从中心变为橙色，随后变为红色。
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![截图](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    请注意，渐变可以包含多种颜色，并不只有两种。
 
-+ The sticker will look much better with some padding and a rounded border.
++ 带有内边距和圆角的贴纸看起来会好很多。
     
-    Add the highlighted code:
+    添加高亮处代码：
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![截图](images/stickers-web-padding.png)
