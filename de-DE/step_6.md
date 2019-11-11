@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Aufgabe: Noch mehr Aufkleber erstellen
+## Aufgabe: Noch mehr Sticker erstellen
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Nun versuche mehr Sticker mit verschiedenen Farbverlaufsrichtungen zu benutzen und Bilder und Text hinzuzufügen und Ränder und Umrisse zu verwenden.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Tipp: Du solltest für jeden Sticker HTML und CSS hinzufügen.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Du kannst ein Beispiel kopieren und bearbeiten und Änderungen vornehmen, um einen neuen Sticker zu erstellen.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Dein Projekt enthält bereits eine Reihe von Roboterbildern. Klicke auf auf das Bildsymbol, um die verfügbaren Bilder anzuzeigen.
 
 ![Screenshot](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+In diesem Beispiel wird ein linearer Farbverlauf mit nach rechts (`to right`) verwendet:
 
 ![Screenshot](images/stickers-green-html.png)
 
