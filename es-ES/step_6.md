@@ -12,7 +12,7 @@ Tu proyecto ya incluye un conjunto de imágenes de robot. Haz clic en el icono d
 
 ![captura de pantalla](images/stickers-images.png)
 
-Este ejemplo utiliza un gradiente lineal con `to right`:
+Este ejemplo utiliza un gradiente lineal con `to right (hacia derecha)`:
 
 ![captura de pantalla](images/stickers-green-html.png)
 

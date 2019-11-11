@@ -8,17 +8,17 @@ También puedes crear gradiente que van en diferentes direcciones.
     
     ![captura de pantalla](images/stickers-fire-html.png)
     
-    Puedes ajustar `altura` para redimensionar la imagen, el ancho cambiará automáticamente.
+    Puedes ajustar `height (altura)` para redimensionar la imagen, el ancho cambiará automáticamente.
 
-+ Normalmente, un degradado lineal se ejecuta de arriba a abajo, pero puedes usar `hacia` para cambiar la dirección. Por ejemplo: `hacia arriba`, `hacia izquierda` o `hacia derecha`.
++ Normalmente, un degradado lineal se ejecuta de arriba a abajo, pero puedes usar `to (hacia)` para cambiar la dirección. Por ejemplo: `to top (hacia arriba)`, `to left (hacia izquierda)` o `to right (hacia derecha)`.
     
-    Para un gradiente diagonal se dan dos direcciones. Este ejemplo usa `hacia abajo izquierda`.
+    Para un gradiente diagonal se dan dos direcciones. Este ejemplo usa `to bottom left (hacia abajo izquierda)`.
     
     Agrega este estilo a `style.css` para darle a tu nueva pegatina de robot un gradiente diagonal y un borde elegante:
     
     ![captura de pantalla](images/stickers-fire-gradient.png)
     
-    Ten en cuenta que puedes utilizar `contorno` para crear otro borde por fuera del habitual. `espacio-contorno` da la separación entre el borde y el contorno.
+    Ten en cuenta que puedes utilizar `outline (contorno)` para crear otro borde por fuera del habitual. `outline-offset (espacio-contorno)` da la separación entre el borde y el contorno.
 
 + Añadamos algo de texto a esta pegatina.
     
