@@ -14,19 +14,19 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In diesem Projekt werden Kinder in lineare und radiale Gradienten in CSS eingeführt,. Sie lernen auch mehr über Grenzen und Positionierung.
+In diesem Projekt werden Kinder in lineare und radiale Gradienten in CSS eingeführt. Sie lernen auch mehr über Ränder und Positionierung.
 
 ## Online-Ressourcen
 
 Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um online HTML & CSS schreiben zu können. Dieses Projekt enthält folgende Trinkets:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* [Startpunkt 'Stickers' - jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* ['Stickers' beendet -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
 ## Offline-Ressourcen
 
@@ -40,18 +40,18 @@ Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en
 * stickers/script.js
 * stickers/robot .png images
 
-Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
+Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwilligenhelfer". Diese enthält:
 
-* stickers-finished/index.html
-* stickers-finished/style.css
-* stickers-finished/script.js
+* sticker-finished / index.html
+* sticker-finished/style.css
+* sticker-finished/script.js
 * stickers-finished/robot .png images
 
-(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
+(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwilligenhelfer heruntergeladen werden.)
 
 ## Lernziele
 
-* In diesem Projekt wird in die Verwendung von CSS-Verläufen eingeführt, um interessante Effekte zu erzielen. Die Schüler werden auch ihre Kenntnisse über CSS-Grenzen und -Positionierung erweitern. 
+* In diesem Projekt wird in die Verwendung von CSS-Gradianten eingeführt, um interessante Effekte zu erzielen. Die Schüler werden auch ihre Kenntnisse über CSS-Umrandungen und -Positionierung erweitern. 
 
 Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
@@ -59,8 +59,8 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-* "Erstelle deinen eigenen Verlaufssticker" - Füge lineare und radiale Verläufe zum Text hinzu;
-* "Mache mehr Stickers!" - Kombiniere Farbverläufe mit Bildern und Text, um mehr Aufkleber zu erstellen.
+* "Erstelle deinen eigenen Farbverlaufs-Aufkleber" - Füge lineare und radiale Farbverläufe zum Text hinzu;
+* "Erstelle weitere Aufkleber!" - Kombiniere Farbverläufe mit Bildern und Text, um mehr Aufkleber zu erstellen.
 
 \--- /collapse \---
 
@@ -71,8 +71,8 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 ## Projektressourcen
 
 * [.zip-Datei mit allen Projektressourcen](resources/stickers-project-resources.zip)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
+* [Online-Trinket mit allen "Intro"-Projektressourcen](http://jumpto.cc/web-intro)
+* [Online-Trinket mit allen 'Aufkleber'-Projektressourcen](http://jumpto.cc/web-stickers)
 * [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
 * [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -93,16 +93,16 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 * [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/stickers-volunteer-resources.zip)
 * [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/bb4e538e0a)
-* [stickers-finished/index.html](resources/stickers-finished-index.html)
-* [stickers-finished/style.css](resources/stickers-finished-style.css)
-* [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
-* [stickers-finished/bluerobot.png](resources/stickers-finished-bluerobot.png)
-* [stickers-finished/firerobot.png](resources/stickers-finished-firerobot.png)
-* [stickers-finished/purplerobot.png](resources/stickers-finished-purplerobot.png)
-* [stickers-finished/spacerobot.png](resources/stickers-finished-spacerobot.png)
-* [stickers-finished/dogrobot.png](resources/stickers-finished-dogrobot.png)
-* [stickers-finished/greenrobot.png](resources/stickers-finished-greenrobot.png)
-* [stickers-finished/rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
-* [stickers-finished/yellowrobot.png](resources/stickers-finished-yellowrobot.png)
+* [sticker-finished/index.html](resources/stickers-finished-index.html)
+* [sticker-finished/style.css](resources/stickers-finished-style.css)
+* [sticker-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
+* [sticker-finished/bluerobot.png](resources/stickers-finished-bluerobot.png)
+* [sticker-finished/firerobot.png](resources/stickers-finished-firerobot.png)
+* [sticker-finished/purplerobot.png](resources/stickers-finished-purplerobot.png)
+* [sticker-finished/spacerobot.png](resources/stickers-finished-spacerobot.png)
+* [sticker-finished/dogrobot.png](resources/stickers-finished-dogrobot.png)
+* [sticker-finished / greenrobot.png](resources/stickers-finished-greenrobot.png)
+* [sticker-finished/rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
+* [sticker-finished/yellowrobot.png](resources/stickers-finished-yellowrobot.png)
 
 \--- /collapse \---
