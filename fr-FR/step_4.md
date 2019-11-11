@@ -1,21 +1,20 @@
 --- challenge ---
-## Défi: Créez votre propre sticker dégradé
 
-Maintenant, créez votre propre sticker dégradé. Essayez des dégradés linéaires et radiaux en utilisant de multiples couleurs HTML. 
+## Défi: Crée ton propre autocollant dégradé
 
-Il vous faudra :
+Maintenant, crée ton propre autocollant dégradé. Essaie des dégradés linéaires et radiaux en utilisant plusieurs couleurs HTML.
 
-+ Ajouter une `<div>` avec le texte de votre sticker à `index.html` et lui donner la classe `sticker` ainsi qu'un nouvel `id`.
-+ Ajouter un style pour l'`id` que vous avez choisi dans `style.css`. Vous pouvez copier l'un des styles de sticker que vous avez déjà réalisé et le modifier. 
+Tu auras besoin de:
 
-Voici une liste de tous les noms de couleurs que vous pouvez utiliser : [jumpto.cc/web-colours](http://jumpto.cc/web-colours), qui inclut les noms de couleurs comme `tomato`, `firebrick` et `peachpuff`.
++ Ajoute un `<div>` avec ton texte d'autocollant à `index.html` et donne lui la classe `sticker` et un nouvel `id`.
++ Ajoute un style pour l'`id` que tu choisi dans `style.css`. Tu peux copier l'un des styles d'autocollant que tu as déjà créé et modifie le. 
 
-Si vous voulez changer la couleur du texte, vous pouvez utiliser `color:`.
+Tu peux utiliser une liste de tous les noms de couleurs que tu peux utiliser: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), qui inclut des noms de couleur tels que `tomato` ,`firebrick` et `peachpuff`.
 
-Voici un exemple de ce que vous pouvez faire avec de multiples couleurs dans un dégradé linéaire :
+Si tu veux changer la couleur du texte, tu peux utiliser `color:`.
 
-![screenshot](images/stickers-save-robots.png)
+Voici un exemple de ce que tu peux faire avec plusieurs couleurs dans un dégradé linéaire:
 
-
+![capture d'écran](images/stickers-save-robots.png)
 
 --- /challenge ---

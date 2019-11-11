@@ -1,33 +1,41 @@
-## Degradados horizontales
+## Pegatina lujosa de un robot
 
-Los degradados también pueden ser horizontales además de verticales. 
+Puedes hacer una pegatina con gradiente utilizando una imagen. Si utilizas una imagen con un fondo transparente, el gradiente se verá a través de él.
 
-+ Vamos a crear una nueva pegatina con imagen. 
+También puedes crear gradiente que van en diferentes direcciones.
 
-	Esta vez vamos a usar la imagen `greenrobot.png`. Añade este código a `index.html`:
++ Añade una pegatina a `index.html` utilizando la imagen `firerobot.png`:
+    
+    ![captura de pantalla](images/stickers-fire-html.png)
+    
+    Puedes ajustar `height (altura)` para redimensionar la imagen, el ancho cambiará automáticamente.
 
-	![screenshot](images/stickers-green-html.png)
++ Normalmente, un degradado lineal se ejecuta de arriba a abajo, pero puedes usar `to (hacia)` para cambiar la dirección. Por ejemplo: `to top (hacia arriba)`, `to left (hacia izquierda)` o `to right (hacia derecha)`.
+    
+    Para un gradiente diagonal se dan dos direcciones. Este ejemplo usa `to bottom left (hacia abajo izquierda)`.
+    
+    Agrega este estilo a `style.css` para darle a tu nueva pegatina de robot un gradiente diagonal y un borde elegante:
+    
+    ![captura de pantalla](images/stickers-fire-gradient.png)
+    
+    Ten en cuenta que puedes utilizar `outline (contorno)` para crear otro borde por fuera del habitual. `outline-offset (espacio-contorno)` da la separación entre el borde y el contorno.
 
-+ Normalmente un degradado lineal va de arriba abajo, pero si escribimos `to right` (hacia la derecha), haremos que vaya de izquierda a derecha. 
++ Añadamos algo de texto a esta pegatina.
+    
+    Agrega un `<span>` que contenga el texto "ROBOTS" a `index.html` y dale un id.
+    
+    ![captura de pantalla](images/stickers-fire-span.png)
 
-	Añade el código resaltado en `style.css` para incluir un degradado horizontal en la pegatina del robot verde. 
++ El texto se verá mejor si lo haces más grande y lo posicionas.
+    
+    Para posicionar el texto, debes agregar `position: relative;` a `#greensticker` y `position: absolute` a `#greentext`. El posicionamiento se trata con más detalle en el proyecto `Construye un robot`.
+    
+    Agrega el siguiente código a `style.css`:
+    
+    ![captura de pantalla](images/stickers-fire-text-style.png)
 
-	![screenshot](images/stickers-green-style.png)
-
-	Fíjate que el degradado cambia de verde en la izquierda a amarillo en la derecha. 
-
-+ Parece que este robot quiere decir algo. Vamos a añadir texto a la pegatina. 
-
-	En la pestaña `index.html` escribe el texto '¡Hola!' en la pegatina del robot verde. Escríbelo dentro de un `<span>` con un id para poder asignarle un estilo:  
-
-	![screenshot](images/stickers-green-span.png)
-
-+ El texto se verá mejor si lo hacemos más grande y definimos su posición. 
-
-	Para definir la posición del texto tendrás que añadir `position: relative;` (posición: relativa) en `#greensticker` y `position: absolute` (posición absoluta) en `#greentext`. Esto se explica con más detalle en el proyecto `Construye un robot`. 
-
-	Añade el código resaltado en la pestaña `style.css`:
-
-	![screenshot](images/stickers-green-text-style.png)
-
-	Ahora el texto '¡Hola!' está situado en relación a la esquina inferior derecha de la pegatina. 
++ Y para el detalle final, giremos el texto usando `transform: rotate`.
+    
+    ![captura de pantalla](images/stickers-fire-rotate.png)
+    
+    Intenta cambiar el número de grados en que se gira el texto.

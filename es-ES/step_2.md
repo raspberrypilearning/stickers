@@ -1,47 +1,45 @@
-## Crear una pegatina con degradado lineal
+## Pegatina colorida de programación
 
-Un degradado en un cambio progresivo de un color a otro. Los degradados se pueden usar para crear efectos alucinantes. Vamos a aprender a usarlos para crear pegatinas que podrás usar en tus páginas web. 
+Un degradado o gradiente es un cambio gradual de un color a otro. Los gradientes se pueden utilizar para crear efectos geniales. Los vas a utilizar para crear adhesivos que puedes usar en tus páginas web.
 
-+ Abre este trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>. Si estás leyendo este proyecto en línea, también puedes usar el trinket incrustado que encontrarás a continuación. 
++ Abre este Trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
+    
+    El proyecto debería parecerse a esto:
+    
+    ![captura de pantalla](images/stickers-starter.png)
 
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/af0ea6fa35" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
++ Hagamos una pegatina "Yo <3 programar"g' sticker.
+    
+    Utilice un `<div>` con una clase `sticker` y una Identificación `coding` para que puedas darle estilo:
+    
+    ![captura de pantalla](images/stickers-coding-error.png)
 
-+ Vamos a hacer una pegatina en la que ponga 'Yo <3 Programar'. 
++ Hmm, ¿notaste que recibiste un error? Esto se debe a que '<' es un carácter especial en HTML. En lugar de '<' necesitas usar el código especial `&lt;`.
+    
+    Actualiza tu código usando `&lt;` para que el error desaparezca.
+    
+    ![captura de pantalla](images/stickers-coding-fixed.png)
+    
+    `<br>` da una nueva línea.
 
-	Escribe un `<div>` con la class (categoría) `sticker` y el id `programar` para que le puedas dar estilo: 
++ Ahora vamos a hacer que la pegatina se vea interesante.
+    
+    Cambia al archivo `style.css`. Verás que ya tienes la clase `.sticker`. Esto diseñará pegatinas en la página y centrará su contenido.
+    
+    Recuerda que agregaste el la identificación `coding` a tu pegatina. En la parte inferior de `style.css` agrega el siguiente código para darle estilo al texto:
+    
+    ![captura de pantalla](images/stickers-coding-font.png)
 
-	![screenshot](images/stickers-coding-error.png)
++ Ahora puedes agregar un gradiente para el fondo de la etiqueta. Un degradado lineal cambia de un color a otro a lo largo de una línea recta.
+    
+    Este gradiente cambiará de rojo en la parte superior a magenta en la parte inferior. Agrega el código de gradiente a tu estilo `coding`:
+    
+    ![captura de pantalla](images/stickers-coding-gradient.png)
 
-
-+ Vaya... ¿Te has dado cuenta de que da un error? Eso es porque '<' es un carácter especial en HTML. En lugar de '<' tendrás que usar el código especial `&lt;`. 
-
-	Cambia tu código y usa `&lt;` para que desaparezca el error. 
-
-	![screenshot](images/stickers-coding-fixed.png)
-
-	`<br>` introduce una nueva línea. 
-
-+ Ahora vamos a hacer que la pegatina parezca más interesante. 
-
-	Cambia a la pestaña `style.css`. Verás que la categoría `.sticker` ya está creada. Con esto, las pegatinas se mostrarán en la página y su contenido se centrará.
-
-	Recuerda que has añadido el id `programar` a tu pegatina. Al final de `style.css` incluye este código para dar estilo al texto:
-
-	![screenshot](images/stickers-coding-font.png)
-
-+ A continuación puedes añadir un degradado para el fondo de la pegatina. Un degradado lineal cambia de un color a otro a lo largo de una línea recta.
-
-	Este degradado cambiará de rojo en la parte superior a magenta en la parte inferior. Añade el código de degradado al estilo `programar`:
-
-	![screenshot](images/stickers-coding-gradient.png)
-
-+ Puedes mejorar el resultado si añades relleno ("padding") y esquinas redondeadas. 
-
-	Escribe el código resaltado:
-
-	![screenshot](images/stickers-coding-padding.png)
-
-	El estilo `padding` añade relleno de 50px en la parte superior en inferior y 30px a la derecha e izquierda. 
++ Puedes mejorar el resultado agregando espacio alrededor y esquinas redondeadas.
+    
+    Agrega el código resaltado:
+    
+    ![captura de pantalla](images/stickers-coding-padding.png)
+    
+    El estilo `padding` agrega espacio de 50px en la parte superior e inferior y 30px a la izquierda y a la derecha.

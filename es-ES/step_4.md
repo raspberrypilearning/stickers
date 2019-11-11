@@ -1,35 +1,20 @@
-## Crea una pegatina con degradado que contenga una imagen
+--- challenge ---
 
-También puedes crear una pegatina con degradado usando una imagen. Si usas una imagen con el fondo transparente, el degradado se verá a través de la imagen. 
+## Desafío: crea tu propia etiqueta de gradiente
 
-+ Primero, vamos a crear una pegatina que incluya una imagen. 
-
-	Tu proyecto incluye una imagen que se llama `purplerobot.png`.
-
-	Añade el código resaltado a `index.html`:
-
-	![screenshot](images/stickers-purple-html.png)
-
-	Puedes ajustar la `altura` (height) para cambiar el tamaño de la imagen, el ancho cambiará automáticamente. 
-
-+ A continuación, añade el código de estilo para crear un fondo degradado en tu pegatina con imagen:
-
-	![screenshot](images/stickers-purple-css.png)
-
-## Desafío: Crea tu propia pegatina con una imagen 
-
-Ahora vas a crear tu propia pegatina de imagen con efecto degradado. 
+Ahora haz tu propia pegatina con gradienre. Prueba los gradientes lineales y radiales utilizando múltiples colores HTML.
 
 Tendrás que:
 
-+ Añadir en `index.html` un nuevo `<div>` de pegatina que incluya una imagen. 
-+ Añadir la categoría `sticker` y un nuevo id al div de pegatina.
-+ Crear un estilo para el nuevo id con degradado y relleno. 
++ Agregar un `<div>` con el texto de tu pegatina a `index.html` y darle la clase `pegatina` y un nuevo `id`.
++ Añade estilo para el `id` que elegiste en `style.css`. Puedes copiar uno de los estilos de etiqueta que ya has creado y editarlo. 
 
-El proyecto incluye una serie de imágenes de robots. Haz clic en el icono de imágenes para ver cuáles están disponibles. 
+Hay una lista de todos los nombres de colores que puedes usar: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), que incluye nombres de colores como `tomato`, `firebrick` y `peachpuff`.
 
-![screenshot](images/stickers-images.png)
+Si deseas cambiar el color del texto, puede usar `color:`.
 
-Este es un ejemplo de una pegatina con imagen y degradado lineal:
+Este es un ejemplo de lo que puedes hacer con varios colores en un gradiente lineal:
 
-![screenshot](images/stickers-blue-robot.png)
+![captura de pantalla](images/stickers-save-robots.png)
+
+--- /challenge ---

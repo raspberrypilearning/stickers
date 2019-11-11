@@ -1,47 +1,45 @@
-## Sticker codage coloré
+## Autocollant de codage coloré
 
-Un dégradé est un changement graduel d'une couleur à une autre. Les dégradés peuvent être utilisés pour créer des effets cool. Vous allez les employer pour créer des stickers que vous pouvez utiliser sur vos pages Web. 
+Un dégradé est un changement progressif d'une couleur à une autre. Les dégradés peuvent être utilisés pour créer des effets sympas. Tu vas les utiliser pour créer des autocollants que tu peux utiliser sur tes pages Web.
 
-+ Ouvrez ce trinket : <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>. 
++ Ouvre ce trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
+    
+    Le projet devrait ressembler à ceci:
+    
+    ![capture d'écran](images/stickers-starter.png)
 
-	Le projet doit ressembler à ça :
++ Faisons un 'J' <3 coderg' sticker.
+    
+    Utilise une classe `<div>` avec un `autocollant` et un id `coding` pour que tu puisses le styler:
+    
+    ![capture d'écran](images/stickers-coding-error.png)
 
-	![screenshot](images/stickers-starter.png)
++ Hmm as-tu remarqué que tu as une erreur? En effet, '<' est un caractère spécial en HTML. Au lieu de '<', tu dois utiliser le code spécial `&lt;`.
+    
+    Met à jour ton code pour utiliser `&lt;` de sorte que l'erreur disparaisse.
+    
+    ![capture d'écran](images/stickers-coding-fixed.png)
+    
+    `<br>` donne une nouvelle ligne.
 
-+ Faisons un sticker 'I <3 Coding'. 
++ Maintenant, rendons l'autocollant intéressant.
+    
+    Bascule vers le fichier `style.css`. Tu verras que la classe `.sticker` a été prévue pour toi. Cela permettra de mettre en page des autocollants sur la page et de centrer leur contenu.
+    
+    Rappels-toi que tu as ajouté l'id `coding` à ton autocollant. Au bas de `style.css` ajoute le code suivant pour styler le texte:
+    
+    ![capture d'écran](images/stickers-coding-font.png)
 
-	Utilisez une `<div>` avec une classe `sticker` et un id `coding` pour que vous puissiez y appliquer un style : 
++ Tu peux maintenant ajouter un dégradé pour l'arrière-plan de l'autocollant. Un dégradé linéaire change d'une couleur à une autre le long d'une ligne droite.
+    
+    Ce dégradé passera du rouge en haut au magenta en bas. Ajoute le code de dégradé à ton style `coding`:
+    
+    ![capture d'écran](images/stickers-coding-gradient.png)
 
-	![screenshot](images/stickers-coding-error.png)
-
-
-+ Hmm vous venez d'avoir une erreur ? C'est parce que '<' est un caractère spécial en HTML. À la place de '<', vous devez utiliser le code spécial `&lt;`. 
-
-	Mettez à jour votre code pour utiliser `&lt;` afin que l'erreur disparaisse. 
-
-	![screenshot](images/stickers-coding-fixed.png)
-
-	`<br>` donne une nouvelle ligne. 
-
-+ Maintenant, rendons le sticker plus intéressant. 
-
-	Passez au fichier `style.css`. Vous allez voir que la classe `.sticker` vous a été fournie. Elle agencera les stickers sur la page et centrera leur contenu. 
-
-	Souvenez-vous que vous avez ajouté l'id `coding` à votre sticker. Au bas de `style.css`, ajoutez le code suivant pour styliser le texte :
-
-	![screenshot](images/stickers-coding-font.png)
-
-+ Maintenant, vous pouvez ajouter un dégradé à l'arrière-plan du sticker. Un dégradé linéaire passe d'une couleur à une autre le long d'une ligne droite.
-
-	Ce dégradé sera rouge au sommet et magenta en bas. Ajoutez le code dégradé à votre style `coding` :
-
-	![screenshot](images/stickers-coding-gradient.png)
-
-+ Vous pouvez améliorer le résultat en ajoutant un remplissage et des angles arrondis. 
-
-	Ajoutez le code en surbrillance :
-
-	![screenshot](images/stickers-coding-padding.png)
-
-	Le style `padding` ajoute un remplissage de 50 px au sommet et au bas et de 30 px à gauche et à droite. 
-
++ Tu peux améliorer le résultat en ajoutant du remplissage et des coins arrondis.
+    
+    Ajoute le code en surbrillance:
+    
+    ![capture d'écran](images/stickers-coding-padding.png)
+    
+    Le style `padding` ajoute un remplissage de 50px en haut et en bas et de 30px à gauche et à droite.

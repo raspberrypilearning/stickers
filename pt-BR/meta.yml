@@ -1,4 +1,5 @@
-Title: Adesivos!
+---
+Title: Adesivos
 hero_image: images/stickers.png
 theme: orange
 duration: 2
@@ -7,14 +8,19 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Adesivos!
-description: Neste projeto, você vai criar vários adesivos divertidos que podem ser usados para decorar páginas web.
+description: Crie adesivos divertidos de robôs para decorar suas páginas da web.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
-interests: art
+interests: arte
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
-steps: 
-- title: Adesivos!
+last_tested: 01/01/2017
+steps:
+  - title: Introdução
+  - title: Adesivo colorido sobre Programação
+  - title: Adesivo de HTML & CSS
+  - title: 'Desafio: criar seu próprio adesivo com gradiente'
+  - title: 'Adesivo de robô enfeitado '
+  - title: 'Desafio: faça mais adesivos'

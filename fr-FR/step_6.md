@@ -1,23 +1,28 @@
 --- challenge ---
-## Défi: Faire plus de stickers
 
-Maintenant, essayez de faire plus de stickers en utilisant différentes directions de dégradés et en ajoutant des images, du texte et en utilisant des bordures et des contours. 
+## Défi: Faire plus d'autocollants
 
-Astuce : Vous allez devoir ajouter du HTML et CSS pour chaque sticker. 
+Essaie maintenant de créer plus d'autocollants en utilisant différentes directions de dégradé, en ajoutant des images et du texte et en utilisant des bordures et des contours.
 
-Vous pouvez copier et modifier l'un de vos exemples et faire des changements pour créer un nouveau sticker. 
+Conseil: Tu devras ajouter HTML et CSS pour chaque autocollant.
 
-Votre projet inclut déjà un ensemble d'images de robot. Cliquez sur l'icône images pour voir les images disponibles. 
+Tu peux copier et modifier l'un de tes exemples et apporter des modifications pour créer un nouvel autocollant.
 
-![screenshot](images/stickers-images.png)
+Ton projet comprend déjà un ensemble d'images de robot. Clique sur l'icône des images pour voir les images disponibles.
 
-Cet exemple utilise un dégradé linéaire avec `to right` :
+![capture d'écran](images/stickers-images.png)
 
-![screenshot](images/stickers-green-html.png)
+Cet exemple utilise un dégradé linéaire avec `to right`:
 
-![screenshot](images/stickers-green-style.png)
+![capture d'écran](images/stickers-green-html.png)
 
-
-
+![capture d'écran](images/stickers-green-style.png)
 
 --- /challenge ---
+
+
+**Traduction de la communauté** 
+
+Ce projet a été traduit par **Jonathan Vannieuwkerke** et vérifié par **Michel Arnols**.
+
+Nos incroyables bénévoles de traduction nous aident à donner aux enfants du monde entier la chance d'apprendre à coder. Vous pouvez nous aider à atteindre plus d'enfants en traduisant nos projets - en savoir plus sur [rpf.io/translate](https://rpf.io/translate).

@@ -1,44 +1,41 @@
-## Sticker robot fantaisiste
+## Autocollant robot fantaisiste
 
-Vous pouvez faire un sticker dégradé en utilisant une image. Si vous utilisez une image avec un arrière-plan transparent, alors le dégradé se verra à travers. 
+Tu peux créer un autocollant dégradé à l'aide d'une image. Si tu utilises une image avec un arrière-plan transparent alors le dégradé sera visible.
 
-Vous pouvez aussi créer des dégradés dans plusieurs directions différentes. 
+Tu peux également créer des dégradés à exécuter dans différentes directions.
 
-+ Ajoutez un sticker à `index.html` en utilisant l'image `firerobot.png` :
++ Ajoute un autocollant à `index.html` en utilisant l'image `firerobot.png`:
+    
+    ![capture d'écran](images/stickers-fire-html.png)
+    
+    Tu peux ajuster le `hauteur` pour redimensionner l'image, la largeur changera automatiquement.
 
-	![screenshot](images/stickers-fire-html.png)
++ Normalement, un dégradé linéaire va du haut vers le bas, mais tu peux utiliser `to` pour changer de direction. Par exemple: `to top` , `to left` ou `to right`.
+    
+    Pour un gradient en diagonale, tu donnes deux directions. Cet exemple utilise `to bottom left`.
+    
+    Ajoute ce style à `style.css` pour donner à ton nouvel autocollant robot un dégradé diagonal et une bordure fantaisie:
+    
+    ![capture d'écran](images/stickers-fire-gradient.png)
+    
+    Note que tu peux utiliser `outline` pour créer un autre bord en dehors de l'habituel. `outline-offset` donne l'écart entre la bordure et le contour.
 
-	Vous pouvez ajuster la `height` pour redimensionner l'image, la largeur changera automatiquement. 
++ Ajoutons du texte à cet autocollant.
+    
+    Ajoute un `<span>`contenant le texte "ROBOTS" à `index.html` et donne lui un id.
+    
+    ![capture d'écran](images/stickers-fire-span.png)
 
-+ Normalement, un dégradé linéaire part du haut vers le bas, mais vous pouvez utiliser `to` pour changer la direction. Par exemple : `to top`, `to left`, ou `to right`.
++ Le texte paraîtra mieux si tu le fais plus grand et le positionne.
+    
+    Pour positionner le texte, tu dois ajouter `position: relative;` à `#greensticker` et `position: absolute` à `#greentext`. Le positionnement est traité plus en détail dans le projet `Construire un robot`.
+    
+    Ajoute ce qui suit au fichier `style.css`:
+    
+    ![capture d'écran](images/stickers-fire-text-style.png)
 
-	Pour un dégradé diagonal, vous avez deux directions. Cet exemple utilise `to bottom left`.
-
-	Ajoutez ce style à `style.css` pour donner à votre nouveaux stick robot un dégradé diagonal et une bordure fantaisiste :
-
-	![screenshot](images/stickers-fire-gradient.png)
-
-	Notez que vous pouvez utiliser `outline` pour créer une autre bordure en dehors de l'habituelle. 
-	`outline-offset` donne l'écart entre la bordure et le contour. 
-
-+ Ajoutons un peu de texte à ce sticker. 
-
-	Ajoutez un `<span>` contenant le texte "ROBOTS" à `index.html` et donnez-lui un id. 
-
-	![screenshot](images/stickers-fire-span.png)
-
-+ Le texte aura une meilleure apparence si vous le grossissez et le positionnez. 
-
-	Pour positionner le texte, il vous faudra ajouter `position: relative;` à `#greensticker` et `position: absolute` à `#greentext`. Le positionnement est abordé plus en détails dans le projet `Construire un robot`. 
-
-	Ajoutez le code suivant à `style.css`:
-
-	![screenshot](images/stickers-fire-text-style.png)
-
-+ Et pour le twist final, faisons pivoter le texte en utilisant `transform: rotate`.
-
-	![screenshot](images/stickers-fire-rotate.png)
-
-	Essayez de changer le nombre de degrés de rotation du texte. 
-
-
++ Et pour une dernière rotation, fais pivoter le texte en utilisant `transform: rotate`.
+    
+    ![capture d'écran](images/stickers-fire-rotate.png)
+    
+    Essaie de changer le nombre de degrés de rotation du texte.

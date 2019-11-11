@@ -1,42 +1,28 @@
-## Degradados diagonales
+--- challenge ---
 
-También puedes crear degradados diagonales que van de esquina a esquina. 
+## Desafío: haz más pegatinas
 
-+ Añade una pegatina en `index.html` usando la imagen `firerobot.png`:
+Ahora intenta hacer más pegatinas usando diferentes direcciones de gradiente, agregando imágenes y texto y utilizando bordes y contornos.
 
-	![screenshot](images/stickers-fire-html.png)
+Consejo: Deberás agregar HTML y CSS para cada pegatina.
 
-+ Con un degradado diagonal damos dos direcciones. El ejemplo usa `to bottom left` (hacia abajo e izquierda).
+Puedes copiar y editar uno de los ejemplos y hacer cambios para crear una nueva pegatina.
 
-	Añade este estilo en `style.css` para dar a tu nueva pegatina de robot un degradado diagonal y un borde original:
+Tu proyecto ya incluye un conjunto de imágenes de robot. Haz clic en el icono de imágenes para ver las imágenes disponibles.
 
-	![screenshot](images/stickers-fire-gradient.png)
+![captura de pantalla](images/stickers-images.png)
 
-	Fíjate que puedes usar `outline` (contorno) para crear otro borde por fuera del habitual. 
-	`outline-offset` (compensación de contorno) incluye un espacio entre el borde y el contorno. 
+Este ejemplo utiliza un gradiente lineal con `to right (hacia derecha)`:
 
-+ Vamos a añadir texto a esta pegatina. 
+![captura de pantalla](images/stickers-green-html.png)
 
-	Añade un `<span>` con el texto "ROBOTS" en `index.html`, y asígnale un id. 
+![captura de pantalla](images/stickers-green-style.png)
 
-	![screenshot](images/stickers-fire-span.png)
+--- /challenge ---
 
-+ A continuación puedes decidir la posición del texto si añades el siguiente estilo:
 
-	![screenshot](images/stickers-fire-text-style.png)
+**Traducción aportada por la comunidad**
 
-+ Y para darle el último toque, vamos a rotar el texto con `transform: rotate` (transformar: rotar).
+Este proyecto fue traducido por **Laura Lurati** y revisado por **Sara Conde**.
 
-	![screenshot](images/stickers-fire-rotate.png)
-
-	Intenta cambiar el número de grados de rotación del texto.
-
-## Desafío: Más pegatinas
-
-Intenta crear más pegatinas usando diferentes direcciones para el degradado, añadiendo imágenes y texto y usando bordes y contornos. 
-
-Puedes copiar uno de los ejemplos y hacer cambios para crear una nueva pegatina. 
-
-Mira este ejemplo en el que hemos usado un degradado diagonal:
-
-![screenshot](images/stickers-dog-robot.png)
+Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translate](https://rpf.io/translate).

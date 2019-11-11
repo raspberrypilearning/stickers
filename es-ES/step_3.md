@@ -1,45 +1,27 @@
-## Crea una pegatina con degradado radial
+## Pegatina HTML & CSS
 
-Los degradados también pueden cambiar el color desde el centro hacia los extremos. Estos se llaman degradados radiales. 
+Los gradiente también pueden cambiar de color desde el centro hacia los bordes, esto se denomina gradiente radial.
 
-+ Vamos a crear una pegatina con el texto `HTML & CSS.`  `&` es otro carácter que necesita codificación en HTML. El código es `&amp;`.
++ Vamos a crear una etiqueta con el texto `HTML & CSS.` `&` es otro carácter que necesita codificación en HTML, el código es `&amp;`.
+    
+    Agrega el código resaltado para crear una nueva etiqueta:
+    
+    ![captura de pantalla](images/stickers-web-html.png)
 
-	Incluye el código resaltado para crear una nueva etiqueta: 
++ Ahora cambia a tu archivo `style.css` y añade un estilo para tu nueva etiqueta:
+    
+    ![captura de pantalla](images/stickers-web-font.png)
+    
+    El código `text-shadow` agrega una sombra que se extiende 2px debajo y a la derecha del texto para resaltarlo.
 
-	![screenshot](images/stickers-web-html.png)
++ Ahora el gradiente. Esta vez utilicemos un gradiente radial. El color cambiará de amarillo en el centro hasta naranja y luego rojo.
+    
+    ![captura de pantalla](images/stickers-web-gradient.png)
+    
+    Ten en cuenta que los gradientes pueden incluir varios colores, no solo dos.
 
-+ Después, cambia a la pestaña `style.css` y añade estilo a la nueva pegatina:
-
-	![screenshot](images/stickers-web-font.png)
-
-	El código `text-shadow` añade una sombra que se extiende 2px por debajo y a la derecha del texto para hacer que este destaque. 
-
-+ Vamos a por el degradado. Esta vez vamos a usar un degradado radial. El color cambiará de amarillo en el centro, pasando por naranja, y finalmente a rojo. 
-
-	![screenshot](images/stickers-web-gradient.png)
-
-	Fíjate que los degradados pueden incluir varios colores, no sólo dos. 
-
-+ La pegatina mejorará mucho con un poco de relleno y las esquinas redondeadas. 
-
-	Añade el código resaltado:
-
-	![screenshot](images/stickers-web-padding.png)
-
-## Desafío: Crea tu propia pegatina con degradado
-
-Ahora haz tu propia pegatina con degradado. Prueba degradados lineales y radiales usando varios colores de HTML. 
-
-Tendrás que:
-
-+ Añadir un `<div>` con el texto de tu pegatina en `index.html` y asignarle la categoría `sticker` y un nuevo `id`.
-+ Añadir estilo al `id` que escojas en `style.css`. Podrías copiar uno de los estilos de etiqueta que ya has creado y editarlo. 
-
-Aquí encontrarás una lista con todos los nombres de colores que puedes usar: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), entre los que se encuentran nombres como `tomato` (tomate), `firebrick` (ladrillo), y `peachpuff` (melocotón).
-
-si quieres cambiar el color del texto, puedes usar `color:`.
-
-Este es un ejemplo de lo que puedes hacer con varios colores en un degradado lineal:
-
-![screenshot](images/stickers-save-robots.png)
-
++ La pegatina se verá mucho mejor con un poco de espacio y un borde redondeado.
+    
+    Agrega el código resaltado:
+    
+    ![captura de pantalla](images/stickers-web-padding.png)
