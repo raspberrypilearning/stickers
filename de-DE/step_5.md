@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## Ausgefallener Roboter-Aufkleber
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+Du kannst einen Farbverlaufs-Aufkleber mit einem Bild erstellen. Wenn du ein Bild mit einem transparenten Hintergrund verwendest, wird der Farbverlauf angezeigt.
 
-You can also create gradients to run in different directions.
+Du kannst auch Farbverläufe erstellen, die in verschiedene Richtungen verlaufen.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ Füge einen Aufkleber zu `index.html` mit dem `firerobot.png` Bild hinzu:
     
-    ![Screenshot](images/stickers-fire-html.png)
+    ![screenshot](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    Du kannst die Höhe (`height`) anpassen, um die Bildgröße zu ändern, die Breite wird sich automatisch ändern.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ Normalerweise verläuft ein linearer Farbverlauf von oben nach unten, aber du kannst jedoch (` to`) verwenden, um die Richtung zu ändern. Zum Beispiel: nach oben (`to top`), nach links (`to left`) oder nach rechts (`to right`).
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    Für einen diagonalen Farbverlauf gebe zwei Richtungen an. Dieses Beispiel verwendet nach unten links `to bottom left`.
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    Füge diesen Stil zu `style.css` hinzu, um deinem neuen Roboter-Sticker einen diagonalen Farbverlauf und einen ausgefallenen Rand zu geben:
     
-    ![Screenshot](images/stickers-fire-gradient.png)
+    ![screenshot](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    Beachte, dass du eine Außenlinie `outline ` verwenden kannst, um einen weiteren Rahmen außerhalb der üblichen zu erstellen. `outline-offset` gibt die Lücke zwischen dem Rand und der Umrisslinie an.
 
-+ Let's add some text to this sticker.
++ Fügen wir diesem Sticker-Text hinzu.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    Füge ein `<span>` mit dem Text "ROBOTER" zu `index.html` hinzu und gib ihm eine ID.
     
-    ![Screenshot](images/stickers-fire-span.png)
+    ![screenshot](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ Der Text wird besser aussehen, wenn du ihn vergrößerst und positionierst.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    Um den Text zu positionieren, musst du `position: relativ;` to `#greensticker` und ` und Position: absolute`to`#greentext` hinzufügen. Die Positionierung wird im `Baue ein Roboter` Projekt detaillierter behandelt.
     
-    Add the following code to `style.css`:
+    Füge folgenden Code `style.css` hinzu:
     
-    ![Screenshot](images/stickers-fire-text-style.png)
+    ![screenshot](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ Und für eine finale Wendung, lass uns den Text mit `transform: rotate` drehen.
     
     ![screenshot](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    Versuche, die Anzahl der Grade, mit dem der Text gedreht wird, zu ändern.
