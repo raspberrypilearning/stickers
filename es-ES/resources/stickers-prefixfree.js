@@ -2,7 +2,7 @@
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
- */
+ * /
 
 (function(){
 
@@ -80,7 +80,7 @@ var self = window.StyleFix = {
 					parent.insertBefore(style, link);
 					parent.removeChild(link);
 					
-					style.media = link.media; // Duplicate is intentional. See issue #31
+					style.media = link.media; // Duplicate is intentional. Ver numero # 31
 				}
 		};
 
@@ -88,7 +88,7 @@ var self = window.StyleFix = {
 			xhr.open('GET', url);
 			xhr.send(null);
 		} catch (e) {
-			// Fallback to XDomainRequest if available
+			// Retirar a XDomainRequest si está disponible
 			if (typeof XDomainRequest != "undefined") {
 				xhr = new XDomainRequest();
 				xhr.onerror = xhr.onprogress = function() {};
@@ -121,13 +121,13 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Linked stylesheets
+		// Hojas de estilos vinculadas
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		// Inline stylesheets
+		// Hojas de estilos en línea
 		$('style').forEach(StyleFix.styleElement);
 		
-		// Inline styles
+		// Estilos en línea
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -153,26 +153,26 @@ var self = window.StyleFix = {
 	}
 };
 
-/**************************************
+/ **************************************
  * Process styles
- **************************************/
+ ************************************** /
 (function(){
 	setTimeout(function(){
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
 	}, 10);
 	
 	document.addEventListener('DOMContentLoaded', StyleFix.process, false);
-})();
+}) ();
 
 function $(expr, con) {
 	return [].slice.call((con || document).querySelectorAll(expr));
 }
 
-})();
+}) ();
 
-/**
+/ **
  * PrefixFree
- */
+ * /
 (function(root){
 
 if(!window.StyleFix || !window.getComputedStyle) {
@@ -259,9 +259,9 @@ var self = window.PrefixFree = {
 	}
 };
 
-/**************************************
+/ **************************************
  * Properties
- **************************************/
+ ************************************** /
 (function() {
 	var prefixes = {},
 		properties = [],

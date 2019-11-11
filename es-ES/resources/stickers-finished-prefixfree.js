@@ -1,8 +1,8 @@
-/**
+/ **
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
- */
+ * /
 
 (function(){
 
@@ -153,26 +153,26 @@ var self = window.StyleFix = {
 	}
 };
 
-/**************************************
+/ **************************************
  * Process styles
- **************************************/
+ ************************************** /
 (function(){
 	setTimeout(function(){
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
 	}, 10);
 	
 	document.addEventListener('DOMContentLoaded', StyleFix.process, false);
-})();
+}) ();
 
 function $(expr, con) {
 	return [].slice.call((con || document).querySelectorAll(expr));
 }
 
-})();
+}) ();
 
 /**
  * PrefixFree
- */
+ * /
 (function(root){
 
 if(!window.StyleFix || !window.getComputedStyle) {
@@ -259,9 +259,9 @@ var self = window.PrefixFree = {
 	}
 };
 
-/**************************************
+/ **************************************
  * Properties
- **************************************/
+ ************************************** /
 (function() {
 	var prefixes = {},
 		properties = [],
@@ -345,11 +345,11 @@ var self = window.PrefixFree = {
 	}
 	
 	self.properties.sort();
-})();
+}) ();
 
 /**************************************
  * Values
- **************************************/
+ ************************************** /
 (function() {
 // Values that might need prefixing
 var functions = {
@@ -430,9 +430,9 @@ for (var keyword in keywords) {
 	}
 }
 
-})();
+}) ();
 
-/**************************************
+/ **************************************
  * Selectors and @-rules
  **************************************/
 (function() {
@@ -443,7 +443,7 @@ selectors = {
 	':read-write': null,
 	':any-link': null,
 	'::selection': null
-},
+}
 
 atrules = {
 	'keyframes': 'name',
@@ -480,7 +480,7 @@ for(var atrule in atrules) {
 
 root.removeChild(style);
 
-})();
+}) ();
 
 // Properties that accept properties as their value
 self.valueProperties = [
