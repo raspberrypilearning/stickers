@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## 绚丽的机器人贴纸
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+您可以使用图像制作一张渐变贴纸。如果您使用一张透明背景的图像，那么，渐变就得以显示。
 
-You can also create gradients to run in different directions.
+您也可以创建不同方向的渐变效果。
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ 使用`firerobot.png`图像向`index.html`中添加一张贴纸。
     
-    ![screenshot](images/stickers-fire-html.png)
+    ![截图](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    您可以通过调整`height`来调整图像大小，宽度将自动进行更改。
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ 通常，线性渐变是自上而下的，但是您可以使用`to`来改变其方向。例如，`to top`、`to left`，或者`to right`。
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    对于对交渐变，您可以指定两个方向。以下示例使用`to bottom left`。
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    将此样式添加至`style.css`，给您的新机器人贴纸添加对角渐变和圆角。
     
-    ![screenshot](images/stickers-fire-gradient.png)
+    ![截图](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    请注意，您可以使用`outline`在普通边界外添加另一个边界。 `outline-offset`用于在边界和轮廓间添加空隙。
 
-+ Let's add some text to this sticker.
++ 让我们在这张贴纸上添加文本。
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    在`index.html`中添加含有文本"ROBOTS"的`<span>`标签，并给它一个id。
     
-    ![screenshot](images/stickers-fire-span.png)
+    ![截图](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ 如果您放大并对其进行定位，此文本看起来会更好。
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    您将需要在`#greensticker`中添加`position: relative;`，在`#greentext`中添加`position: absolute`，以定位文本。 `Build a Robot`项目中，有对定位的详细介绍。
     
-    Add the following code to `style.css`:
+    将以下代码添加至`style.css`中：
     
-    ![screenshot](images/stickers-fire-text-style.png)
+    ![截图](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ 最后，让我们使用`transform: rotate`旋转文本。
     
-    ![screenshot](images/stickers-fire-rotate.png)
+    ![截图](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    尝试改变文本的旋转角度。
