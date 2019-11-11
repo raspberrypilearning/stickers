@@ -26,7 +26,7 @@ Ein Farbverlauf ist ein allmählicher Wechsel von einer Farbe zur anderen. Mit F
     
     Wechsel in die Datei `style.css`. Du wirst sehen, dass die `.sticker` Klasse für Dich bereitgestellt wurde. Dadurch werden Aufkleber auf der Seite angeordnet und deren Inhalt zentriert.
     
-    Denke daran, dass du die Id `coding` zu deinen Sticker hinzugefügt hast. Am Ende von `style.css` fügst du den folgenden Code hinzu, um den Text zu stilisieren:
+    Denke daran, dass du die Id `coding` zu deinem Sticker hinzugefügt hast. Am Ende von `style.css` fügst du den folgenden Code hinzu, um den Text zu stilisieren:
     
     ![Screenshot](images/stickers-coding-font.png)
 
