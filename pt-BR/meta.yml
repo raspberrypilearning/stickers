@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Stickers!
-description: Neste projeto, você vai criar vários adesivos divertidos que podem ser usados para decorar páginas web.
+title: Adesivos!
+description: Crie adesivos divertidos de robôs para decorar suas páginas da web.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: arte
 technologies: html-css-javascript
