@@ -1,4 +1,4 @@
-## Fancy robot sticker
+## Adesivo de robô enfeitado
 
 Você pode fazer um adesivo com gradiente usando uma imagem. Se você usar uma imagem com fundo transparente, o gradiente será exibido ao fundo.
 
@@ -28,7 +28,7 @@ Você também pode criar gradientes para percorrer diferentes direções.
 
 + O texto ficará melhor se você aumentá-lo e posicioná-lo.
     
-    Para posicionar o texto, você precisará adicionar ` position: relative; ` para ` #firerobot` e `position: absolute` para ` #firetext `. Posicionamento é coberto com mais detalhes no projeto` Build a Robot `.
+    Para posicionar o texto, você precisará adicionar ` position: relative; ` para ` #firerobot` e `position: absolute` para ` #firetext `. Posicionamento é coberto com mais detalhes no projeto` Construa um Robô `.
     
     Adicione o seguinte código ao ` style.css `:
     
