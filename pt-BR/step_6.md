@@ -1,6 +1,6 @@
 \--- desafio \---
 
-## Challenge: Make more stickers
+## Desafio: faça mais adesivos
 
 Agora tente criar mais adesivos usando diferentes direções de gradiente e adicionando imagens e texto e usando bordas e contornos.
 
@@ -18,4 +18,4 @@ Este exemplo usa um gradiente linear com `to right` (para a direita):
 
 ![screenshot](images/stickers-green-style.png)
 
-\--- /challenge \---
+\--- /desafio \---
