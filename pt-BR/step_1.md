@@ -2,7 +2,7 @@
 
 Neste projeto, você criará muitos adesivos divertidos que você poderá usar para decorar páginas da web. Você aprenderá sobre o uso de gradientes que mudam gradualmente de uma cor para outra para fazer seus adesivos bem legais.
 
-![screenshot](images/stickers-finished.png)
+![captura de tela](images/stickers-finished.png)
 
 ### Informação adicional para líderes de clubes
 
@@ -14,13 +14,13 @@ Se você precisar imprimir este projeto, use a [Versão para Impressão](https:/
 
 ## Introdução:
 
-Neste projeto, as crianças serão apresentadas aos gradientes lineares e radiais em CSS. Eles também aprenderão mais sobre bordas e posicionamento.
+Neste projeto, as crianças aprenderão gradientes lineares e radiais em CSS. Eles também aprenderão mais sobre bordas e posicionamento.
 
 ## Recursos Online
 
 Recomendamos usar o[ trinket ](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* [Ponto de partida do 'Adesivos' -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 As crianças também podem fazer uso deste trinket em branco [ (jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este template trinket [ (jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
@@ -64,7 +64,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 \--- /collapse \---
 
-## \--- colapso \---
+## \--- collapse \---
 
 ## Título: Materiais do projeto
 
