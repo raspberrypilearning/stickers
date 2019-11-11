@@ -1,26 +1,26 @@
 ## HTML & CSS-Sticker
 
-Die Farbverläufe können auch von der Mitte nach oben hin zu den Kanten wechseln, dies wird als radialer Gradient bezeichnet.
+Die Farbverläufe können auch von der Mitte nach oben hin zu den Seiten wechseln, dies wird als radialer Gradient bezeichnet.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ Lass uns einen einen neuen Sticker mit dem Text `HTML & CSS erstellen. ` `&` ist ein anderer Charakter, der in HTML codiert werden muss, der Code ist `&amp;`.
     
-    Add the highlighted code to create a new sticker:
+    Füge den markierten Code hinzu, um einen neuen Sticker zu erstellen:
     
     ![Screenshot](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ Wechsel nun zu deiner `style.css` Datei und füge einen Stil für deinen neuen Sticker hinzu:
     
     ![screenshot](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    Der `Textschatten` Code fügt einen Schatten hinzu, der sich 2 Pixel unter und auf der rechten Seite vom Text befindet, um ihn hervorzuheben.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ Nun zum Farbverlauf. Dieses Mal verwenden wir einen radialen Verlauf. Die Farbe wechselt von gelb in der Mitte zu orange und dann zu rot.
     
     ![Screenshot](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    Beachte, dass Gradienten mehrere Farben enthalten können, nicht nur zwei.
 
-+ The sticker will look much better with some padding and a rounded border.
++ Mit etwas Polsterung und einem abgerundeten Rand sieht der Aufkleber viel besser aus.
     
     Füge den markierten Code hinzu:
     
