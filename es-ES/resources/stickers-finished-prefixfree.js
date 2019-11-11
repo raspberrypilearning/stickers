@@ -121,7 +121,7 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Hojas de estilos vinculadas
+		// Linked stylesheets
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
 		// Inline stylesheets
