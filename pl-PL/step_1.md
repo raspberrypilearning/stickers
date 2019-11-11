@@ -20,7 +20,7 @@ Wykonując ten projekt dzieci poznają liniowy i promienisty gradient w CSS. Nau
 
 Do pisania kodu HTML i CSS online rekomendujemy użytkowanie edytora [trinket](https://trinket.io/). Do tego projektu udostępnione są następujące szablony:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* ["Naklejki" - początek -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
 Dzieci mogą też używać pustego edytora [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) do pisania swojego kodu HTML i CSS lub skorzystać z tego szablonu [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
