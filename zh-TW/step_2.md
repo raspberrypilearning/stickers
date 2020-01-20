@@ -1,14 +1,14 @@
 ## 彩色編碼貼紙
 
-漸變是從一種顏色到另一種顏色的逐漸變化。漸變可用於創建炫酷效果。您將使用它們來創建可在網頁上使用的貼紙。
+漸層是從一種顏色逐漸變化到另一種顏色。漸層可用於創造出炫酷的效果。您將使用它們來做出可在網頁上使用的貼紙。
 
-+ 打開這個小飾品： <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>。
++ 打開這個trinket： <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>。
     
     該項目應如下所示：
     
     ![截圖](images/stickers-starter.png)
 
-+ 讓我們做一個'I <3 Coding' sticker.
++ 讓我們做一個'I <3 程式'貼紙。g' sticker.
     
     使用 `<div>` 與 `貼紙` 類和 `編碼` id，以便您可以設置它：
     
