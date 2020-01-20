@@ -1,45 +1,45 @@
-## Colourful coding sticker
+## ملصق برمجة متعدد الألوان
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+التدرج هو تغيير تدريجي من لون إلى آخر. التدرجات يمكن استخدامها لخلق تأثيرات جميلة. ستستخدمها لإنشاء ملصقات يمكنك استخدامها على صفحات الويب الخاصة بك.
 
 + افتح مشروع trinket هذا: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    الآن يجب أن يبدو الملف الخاص بك مثل هذا:
+    يجب أن يظهر المشروع بالشكل التالي:
     
     ![لقطة الشاشة](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ دعونا نجعل 'I<3 Coding' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    استخدم a `<div>` with a `sticker` class and a `coding` id حتى يمكنك من النمط:
     
     ![لقطة الشاشة](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ هل لاحظت أنك حصلت على خطأ؟ هذا لأن "<" حرف خاص في HTML. بدلاً من "<" تحتاج إلى استخدام الكود الخاص `&lt؛ `.
     
-    Update your code to use `&lt;` so that the error goes away.
+    قم بتحديث الكود الخاص بك لاستخدام `&lt;` بحيث يذهب الخطأ بعيدا.
     
     ![لقطة الشاشة](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` يعطي سطر جديد.
 
-+ Now let's make the sticker look interesting.
++ الآن لنجعل الملصق يبدو ممتعًا.
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    بدّل إلى`style.css` ملف. سترى أن `. sticker` وقد تم توفير الطبقة لك. سيؤدي ذلك إلى تصميم ملصقات على الصفحة وتوسيط محتواها.
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    تذكر أنك قمت بإضافة كود الترميز إلى الملصق الخاص بك. في أسفل `style.css` أضف الكود التالي لنمط النص:
     
     ![لقطة الشاشة](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ يمكنك الآن إضافة تدرج للخلفية للملصق. يتغير التدرج الخطي من لون إلى آخر على طول خط مستقيم.
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    سوف يتغير هذا التدرج من الأحمر في الأعلى إلى أرجواني في الأسفل. أضف رمز التدرج إلى `الترميز ` أسلوب:
     
     ![لقطة الشاشة](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ يمكنك تحسين النتيجة عن طريق إضافة حشوة وزوايا مستديرة.
     
-    Add the highlighted code:
+    أضف الكود المظل:
     
     ![لقطة الشاشة](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    اضف الى النمط حشوة 50 بكسل من الأعلى والأسفل و 30 بكسل على اليسار واليمين.
