@@ -10,7 +10,7 @@ Un degradado o gradiente es un cambio gradual de un color a otro. Los gradientes
 
 + Hagamos una pegatina "Yo <3 programar"g' sticker.
     
-    Utilice un `<div>` con una clase `sticker` y una Identificación `coding` para que puedas darle estilo:
+    Utiliza un `<div>` con una clase `sticker` y una Identificación `coding` para que puedas darle estilo:
     
     ![captura de pantalla](images/stickers-coding-error.png)
 
