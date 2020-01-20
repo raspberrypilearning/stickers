@@ -10,7 +10,7 @@ Puoi anche creare sfumature da eseguire in diverse direzioni.
     
     Puoi cambiare l'altezza dell'immagine utilizzando il parametro `height`. In questo modo la larghezza cambierà automaticamente.
 
-+ Normalmente un gradiente lineare va dall'alto verso il basso, ma puoi usare il parametro ` to ` cambiare la direzione. Ad esempio: `to top ` (verso l'alto), ` to left ` (verso sinistra) o ` to right ` (verso destro).
++ Normalmente un gradiente lineare va dall'alto verso il basso, ma puoi usare il parametro ` to ` per cambiare la direzione. Ad esempio: `to top ` (verso l'alto), ` to left ` (verso sinistra) o ` to right ` (verso destra).
     
     Per un gradiente diagonale si danno due direzioni. Questo esempio utilizza ` to bottom left ` (in basso a sinistra).
     
@@ -28,7 +28,7 @@ Puoi anche creare sfumature da eseguire in diverse direzioni.
 
 + Il testo sembrerà migliore se lo ingrandisci e lo posizioni.
     
-    Per posizionare il testo dovrai aggiungere ` position: relative; ` allo stile dell'adesivo e ` position: absolute ` allo stille dello `span<code>. Il posizionamento è trattato più in dettaglio nel progetto <code> Costruisci un Robot `.
+    Per posizionare il testo dovrai aggiungere `position: relative; ` allo stile dell'adesivo `#greensticker` e `position: absolute` allo stile `#greentext`. Il posizionamento è trattato più in dettaglio nel progetto ` Costruisci un Robot `.
     
     Aggiungi il seguente codice al file ` style.css `:
     
