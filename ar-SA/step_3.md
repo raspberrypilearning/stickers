@@ -1,6 +1,6 @@
-## HTML & CSS sticker
+## ملصق HTML & CSS
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+يمكن للتدرجات أيضًا تغيير اللون من المنتصف للخارج نحو الحواف ، وهذا ما يسمى التدرج الشعاعي.
 
 + Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
     
