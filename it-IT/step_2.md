@@ -1,6 +1,6 @@
 ## Programmare un adesivo colorato
 
-Un gradiente è un cambiamento graduale da un colore all'altro. Le sfumature possono essere utilizzate per creare effetti interessanti. Li userai per creare adesivi che potrai utilizzare sulle tue pagine web.
+Un gradiente è un cambiamento graduale da un colore all'altro. Le sfumature possono essere utilizzate per creare effetti interessanti. Le userai per creare adesivi che potrai utilizzare sulle tue pagine web.
 
 + Apri questo trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
