@@ -6,8 +6,8 @@ Ora crea il tuo adesivo sfumato. Prova ad implementare gradienti lineari e radia
 
 Avrai bisogno di:
 
-+ Aggiungi un `<div>` con il testo dell'adesivo al file `index.html ` e assegnali la classe `adesivo` e un nuovo ` id `.
-+ Aggiungi lo stile per l' `id` che hai scelto in ` style.css `. Potresti copiare uno degli stili di adesivo che hai già creato nei passaggi precedenti e modificarlo. 
++ Aggiungere un `<div>` con il testo dell'adesivo al file `index.html ` e assegnargli la classe `adesivo` e un nuovo ` id `.
++ Aggiungere lo stile per l' `id` che hai scelto in ` style.css `. Potresti copiare uno degli stili di adesivo che hai già creato nei passaggi precedenti e modificarlo. 
 
 Esiste una lista di tutti i nomi dei colori che puoi utilizzare: [ jumpto.cc/web-colours ](http://jumpto.cc/web-colours), include nomi di colori come ` tomato `, ` firebrick ` e ` peachpuff `.
 
