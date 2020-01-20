@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, дизайн -1, програмування-0, phys-comp-0, виробництво-0, спільнота-0
-title: Stickers!
-description: У цьому проекті ви створите багато веселих наклейок, які можна використовувати, щоб прикрасити веб-сторінки.
+title: Наклейки!
+description: Створюй веселі наклейки з роботом, щоб прикрасити свою веб-сторінку.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
@@ -29,4 +29,4 @@ steps:
   - 
     title: 'Наклейка робот-смайлик '
   - 
-    title: 'Завдання: зробіть більше наклейок'
+    title: 'Завдання: зроби більше наклейок'
