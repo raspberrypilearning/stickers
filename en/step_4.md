@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Create your own gradient sticker
 
 Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours. 
@@ -15,8 +16,5 @@ If you want to change the text colour you can use `color:`.
 Here's an example of what you can do with multiple colours in a linear gradient:
 
 ![screenshot](images/stickers-save-robots.png)
-
-
-
 
 --- /challenge ---
