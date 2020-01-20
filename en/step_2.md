@@ -14,7 +14,6 @@ A gradient is a gradual change from one colour to another. Gradients can be used
 
 	![screenshot](images/stickers-coding-error.png)
 
-
 + Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`. 
 
 	Update your code to use `&lt;` so that the error goes away. 

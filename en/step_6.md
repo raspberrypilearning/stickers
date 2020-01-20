@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Make more stickers
 
 Now try making more stickers using different gradient directions and adding images and text and using borders and outlines. 
@@ -16,8 +17,5 @@ This example uses a linear gradient with `to right`:
 ![screenshot](images/stickers-green-html.png)
 
 ![screenshot](images/stickers-green-style.png)
-
-
-
 
 --- /challenge ---
