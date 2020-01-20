@@ -1,8 +1,8 @@
 ## المقدمة
 
-In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
+في هذا المشروع سوف يتم تكوين العديد من الملصقات الممتعة والتي يمكن استخدامها لتزيين صفحات الويب. ستتعلم كيفية استخدام التدرجات اللونية التي تتغير تدريجياً من لون إلى آخر لتبدو الملصقات رائعة.
 
-![لقطة شاشة](images/stickers-finished.png)
+![لقطة الشاشة](images/stickers-finished.png)
 
 ### معلومات إضافية لقادة النادي
 
@@ -10,23 +10,23 @@ In this project, you'll create lots of fun stickers that you can use to decorate
 
 ## \--- collapse \---
 
-## title: ملاحظات قادة النادي
+## ملاحظات قادة النادي
 
 ## مقدمة:
 
-In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
+في هذا المشروع ، سيتم تعريف الأطفال على التدرجات الخطية والشعاعية في CSS. سيتعلمون أيضًا المزيد عن الحدود وتحديد المواقع.
 
 ## الموارد المتوفرة على الإنترنت
 
 لكتابة ملفات HTML & CSS نوصي بإستخدام [trinket](https://trinket.io/). يحتوي هذا المشروع على ملفات trinket التالية:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* [نقطة انطلاق "ملصقات" - jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML و & CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML وamp& و CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
 
-* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* ["مطلوب" انتهى - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
@@ -51,16 +51,16 @@ In this project, children will be introduced to linear and radial gradients in C
 
 ## أهداف التعلم
 
-* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
+* يقدم هذا المشروع استخدام تدرجات CSS لإنشاء تأثيرات مثيرة للاهتمام. سيقوم الطلاب أيضًا بتوسيع معرفتهم لحدود CSS وتحديد المواقع. 
 
-يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [الأصول الأساسية للتصميمات ثنائية الأبعاد وثلاثية الأبعاد](https://www.raspberrypi.org/curriculum/design/creator).
+* [التصاميم الأساسية لنماذج ثنائية وثلاثية الأبعاد.](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## التحديات
 
-* "Create your own gradient sticker" - adding linear and radial gradients to text;
-* "Make more stickers!" - Combine gradients with images and text to create more stickers.
+* "إنشاء ملصق تدرج خاص بك" - إضافة تدرجات خطية وشعاعية إلى نص ؛;
+* "اصنع المزيد من الملصقات!" - الجمع بين التدرجات مع الصور والنص لإنشاء المزيد من الملصقات.
 
 \--- collapse \---
 
@@ -71,8 +71,8 @@ In this project, children will be introduced to linear and radial gradients in C
 ## موارد المشروع
 
 * [ملف.zip يحتوي على جميع موارد المشروع](resources/stickers-project-resources.zip)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
+* [Trinket عبر الانترنت يحتوي على جميع موارد مشروع "Intro"](http://jumpto.cc/web-intro)
+* [Trinket عبر الانترنت يحتوي على جميع موارد مشروع "Stickers"](http://jumpto.cc/web-stickers)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
