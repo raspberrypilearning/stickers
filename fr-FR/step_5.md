@@ -8,7 +8,7 @@ Tu peux également créer des dégradés à exécuter dans différentes directio
     
     ![capture d'écran](images/stickers-fire-html.png)
     
-    Tu peux ajuster le `hauteur` pour redimensionner l'image, la largeur changera automatiquement.
+    Tu peux ajuster la `hauteur` pour redimensionner l'image, la largeur changera automatiquement.
 
 + Normalement, un dégradé linéaire va du haut vers le bas, mais tu peux utiliser `to` pour changer de direction. Par exemple: `to top` , `to left` ou `to right` .
     
