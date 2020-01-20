@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## التحدي: أنشئ ملصقات أخرى
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+حاول الآن إنشاء المزيد من الملصقات باستخدام اتجاهات تدرجات مختلفة وإضافة الصور والنصوص واستخدام الحدود والمخططات.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+نصيحة: ستحتاج إلى إضافة HTML و CSS لكل ملصق.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+يمكنك نسخ وتعديل أحد الأمثلة وإجراء تغييرات لإنشاء ملصق جديد.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+يتضمن مشروعك بالفعل مجموعة من صور روبوت. انقر على أيقونة الصور لرؤية الصور المتاحة.
 
 ![لقطة الشاشة](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+يستخدم هذا المثال تدرج خطي مع ` إلى اليمين `:
 
 ![لقطة الشاشة](images/stickers-green-html.png)
 
