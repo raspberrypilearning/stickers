@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## ملصق روبوت رائع
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+يمكنك عمل ملصق متدرج اللون باستخدام صورة. إذا استخدمت صورة ذات خلفية شفافة فسيظهر التدرج اللوني.
 
-You can also create gradients to run in different directions.
+يمكنك أيضًا إنشاء تدرجات للتعمل في اتجاهات مختلفة.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ أضف ملصقًا إلى ` index.html ` باستخدام ` firerobot.png ` صورة:
     
     ![لقطة الشاشة](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    يمكنك ضبط الارتفاع ` ` لتغيير حجم الصورة ، سيتم تغيير العرض تلقائيًا.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ عادةً يعمل التدرج الخطي من الأعلى إلى الأسفل ، ولكن يمكنك استخدام ` إلى ` لتغيير الاتجاه. على سبيل المثال: ` إلى الأعلى ` ، ` إلى اليسار ` أو ` إلى اليمين `.
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    للحصول على تدرج قطري ، فإنك تعطي اتجاهين. استخدم كمثال على ذلك ` إلى أسفل اليسار `.
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    أضف هذا النمط إلى ` style.css ` لمنح ملصق الروبوت الجديد تدرجًا قطريًا وحدودًا رائعة:
     
     ![لقطة الشاشة](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    لاحظ أنه يمكنك استخدام المخطط ` ` لإنشاء حدود أخرى خارج الحدود المعتادة. ` مخطط الإزاحة ` يعطي فراغ بين الحدود والمخطط.
 
-+ Let's add some text to this sticker.
++ دعونا نضيف نص إلى هذا الملصق.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    أضف `<span>` يحتوي على النص "روبوت" إلى ` index.html ` وقم بتعريفها.
     
     ![لقطة الشاشة](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ سيبدو النص أفضل إذا قمت بتكبيره واعادة تموضعه.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    لوضع النص بمكان الصحيح ، ستحتاج إلى إضافة ` موضع: نسبي ؛ ` إلى ` #ملصق اخضر ` و ` الموضع: مطلق ` إلى ` #نص اخضر `. تتم تغطية الموضع بمزيد من التفاصيل في مشروع ` ابني روبوت `.
     
-    Add the following code to `style.css`:
+    أضف كود Css التالي إلى الملف `style.css`:
     
     ![لقطة الشاشة](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ وللتدوير النهائي ، دعونا ندير النص باستخدام ` التحويل: تدوير `.
     
     ![لقطة الشاشة](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    حاول تغيير عدد الدرجات التي يتم تدوير النص بها.
