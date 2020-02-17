@@ -1,11 +1,11 @@
-основа {
-   фон: білий;
+body {
+   background: white;
 }
 
-.наліпки {
-  дисплей: вбудований блок;
-  вертикальна вирівнювання: зверху;
-  Вирівнювання тексту: по центру;
-  маржа: 5px;
+.sticker {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 5px;
 }
 
