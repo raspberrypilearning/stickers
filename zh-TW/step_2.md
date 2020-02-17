@@ -1,45 +1,45 @@
-## 彩色編碼貼紙
+## Colourful coding sticker
 
-漸層是從一種顏色逐漸變化到另一種顏色。漸層可用於創造出炫酷的效果。您將使用它們來做出可在網頁上使用的貼紙。
+A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
 
-+ 打開這個trinket： <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>。
++ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    該項目應如下所示：
+    The project should look like this:
     
-    ![截圖](images/stickers-starter.png)
+    ![screenshot](images/stickers-starter.png)
 
-+ 讓我們做一個'I <3 程式'貼紙。g' sticker.
++ Let's make an 'I <3 Coding' sticker.
     
-    使用 `<div>` 與 `貼紙` 類和 `編碼` id，以便您可以設置它：
+    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
     
-    ![截圖](images/stickers-coding-error.png)
+    ![screenshot](images/stickers-coding-error.png)
 
-+ 嗯你注意到你有錯誤嗎？這是因為'<'是HTML中的特殊字符。而不是'<'你需要使用特殊代碼 `&lt;`。
++ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
     
-    更新您的代碼使用 `&lt;` 使錯誤消失。
+    Update your code to use `&lt;` so that the error goes away.
     
-    ![截圖](images/stickers-coding-fixed.png)
+    ![screenshot](images/stickers-coding-fixed.png)
     
-    `<br>` 給出了一個新的一行。
+    `<br>` gives a new line.
 
-+ 現在讓我們讓貼紙看起來很有趣。
++ Now let's make the sticker look interesting.
     
-    切換到 `style.css` 文件。你會看到已經為你提供了 `.sticker` 課程。這將在頁面上佈置貼紙並使其內容居中。
+    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
     
-    請記住，您已將id `編碼` 添加到貼紙中。在 `style.css` 的底部添加以下代碼來設置文本樣式：
+    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
     
-    ![截圖](images/stickers-coding-font.png)
+    ![screenshot](images/stickers-coding-font.png)
 
-+ 現在，您可以為貼紙的背景添加漸變。線性漸變沿直線從一種顏色變為另一種顏色。
++ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
     
-    此漸變將從頂部的紅色變為底部的品紅色。將漸變代碼添加到 `編碼` 樣式：
+    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
     
-    ![截圖](images/stickers-coding-gradient.png)
+    ![screenshot](images/stickers-coding-gradient.png)
 
-+ 您可以通過添加填充和圓角來改善結果。
++ You can improve on the result by adding padding and rounded corners.
     
-    添加突出顯示的代碼：
+    Add the highlighted code:
     
-    ![截圖](images/stickers-coding-padding.png)
+    ![screenshot](images/stickers-coding-padding.png)
     
-    `填充` 樣式在頂部和底部添加50px的填充，在左側和右側添加30px。
+    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
