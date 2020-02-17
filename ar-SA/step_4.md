@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own gradient sticker
+## التحدي: أنشئ ملصقًا متدرجًا من ابتكارك
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
+الآن اصنع ملصق التدرج الخاص بك. جرّب التدرجات الخطية والشعاعية باستخدام ألوان HTML المتعددة.
 
 ستحتاج إلى:
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
++ أضف `<div>` فيها نص الملصق الخاص بك إلى ` index.html ` واعطاءها فئة ` sticker ` ومعرف ` id ` جديد.
++ أضف نمطًا للمعرف `id` الذي اخترته في ` style.css `. يمكنك نسخ أحد أنماط الملصقات التي قمت بإنشائها بالفعل وتعديلها. 
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+هناك قائمة بأسماء جميع الاوان، يمكنك أن تستخدم الموقع:[jumpto.cc/web-colours](http://jumpto.cc/web-colours), والذي يحوي اسماء الالوان مثل ` tomato`، و` firebrick` و ` peachpuff`.
 
-If you want to change the text colour you can use `color:`.
+إذا كنت تريد تغيير لون النص ، يمكنك استخدام `color:`.
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+فيما يلي مثال على ما يمكنك القيام به بألوان متعددة في التدرج الخطي:
 
 ![لقطة الشاشة](images/stickers-save-robots.png)
 
