@@ -1,44 +1,45 @@
-## カラフルなコーディングステッカー
+## Colourful coding sticker
 
-グラデーションは、ある色から別の色へと徐々に変化します。グラデーションはクールなエフェクトを作成するために使用できます。あなたはあなたのウェブページで使用できるステッカーを作成するためにそれらを使用するつもりです。
+A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
 
-+ Trinketをひらく: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    プロジェクトはこのようになります。
+    The project should look like this:
     
-    ![スクリーンショット](images/stickers-starter.png)
+    ![screenshot](images/stickers-starter.png)
 
-+ '私は<3コーディンg' sticker.
++ Let's make an 'I <3 Coding' sticker.
     
-    あなたはそれをスタイルすることができるように `ステッカー` クラスと `コーディング` IDで `<div>` を使用してください：
+    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
     
-    ![スクリーンショット](images/stickers-coding-error.png)
+    ![screenshot](images/stickers-coding-error.png)
 
-+ うーん、あなたはエラーがあることに気付いたのですか？これは、HTMLでは '<'が特殊文字であるためです。 '<'の代わりに特別なコード `&ltを使用する必要があります。`。
++ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
     
-    `&ltを使用するようにコードを更新します。` エラーが消えるようにします。
+    Update your code to use `&lt;` so that the error goes away.
     
-    ![スクリーンショット](images/stickers-coding-fixed.png)
+    ![screenshot](images/stickers-coding-fixed.png)
     
-    `<br>` は新しい行を与える。
+    `<br>` gives a new line.
 
-+ さあ、ステッカーを面白そうに見せましょう。
++ Now let's make the sticker look interesting.
     
-    `style.css` ファイルに切り替えます。 `.sticker` クラスが提供されていることがわかります。これにより、ページ上のステッカーがレイアウトされ、コンテンツが中央に配置されます。
+    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
     
-    あなたのステッカーにid `コーディング` を追加したことを忘れないでください。以下の下部に `のstyle.css` テキストのスタイルを設定するには、次のコードを追加します。
+    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
     
-    ![スクリーンショット](images/stickers-coding-font.png)
+    ![screenshot](images/stickers-coding-font.png)
 
-+ これで、ステッカーの背景にグラデーションを追加することができます。直線勾配は、直線に沿ってある色から別の色に変化する。
++ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
     
-    この勾配は、上の赤から下のマゼンタに変わります。グラデーションコードを `コーディング` スタイルに追加します`</p>
+    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    
+    ![screenshot](images/stickers-coding-gradient.png)
 
-<p><img src="images/stickers-coding-gradient.png" alt="スクリーンショット" /></p></li>
-<li><p>パディングと丸みのあるコーナーを追加することで、結果を改善できます。</p>
-
-<p>強調表示されたコードを追加：</p>
-
-<p><img src="images/stickers-coding-padding.png" alt="スクリーンショット" /></p>
-
-<p><code>パディング` スタイルは、上下に50ピクセル、左右に30ピクセルのパディングを追加します。
++ You can improve on the result by adding padding and rounded corners.
+    
+    Add the highlighted code:
+    
+    ![screenshot](images/stickers-coding-padding.png)
+    
+    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
