@@ -1,45 +1,45 @@
-## Красочный стикер
+## Colourful coding sticker
 
-Градиент - это постепенное изменение цвета от одного к другому. Градиенты могут быть использованы для создания крутых эффектов. Ты будешь использовать их для создания стикеров для своих веб-страниц.
+A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
 
-+ Открой этот trinket: <a href="http://jumpto.cc/web-stickers" target="_blank"> jumpto.cc/web-stickers </a>.
++ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    Проект должен выглядеть следующим образом:
+    The project should look like this:
     
     ![screenshot](images/stickers-starter.png)
 
-+ Давай сделаем стикер 'Я <3 Программирование'g' sticker.
++ Let's make an 'I <3 Coding' sticker.
     
-    Используй `<div>` с классом `sticker` и `coding` id, чтобы ты мог стилизовать его:
+    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
     
     ![screenshot](images/stickers-coding-error.png)
 
-+ Хм, ты заметил, что случилась ошибка? Это потому, что «<» - это специальный символ в HTML. Вместо '<' тебе нужно использовать специальный код `&lt; `.
++ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
     
-    Используй `&lt; ` и обнови свой код, чтобы ошибка исчезла.
+    Update your code to use `&lt;` so that the error goes away.
     
     ![screenshot](images/stickers-coding-fixed.png)
     
-    `<br>` дает новую строку.
+    `<br>` gives a new line.
 
-+ Теперь давай сделаем стикер интересным.
++ Now let's make the sticker look interesting.
     
-    Переключись на `style.css` файл. Ты увидишь, что `.sticker ` класс уже там. Это позволит тебе разместить наклейки на странице и расположить их содержимое в центре.
+    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
     
-    Помните, что ты добавила(-а) id`coding ` к твоей наклейке. В нижней части ` style.css ` добавь следующий код для стилизации текста:
+    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
     
     ![screenshot](images/stickers-coding-font.png)
 
-+ Теперь ты можешь добавить градиент для фона наклейки. Линейный градиент меняется от одного цвета к другому по прямой линии.
++ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
     
-    Этот градиент изменится с красного сверху на пурпурный внизу. Добавь код градиента в твой ` coding` style:
+    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
     
     ![screenshot](images/stickers-coding-gradient.png)
 
-+ Ты можешь улучшить результат, добавив отступы и округленные углы.
++ You can improve on the result by adding padding and rounded corners.
     
-    Добавь выделенный код:
+    Add the highlighted code:
     
     ![screenshot](images/stickers-coding-padding.png)
     
-    Стиль ` padding ` добавляет отступ 50 пикселей сверху и снизу, а также 30 пикселей слева и справа.
+    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
