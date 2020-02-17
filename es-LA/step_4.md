@@ -15,6 +15,6 @@ If you want to change the text colour you can use `color:`.
 
 Here's an example of what you can do with multiple colours in a linear gradient:
 
-![captura de pantalla](images/stickers-save-robots.png)
+![screenshot](images/stickers-save-robots.png)
 
 \--- /challenge \---
