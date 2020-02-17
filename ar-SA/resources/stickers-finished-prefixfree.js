@@ -1,7 +1,7 @@
 /**
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
- رخصة أم آي تي
+ * MIT license
  */
 
 (function(){
