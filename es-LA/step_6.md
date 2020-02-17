@@ -10,12 +10,12 @@ You can copy and edit one of your examples and make changes to create a new stic
 
 Your project already includes a set of robot images. Click on the images icon to see the available images.
 
-![captura de pantalla](images/stickers-images.png)
+![screenshot](images/stickers-images.png)
 
 This example uses a linear gradient with `to right`:
 
-![captura de pantalla](images/stickers-green-html.png)
+![screenshot](images/stickers-green-html.png)
 
-![captura de pantalla](images/stickers-green-style.png)
+![screenshot](images/stickers-green-style.png)
 
 \--- /challenge \---
