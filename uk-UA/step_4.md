@@ -1,20 +1,20 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: створіть свою власну градієнтну наклейку
+## Challenge: Create your own gradient sticker
 
-Тепер створіть власну градієнтну наклейку. Спробуйте лінійні та радіальні градієнти, використовуючи кілька кольорів HTML.
+Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
 
-Вам потрібно буде:
+You'll need to:
 
-+ Додайте `<div>` текстом наклейки ` index.html ` і надішліть наклейку ` ` клас і новий ` ідентифікатор ` .
-+ Додати стиль для ідентифікатора ` ` Ви вибрали ` style.css `. Ви можете скопіювати один з стилів, який ви вже зробили, і відредагувати його. 
++ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
++ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
 
-Тут є список всіх імен кольорів, які ви можете використовувати: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), що включає імена кольорів, такі як `томатний`, `цегляний` та `персековий`.
+There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
 
-Якщо ви хочете змінити колір тексту, ви можете використовувати ` color: `.
+If you want to change the text colour you can use `color:`.
 
-Ось приклад того, що ви можете робити з кількома кольорами в лінійному градієнті:
+Here's an example of what you can do with multiple colours in a linear gradient:
 
-![скріншот](images/stickers-save-robots.png)
+![screenshot](images/stickers-save-robots.png)
 
 \--- /challenge \---
