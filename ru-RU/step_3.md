@@ -1,27 +1,27 @@
-## HTML & CSS стикер
+## HTML & CSS sticker
 
-Градиенты также могут менять цвет от центра к краям - это называется радиальным градиентом.
+Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
 
-+ Давай создадим стикер с текстом ` HTML & CSS. ` `&` это ещё один символ, который нуждается в кодировании в HTML, его код - `&amp;`.
++ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
     
-    Добавь выделенный код для создания новой наклейки:
+    Add the highlighted code to create a new sticker:
     
     ![screenshot](images/stickers-web-html.png)
 
-+ Теперь переключись на твой ` style.css ` файл и добавь стиль для твоей новой наклейки:
++ Now switch to your `style.css` file and add a style for your new sticker:
     
     ![screenshot](images/stickers-web-font.png)
     
-    `text-shadow` добавляет тень, которая расширяется на 2 пикселя ниже и справа от текста, чтобы выделить его.
+    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
 
-+ Теперь к градиенту: на этот раз давай использовать радиальный градиент. Цвет изменится с желтого в центре до оранжевого, а затем красного.
++ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
     
     ![screenshot](images/stickers-web-gradient.png)
     
-    Обрати внимание, что градиенты могут включать несколько цветов, а не только два.
+    Notice that gradients can include multiple colours, not just two.
 
-+ Наклейка будет выглядеть намного лучше с некоторыми отступами и закругленной каймой.
++ The sticker will look much better with some padding and a rounded border.
     
-    Добавь выделенный код:
+    Add the highlighted code:
     
     ![screenshot](images/stickers-web-padding.png)
