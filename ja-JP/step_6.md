@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## 課題：より多くのステッカーを作成する
+## Challenge: Make more stickers
 
-さまざまなグラデーションの方向を使用してステッカーを作成し、画像やテキストを追加したり、枠線や枠線を使用したりしてください。
+Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
 
-ヒント：各ステッカーにHTMLとCSSを追加する必要があります。
+Tip: You'll need to add HTML and CSS for each sticker.
 
-あなたの例の1つをコピーして編集し、新しいステッカーを作成するために変更を加えることができます。
+You can copy and edit one of your examples and make changes to create a new sticker.
 
-あなたのプロジェクトには、すでに一連のロボット画像が含まれています。画像アイコンをクリックすると、使用可能な画像が表示されます。
+Your project already includes a set of robot images. Click on the images icon to see the available images.
 
-![スクリーンショット](images/stickers-images.png)
+![screenshot](images/stickers-images.png)
 
-この例では、との直線勾配使用 `右に`：
+This example uses a linear gradient with `to right`:
 
-![スクリーンショット](images/stickers-green-html.png)
+![screenshot](images/stickers-green-html.png)
 
-![スクリーンショット](images/stickers-green-style.png)
+![screenshot](images/stickers-green-style.png)
 
 \--- /challenge \---
