@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Izazov: Napravite više naljepnica
+## Challenge: Make more stickers
 
-Sada pokušajte izraditi više naljepnica pomoću različitih smjerova gradijenta i dodavanjem slika i teksta te korištenjem granica i obrisa.
+Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
 
-Savjet: za svaku naljepnicu morat ćete dodati HTML i CSS.
+Tip: You'll need to add HTML and CSS for each sticker.
 
-Možete kopirati i urediti jedan od primjera i napraviti izmjene kako biste stvorili novu naljepnicu.
+You can copy and edit one of your examples and make changes to create a new sticker.
 
-Vaš projekt već uključuje skup robota. Kliknite ikonu slika da biste vidjeli dostupne slike.
+Your project already includes a set of robot images. Click on the images icon to see the available images.
 
 ![screenshot](images/stickers-images.png)
 
-Ovaj primjer koristi linearni gradijent s `na desno`:
+This example uses a linear gradient with `to right`:
 
 ![screenshot](images/stickers-green-html.png)
 
