@@ -1,5 +1,5 @@
 ---
-Title: Naljepnice
+Title: Stickers
 hero_image: images/stickers.png
 theme: orange
 duration: 2
@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Naljepnice!
-description: Napravi zabavne naljepnice sa robotima za ukrašavanje svojih veb-stranica.
+title: Stickers!
+description: Create fun robot stickers to decorate your web pages.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
@@ -19,14 +19,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Introduction
   - 
-    title: Naljepnica o programiranju u više boja
+    title: Colourful coding sticker
   - 
-    title: HTML & CSS naljepnica
+    title: HTML & CSS sticker
   - 
-    title: 'Izazov: Kreiraj svoju naljepnicu sa gradijentom'
+    title: 'Challenge: Create your own gradient sticker'
   - 
-    title: 'Ukrašena naljepnica sa robotom '
+    title: 'Fancy robot sticker '
   - 
-    title: 'Izazov: Napravi više naljepnica'
+    title: 'Challenge: Make more stickers'
