@@ -1,41 +1,41 @@
-## Sticker mișto cu robot
+## Fancy robot sticker
 
-Poți să faci un sticker cu gradient folosind o imagine. Dacă folosești imaginea cu un fundal transparent, gradientul se va vedea prin ea.
+You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
 
-Poți să creezi gradienți pentru a se îndrepta în anumite direcții.
+You can also create gradients to run in different directions.
 
-+ Adaugă un sticker în `index.html` folosind imaginea `firerobot.png`:
++ Add a sticker to `index.html` using the `firerobot.png` image:
     
-    ![captură de ecran](images/stickers-fire-html.png)
+    ![screenshot](images/stickers-fire-html.png)
     
-    Poți ajusta înălțimea prin proprietarea `height` pentru a redimensionea imaginea, lățimea modificându-se automat.
+    You can adjust the `height` to resize the image, the width will change automatically.
 
-+ În mod normal, un gradient liniar merge de sus în jos, dar poți folosi `to` pentru a schimba direcția. De exemplu, `to top`, `to left` sau `to right`.
++ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
     
-    Pentru un gradient în diagonală ai nevoie de două direcții. Acest exemplu folosește `to bottom left`.
+    For a diagonal gradient you give two directions. This example uses `to bottom left`.
     
-    Adaugă acest stil în `style.css` pentru a da noului tău robot un gradient în diagonală și un chenar mișto:
+    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
     
-    ![captură de ecran](images/stickers-fire-gradient.png)
+    ![screenshot](images/stickers-fire-gradient.png)
     
-    Nu uita că poți să folosești `outline` pentru a crea alt chenar în afara celui obișnuit. `outline-offset` creează un loc liber între margini și chenarul din exterior.
+    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
 
-+ Hai să adăugăm niște text acestui sticker.
++ Let's add some text to this sticker.
     
-    Adaugă un `<span>` care conține textul „ROBOTS” în `index.html` și dă-i un id.
+    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
     
-    ![captură de ecran](images/stickers-fire-span.png)
+    ![screenshot](images/stickers-fire-span.png)
 
-+ Textul va arăta mai bine dacă îl faci mai mare și îl poziționezi.
++ The text will look better if you make it bigger and position it.
     
-    Pentru a poziționa textul va trebui să adaugi `position: relative;` la `#greensticker` și `position: absolute;` la `#greentext`. Poziționarea este explicată mai în detaliu în proiectul `Construiește un robot`.
+    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
     
-    Adaugă următorul cod în `style.css`:
+    Add the following code to `style.css`:
     
-    ![captură de ecran](images/stickers-fire-text-style.png)
+    ![screenshot](images/stickers-fire-text-style.png)
 
-+ Și pentru o ultimă retușare, hai să rotim textul folosind `transform: rotate`.
++ And for a final twist, let's rotate the text using `transform: rotate`.
     
-    ![captură de ecran](images/stickers-fire-rotate.png)
+    ![screenshot](images/stickers-fire-rotate.png)
     
-    Încearcă să schimbi numărul de grade după care textul este rotit.
+    Try changing the number of degrees that the text is rotated.
