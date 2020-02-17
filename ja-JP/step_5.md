@@ -1,41 +1,41 @@
-## ファンシーロボットステッカー
+## Fancy robot sticker
 
-イメージを使ってグラデーションステッカーを作ることができます。背景が透明な画像を使用すると、グラデーションが表示されます。
+You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
 
-グラデーションを作成して、異なる方向に実行することもできます。
+You can also create gradients to run in different directions.
 
-+ ステッカーを追加 `index.htmlを` 使用して `firerobot.png` 画像を：
++ Add a sticker to `index.html` using the `firerobot.png` image:
     
-    ![スクリーンショット](images/stickers-fire-html.png)
+    ![screenshot](images/stickers-fire-html.png)
     
-    `高さ` を調整して画像のサイズを変更すると、幅が自動的に変更されます。
+    You can adjust the `height` to resize the image, the width will change automatically.
 
-+ 通常、線形勾配は、上から下に実行されますが、あなたは使用することができます `への` 方向を変化させます。たとえば、次の `トップに`、 `左`、又は `右に`。
++ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
     
-    斜めのグラデーションでは、2つの方向を指定します。この例では、 `を左下`ます。
+    For a diagonal gradient you give two directions. This example uses `to bottom left`.
     
-    このスタイルを `style.css` に追加して、新しいロボットステッカーに斜めのグラデーションと派手なボーダーを与えます：
+    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
     
-    ![スクリーンショット](images/stickers-fire-gradient.png)
+    ![screenshot](images/stickers-fire-gradient.png)
     
-    `アウトライン` を使用して通常のアウトラインの外に別のボーダーを作成することができます。 `outline-offset` は、境界線とアウトラインの間のギャップを示します。
+    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
 
-+ このステッカーにテキストを追加しましょう。
++ Let's add some text to this sticker.
     
-    テキスト "ROBOTS"を含む `<span>` を `index.html` 追加し、それにidを与えます。
+    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
     
-    ![スクリーンショット](images/stickers-fire-span.png)
+    ![screenshot](images/stickers-fire-span.png)
 
-+ テキストを大きくして配置すると、テキストがより見やすくなります。
++ The text will look better if you make it bigger and position it.
     
-    テキストを配置するには、 `位置を追加する必要があります：相対;` へ `#greensticker` 及び `位：絶対` へ `#greentext`。 位置付けの詳細については、 `Robot` プロジェクトのビルドを参照してください。
+    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
     
-    次のコードを `追加します。style.css`：
+    Add the following code to `style.css`:
     
-    ![スクリーンショット](images/stickers-fire-text-style.png)
+    ![screenshot](images/stickers-fire-text-style.png)
 
-+ 最終的なひねりのために、 `変換を使用してテキストを回転させましょう：`回転させます。
++ And for a final twist, let's rotate the text using `transform: rotate`.
     
-    ![スクリーンショット](images/stickers-fire-rotate.png)
+    ![screenshot](images/stickers-fire-rotate.png)
     
-    テキストを回転させる度合いを変更してみてください。
+    Try changing the number of degrees that the text is rotated.
