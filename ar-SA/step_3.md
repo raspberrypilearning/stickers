@@ -1,27 +1,27 @@
 ## ملصق HTML & CSS
 
-يمكن للتدرجات أيضًا تغيير اللون من المنتصف للخارج نحو الحواف ، وهذا ما يسمى التدرج الشعاعي.
+يمكن للتدرجات أيضًا تغيير اللون بداً من المنتصف نحو الحواف في الخارج، وهذا ما يسمى التدرج الشعاعي.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ لنقم بإنشاء ملصق مع النص ` HTML & CSS. ` `&` هو رمز أخر يحتاج إلى ترميز بلغة HTML، الرمز هو `&amp;`.
     
-    Add the highlighted code to create a new sticker:
+    أضف الكود المظلل لإنشاء ملصق جديد:
     
     ![لقطة الشاشة](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ انتقل الآن إلى نمط ملف`style.css` واضف نمط للملصق الجديد الخاص بك:
     
     ![لقطة الشاشة](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    كود ` text-shadow` يضيف الظل الذي يمتد بطول 2 بكسل الى ألاسفل والى يمين النص لجعلها تبرز.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ الآن بالنسبة للتدرج. هذه المرة دعنا نستخدم التدرج الشعاعي. سيتغير اللون من الأصفر في المنتصف إلى البرتقالي ثم الأحمر.
     
     ![لقطة الشاشة](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    لاحظ أن التدرجات يمكن أن تتضمن ألوانًا متعددة ، وليس لونين فقط.
 
-+ The sticker will look much better with some padding and a rounded border.
++ سيبدو الملصق أفضل بكثير مع بعض الحشو والحدود الدائرية.
     
-    Add the highlighted code:
+    أضف الكود المظلل:
     
     ![لقطة الشاشة](images/stickers-web-padding.png)
