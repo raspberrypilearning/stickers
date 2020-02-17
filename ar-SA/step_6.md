@@ -12,7 +12,7 @@
 
 ![لقطة الشاشة](images/stickers-images.png)
 
-يستخدم هذا المثال تدرج خطي مع ` إلى اليمين `:
+يستخدم هذا المثال تدرج خطي مع إلى اليمين `to right`:
 
 ![لقطة الشاشة](images/stickers-green-html.png)
 
