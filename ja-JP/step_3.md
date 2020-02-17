@@ -1,27 +1,27 @@
-## HTML & CSSステッカー
+## HTML & CSS sticker
 
-グラデーションは、中心からエッジに向かって色を変えることもできます。これは放射グラデーションと呼ばれます。
+Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
 
-+ テキスト `HTML & CSSでステッカーを作成しましょう。` `&` は、HTMLでエンコーディングする必要がある別の文字です。コードは `&ampです。`。
++ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
     
-    強調表示されたコードを追加して、新しいステッカーを作成します。
+    Add the highlighted code to create a new sticker:
     
-    ![スクリーンショット](images/stickers-web-html.png)
+    ![screenshot](images/stickers-web-html.png)
 
-+ 次に、 `style.css` ファイルに切り替えて、新しいステッカーのスタイルを追加します。
++ Now switch to your `style.css` file and add a style for your new sticker:
     
-    ![スクリーンショット](images/stickers-web-font.png)
+    ![screenshot](images/stickers-web-font.png)
     
-    `テキストシャドー` コードは、テキストの下と右に2ピクセル伸びるシャドウを追加して、目立たせます。
+    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
 
-+ 今度はグラデーションのために。今回は、放射状のグラデーションを使用しましょう。色は中央の黄色からオレンジ色、そして赤色に変化します。
++ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
     
-    ![スクリーンショット](images/stickers-web-gradient.png)
+    ![screenshot](images/stickers-web-gradient.png)
     
-    グラデーションには2つだけでなく複数の色が含まれることに注意してください。
+    Notice that gradients can include multiple colours, not just two.
 
-+ ステッカーは、いくつかのパディングと丸みを帯びたボーダーで、はるかに良く見えます。
++ The sticker will look much better with some padding and a rounded border.
     
-    強調表示されたコードを追加：
+    Add the highlighted code:
     
-    ![スクリーンショット](images/stickers-web-padding.png)
+    ![screenshot](images/stickers-web-padding.png)
