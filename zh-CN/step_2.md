@@ -1,50 +1,45 @@
-## 彩色编码贴纸
+## 多彩编码贴纸
 
-渐变指从一种颜色逐渐向另一种颜色变换。渐变可用来创建炫酷效果。你将使用它们来创建可在网页上使用的贴纸。 
+渐变是一种颜色到另一种颜色的逐渐变化。渐变可以用于创造出更多炫酷的效果。您将使用它们创造出可用于您网页的贴纸。
 
-+ 打开这个 trinket：<a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>。 
++ 打开该Trinket：<a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>。
+    
+    项目应该如下所示：
+    
+    ![截图](images/stickers-starter.png)
 
-	此项目应如下所示：
++ 让我们制作一张”我 <3编程“贴纸。g' sticker.
+    
+    使用带有`<div>`标签的`sticker`类和`coding` id，以便设置其样式：
+    
+    ![截图](images/stickers-coding-error.png)
 
-	![screenshot](images/stickers-starter.png)
++ 嗯...您发现遇到错误了吗？这是因为 ”<“ 是HTML中的特殊字符。除了 ”<“，您还需要使用特殊代码`&lt;`。
+    
+    更新您的代码并使用`&lt;`，这样就会停止报错。
+    
+    ![截图](images/stickers-coding-fixed.png)
+    
+    `<br>` 用以换行。
 
-+ 让我们制作一张“I <3 Coding”的贴纸。 
++ 现在，让我们使贴纸看起来更有趣。
+    
+    切换至`style.css`文件。您将会看到为您提供的`.sticker`类。这将用于在网页上布置贴纸并居中内容。
+    
+    请记住，您已添加了id `coding` 到您的贴纸上。在`style.css`底部添加以下代码来设置文本样式：
+    
+    ![截图](images/stickers-coding-font.png)
 
-	运用带 `sticker`（贴纸）类的 `<div>` 和 `coding`（编码）id，使你能设置其样式： 
++ 现在，您可以为贴纸背景添加渐变。线性渐变是一种颜色沿着直线变为另一种颜色。
+    
+    此渐变会使顶部的红色变为底部的洋红色。将渐变代码添加至您的`coding`样式中：
+    
+    ![截图](images/stickers-coding-gradient.png)
 
-	![screenshot](images/stickers-coding-error.png)
-
-
-+ 嗯，你是否注意到出现了一个错误？这是因为“<”在 HTML 中属于特殊字符。你需要使用特殊代码 `&lt;` 而非“<”。 
-
-	更新你的代码来使用 `&lt;`，从而消除错误。 
-
-	![screenshot](images/stickers-coding-fixed.png)
-
-	`<br>` 指另起一行。 
-
-+ 现在我们来让贴纸看起来更加有趣。 
-
-	切换到 `style.css` 文件。你会看到已为你提供了 `.sticker`（贴纸）类。由此在页面上布设贴纸并使其内容居中。 
-
-	请记住。你向你的贴纸添加了 id `coding`（编码）。在 `style.css` 的底部添加以下代码来设置文本样式：
-
-	![screenshot](images/stickers-coding-font.png)
-
-+ 现在你可以为贴纸的背景添加渐变效果。线性渐变指沿着一条直线从一种颜色向另一种颜色变换。
-
-	此渐变将从顶部的红色变为底部的洋红色。向你的 `coding`（编码）样式添加该渐变代码：
-
-	![screenshot](images/stickers-coding-gradient.png)
-
-+ 你可以通过添加内边距和圆角来完善渐变结果。 
-
-	添加以下高亮代码：
-
-	![screenshot](images/stickers-coding-padding.png)
-
-	`padding`（内边距）样式分别在顶部和底部添加 50 像素、在左侧和右侧添加 30 像素的内边距。 
-
-
-
-
++ 您可以通过添加内边距和圆角来改善结果。
+    
+    添加高亮处代码：
+    
+    ![截图](images/stickers-coding-padding.png)
+    
+    `padding`样式在顶部和底部分别添加了50px，在左侧和右侧分别添加了30px。

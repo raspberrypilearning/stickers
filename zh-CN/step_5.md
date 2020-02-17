@@ -1,46 +1,41 @@
-## 绚丽的机器人贴纸 
+## 绚丽的机器人贴纸
 
-你可以使用图片来制作渐变贴纸。如果你使用背景透明的图片，渐变效果就会显现出来。 
+您可以使用图像制作一张渐变贴纸。如果您使用一张透明背景的图像，那么，渐变就得以显示。
 
-你还可以创建向不同方向延伸的渐变。 
+您也可以创建不同方向的渐变效果。
 
-+ 使用 `firerobot.png` 图片向 `index.html` 添加一个贴纸：
++ 使用`firerobot.png`图像向`index.html`中添加一张贴纸。
+    
+    ![截图](images/stickers-fire-html.png)
+    
+    您可以通过调整`height`来调整图像大小，宽度将自动进行更改。
 
-	![screenshot](images/stickers-fire-html.png)
++ 通常，线性渐变是自上而下的，但是您可以使用`to`来改变其方向。例如，`to top`、`to left`，或者`to right`。
+    
+    对于对交渐变，您可以指定两个方向。以下示例使用`to bottom left`。
+    
+    将此样式添加至`style.css`，给您的新机器人贴纸添加对角渐变和圆角。
+    
+    ![截图](images/stickers-fire-gradient.png)
+    
+    请注意，您可以使用`outline`在普通边界外添加另一个边界。 `outline-offset`用于在边界和轮廓间添加空隙。
 
-	你可以调整 `height`（高度）来调整图片大小，宽度也会自动改变。 
++ 让我们在这张贴纸上添加文本。
+    
+    在`index.html`中添加含有文本"ROBOTS"的`<span>`标签，并给它一个id。
+    
+    ![截图](images/stickers-fire-span.png)
 
-+ 线性渐变通常从顶部向底部延伸，但你可以使用 `to`（朝向）来更改方向。例如：`to top`（朝向顶部）、`to left`（朝向左侧）或 `to right`（朝向右侧）。
++ 如果您放大并对其进行定位，此文本看起来会更好。
+    
+    您将需要在`#greensticker`中添加`position: relative;`，在`#greentext`中添加`position: absolute`，以定位文本。 `Build a Robot`项目中，有对定位的详细介绍。
+    
+    将以下代码添加至`style.css`中：
+    
+    ![截图](images/stickers-fire-text-style.png)
 
-	就对角渐变而言，你可以给出两个方向。以下示例使用了 `to bottom left`（朝向左下方）。
-
-	向 `style.css` 添加以下样式来为你的新机器人贴纸添加一个对角渐变和绚丽的边框：
-
-	![screenshot](images/stickers-fire-gradient.png)
-
-	请注意，你可以使用 `outline`（轮廓）来在通常的边框外部创建另一个边框。 
-	`outline-offset`（轮廓偏移）在边框和轮廓之间添加了空白。 
-
-+ 让我们为此贴纸添加一些文本。 
-
-	向 `index.html` 添加一个包含文本“ROBOTS”（机器人）的 `<span>`，并赋予其一个 id。 
-
-	![screenshot](images/stickers-fire-span.png)
-
-+ 如果你使其变大并放置，文本效果会更好。 
-
-	要放置文本，你将需要向 `#greensticker` 添加 `position: relative;` 并向 `#greentext` 添加 `position: absolute`。`制作一个机器人`项目中对定位进行了详细介绍。 
-
-	向 `style.css` 添加以下代码：
-
-	![screenshot](images/stickers-fire-text-style.png)
-
-+ 为制作最后的扭曲效果，让我们使用 `transform: rotate` 来旋转文本。
-
-	![screenshot](images/stickers-fire-rotate.png)
-
-	尝试更改文本旋转的角度值。 
-
-
-
-
++ 最后，让我们使用`transform: rotate`旋转文本。
+    
+    ![截图](images/stickers-fire-rotate.png)
+    
+    尝试改变文本的旋转角度。
