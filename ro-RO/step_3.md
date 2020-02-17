@@ -1,27 +1,27 @@
-## Sticker HTML & CSS
+## HTML & CSS sticker
 
-Gradienții își pot schimba culoarea din centru spre margini. Un astfel de gradient se numește gradient radial.
+Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
 
-+ Hai să realizăm un sticker cu textul `HTML & CSS`. `&` este un alt caracter care are nevoie de codare în HTML, codul fiind `&amp;`.
++ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
     
-    Adaugă codul evidențiat pentru a crea un nou sticker:
+    Add the highlighted code to create a new sticker:
     
-    ![captură de ecran](images/stickers-web-html.png)
+    ![screenshot](images/stickers-web-html.png)
 
-+ Acum deschide fișierul `style.css` și adaugă un stil pentru noul tău sticker:
++ Now switch to your `style.css` file and add a style for your new sticker:
     
-    ![captură de ecran](images/stickers-web-font.png)
+    ![screenshot](images/stickers-web-font.png)
     
-    Codul `text-shadow` adaugă o umbră care se extinde 2px în partea de jos și din dreapta a textului pentru a-l evidenția.
+    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
 
-+ Acum pentru gradient. De data aceasta, hai să folosim un gradient radial.
++ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
     
-    ![captură de ecran](images/stickers-web-gradient.png)
+    ![screenshot](images/stickers-web-gradient.png)
     
-    Nu uita că gradienții pot include mai multe culori, nu doar două.
+    Notice that gradients can include multiple colours, not just two.
 
-+ Stickerul va arăta mult mai bine cu spațiere și margini rotunjite.
++ The sticker will look much better with some padding and a rounded border.
     
-    Adaugă codul evidențiat:
+    Add the highlighted code:
     
-    ![captură de ecran](images/stickers-web-padding.png)
+    ![screenshot](images/stickers-web-padding.png)
