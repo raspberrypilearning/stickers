@@ -1,21 +1,21 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：製作更多貼紙
+## Challenge: Make more stickers
 
-現在嘗試使用不同的漸變方向製作更多貼紙，添加圖像和文本以及使用邊框和輪廓。
+Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
 
-提示：您需要為每個貼紙添加HTML和CSS。
+Tip: You'll need to add HTML and CSS for each sticker.
 
-您可以復制和編輯其中一個示例並進行更改以創建新貼紙。
+You can copy and edit one of your examples and make changes to create a new sticker.
 
-您的項目已包含一組機器人圖像。單擊圖像圖標以查看可用圖像。
+Your project already includes a set of robot images. Click on the images icon to see the available images.
 
-![截圖](images/stickers-images.png)
+![screenshot](images/stickers-images.png)
 
-此示例使用 `到右`的線性漸變：
+This example uses a linear gradient with `to right`:
 
-![截圖](images/stickers-green-html.png)
+![screenshot](images/stickers-green-html.png)
 
-![截圖](images/stickers-green-style.png)
+![screenshot](images/stickers-green-style.png)
 
-\--- /挑戰\---
+\--- /challenge \---
