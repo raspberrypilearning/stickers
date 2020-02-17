@@ -12,7 +12,7 @@ description: أنشئ ملصقات روبوتات طريفة لتزيين صفح
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: فن
 technologies: html-css-javascript
-site_areas: codeclub, python
+site_areas: المشاريع
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -25,7 +25,7 @@ steps:
   - 
     title: ملصق HTML & CSS
   - 
-    title: 'التحدي: أنشئ ملصقًا متدرجًا من ابتكارك'
+    title: 'التحدي: أنشئ ملصقًا متدرج الالوان من ابتكارك'
   - 
     title: 'ملصق روبوت رائع '
   - 
