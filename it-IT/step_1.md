@@ -1,8 +1,8 @@
 ## Introduzione
 
-In questo progetto creerai una serie di divertenti adesivi che potrai usare per decorare pagine web. Imparerai a utilizzare le sfumature in modo tale da cambiare gradualmente colore, per rendere i tuoi adesivi più belli.
+In questo progetto creerai una serie di divertenti adesivi che potrai usare per decorare pagine web. Imparerai a utilizzare le sfumature così da cambiare gradualmente da un colore all'altro, per rendere i tuoi adesivi più belli.
 
-![screenshot](images/stickers-finished.png)
+![foto della schermata](images/stickers-finished.png)
 
 ### Ulteriori informazioni per gli organizzatori dei club
 
@@ -10,7 +10,7 @@ Se intendete stampare questo progetto, cliccate su [Versione stampabile](https:/
 
 ## \--- collapse \---
 
-## title: Note per i volontari
+## title: Note per gli organizzatori dei Club
 
 ## Introduzione:
 
