@@ -1,36 +1,36 @@
-## 簡介
+## Introduction
 
-在這個項目中，您將創建許多有趣的貼紙，您可以用它們來裝飾網頁。 您將學習如何使用逐漸從一種顏色變為另一種顏色的漸層，讓貼紙看起來更酷。
+In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
 
-![截圖](images/stickers-finished.png)
+![screenshot](images/stickers-finished.png)
 
-### 俱樂部領導的其他信息
+### Additional information for club leaders
 
-如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/stickers/print)。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
 
-## - - 坍方 - -
+## \--- collapse \---
 
-## 標題：俱樂部領導說明
+## title: Club leader notes
 
-## 介紹：
+## Introduction:
 
-在這個專案中，孩子們將被引入CSS中的線性和徑向漸變。他們還將了解更多有關邊界和定位的信息。
+In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
 
-## 線上資源
+## Online Resources
 
-我們建議使用[trinket](https://trinket.io/)在線上編寫HTML& CSS 。這個專案包含如下trinkets程式：
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
-* ['貼紙'從這開始 - jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-孩子們也可以利用這個空白trinket [（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) 來編寫自己的HTML & CSS，或者他們可以使用這個樣板範本trinket [（jumpto.cc/html-template）](http://jumpto.cc/html-template)。
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-還有一個trinket 包含挑戰的樣本解決方案：
+There is also a trinket containing a sample solution to the challenges:
 
-* ['貼紙'完成 - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## 離線資源
+## Offline Resources
 
-依據個人喜好，你也可以[離線完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)此專案。 您可以通過單擊此項目的“項目材料”鏈接來訪問項目資源。 此鏈接包含“項目資源”部分，其中包含兒童離線完成此項目所需的資源。 請確保每個孩子都可以連接取得這些資源的副本。 本節包括以下文件：
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * intro/index.html
 * template/template.html
@@ -38,43 +38,43 @@
 * stickers/index.html
 * stickers/style.css
 * stickers/script.js
-* stickers/robot .png 圖像
+* stickers/robot .png images
 
-你還可以在「志工相關資源」部分中找到內含挑戰的專案完整版，包括以下文件：
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 * stickers-finished/index.html
 * stickers-finished/style.css
 * stickers-finished/script.js
 * stickers-finished/robot .png images
 
-(以上所有資源也可以作為專案和志工`.zip`文件下載。)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## 學習目標
+## Learning Objectives
 
-* 該項目介紹了使用CSS漸層來創造出有趣的效果。學生也能擴展他們對CSS邊界和定位的了解。 
+* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
 
-該項目涵蓋了 [Raspberry Pi數位課程](http://rpf.io/curriculum)的以下內容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [設計基本的2D和3D資源](https://www.raspberrypi.org/curriculum/design/creator)。
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## 挑戰
+## Challenges
 
-* “創造自己的漸層貼紙” - 為文字添加線性和徑向漸層;
-* “製作更多貼紙！” - 將漸層與圖像和文本相結合，以創造出更多貼紙。
+* "Create your own gradient sticker" - adding linear and radial gradients to text;
+* "Make more stickers!" - Combine gradients with images and text to create more stickers.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## 標題：專案材料
+## title: Project materials
 
-## 專案資源
+## Project resources
 
-* [包含所有專案資源的.zip文件](resources/stickers-project-resources.zip)
-* [線上Trinket包含所有“介绍”專案資源](http://jumpto.cc/web-intro)
-* [線上Trinket包含所有“貼紙”專案資源](http://jumpto.cc/web-stickers)
-* [線上Trinket範本](http://jumpto.cc/trinket-template)
-* [線上空白Trinket](http://jumpto.cc/trinket-blank)
+* [.zip file containing all project resources](resources/stickers-project-resources.zip)
+* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
+* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Online blank Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -89,10 +89,10 @@
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## 俱樂部負責人資源
+## Club leader resources
 
-* [包含所有專案資源的.zip文件](resources/stickers-volunteer-resources.zip)
-* [在線完整的Trinket專案](https://trinket.io/html/bb4e538e0a)
+* [.zip file containing all completed project resources](resources/stickers-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
