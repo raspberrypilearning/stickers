@@ -1,27 +1,27 @@
-## Naljepnica s HTML & CSS
+## HTML & CSS sticker
 
-Gradijenti također mogu promijeniti boju od središta prema rubovima, to se zove radijalni gradijent.
+Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
 
-+ Izradimo naljepnicu s tekstom `HTML & CSS.` `&` je još jedan znak koji treba kodirati u HTML-u, kod je `&amp;`.
++ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
     
-    Dodajte označeni kôd da biste izradili novu naljepnicu:
+    Add the highlighted code to create a new sticker:
     
     ![screenshot](images/stickers-web-html.png)
 
-+ Sada se prebacite na `style.css` datoteku i dodajte stil za novu naljepnicu:
++ Now switch to your `style.css` file and add a style for your new sticker:
     
     ![screenshot](images/stickers-web-font.png)
     
-    Kod `u sjeni teksta` dodaje sjenu koja produžuje 2 piksela ispod i desno od teksta da bi se istaknula.
+    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
 
-+ Sada za gradijent. Ovaj put koristimo radijalni gradijent. Boja će se promijeniti od žute u sredini do narančaste, a zatim crvene boje.
++ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
     
     ![screenshot](images/stickers-web-gradient.png)
     
-    Primijetite da gradijenti mogu sadržavati više boja, a ne samo dva.
+    Notice that gradients can include multiple colours, not just two.
 
-+ Naljepnica će izgledati puno bolje s nekim padding i zaobljeni granica.
++ The sticker will look much better with some padding and a rounded border.
     
-    Dodaj označeni kôd:
+    Add the highlighted code:
     
     ![screenshot](images/stickers-web-padding.png)
