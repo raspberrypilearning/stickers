@@ -1,27 +1,27 @@
-## Наклейки HTML &amp CSS
+## HTML & CSS sticker
 
-Градієнти також можуть змінювати колір від центру до країв, це називається радіальним градієнтом.
+Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
 
-+ Давайте створимо наклейку з текстом ` HTML & CSS. ` `&` це ще один символ, який потребує кодування в HTML, код `&amp; `.
++ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
     
-    Додайте виділений код, щоб створити нову наклейку:
+    Add the highlighted code to create a new sticker:
     
-    ![скріншот](images/stickers-web-html.png)
+    ![screenshot](images/stickers-web-html.png)
 
-+ Тепер перейдіть на свій ` style.css ` файл і додайте стиль для нової наклейки:
++ Now switch to your `style.css` file and add a style for your new sticker:
     
-    ![знімок екрану](images/stickers-web-font.png)
+    ![screenshot](images/stickers-web-font.png)
     
-    Код ` текстова тінь` додає тінь, яка продовжує 2 пікселі внизу та праворуч від тексту, щоб виділити його.
+    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
 
-+ Тепер для градієнтів. Цього разу давайте використовувати радіальний градієнт. Колір змінюється від жовтого у центрі до оранжевого, а потім червоного кольору.
++ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
     
-    ![скріншот](images/stickers-web-gradient.png)
+    ![screenshot](images/stickers-web-gradient.png)
     
-    Зверніть увагу, що градієнти можуть включати кілька кольорів, а не тільки два.
+    Notice that gradients can include multiple colours, not just two.
 
-+ Наклейка буде виглядати набагато краще з деякими межами та закругленою рамкою.
++ The sticker will look much better with some padding and a rounded border.
     
-    Додайте виділений код:
+    Add the highlighted code:
     
-    ![скріншот](images/stickers-web-padding.png)
+    ![screenshot](images/stickers-web-padding.png)
