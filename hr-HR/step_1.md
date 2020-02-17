@@ -1,108 +1,108 @@
-## Uvod
+## Introduction
 
-U ovom projektu stvorit ćete mnogo zabavnih naljepnica koje možete upotrijebiti za ukrašavanje web stranica. Naučit ćete o upotrebi gradijenta koji se postupno mijenjaju s jedne boje na drugu da bi vaše naljepnice bile sjajne.
+In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
 
 ![screenshot](images/stickers-finished.png)
 
-### Dodatne informacije za voditelje kluba
+### Additional information for club leaders
 
-Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/stickers/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
 
 ## \--- collapse \---
 
-## title: Bilješke za voditelja kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-U ovom projektu, djeca će se upoznati s linearnim i radijalnim gradijentima u CSS-u. Također će saznati više o granicama i pozicioniranju.
+In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
 
-## Online izvori
+## Online Resources
 
-Preporučujemo korištenje [trinket](https://trinket.io/) pisati HTML & amp; CSS online. Ovaj projekt sadrži sljedeće stvari:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
 * ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Djeca također mogu koristiti ovu praznu trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) napisati vlastiti HTML & CSS ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
+There is also a trinket containing a sample solution to the challenges:
 
-* ['Naljepnice' su gotovi - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Offline izvori
+## Offline Resources
 
-Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* Uvod / index.html
+* intro/index.html
 * template/template.html
 * template/style.css
-* naljepnice / index.html
-* naljepnice / style.css
-* naljepnice / script.js
-* naljepnice / robota .png slike
+* stickers/index.html
+* stickers/style.css
+* stickers/script.js
+* stickers/robot .png images
 
-Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Resursi za volontere' koji sadrži:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* naljepnice-gotov / index.html
-* naljepnice-gotov / style.css
-* naljepnice-gotovi / script.js
-* slike s naljepnicama / robota .png
+* stickers-finished/index.html
+* stickers-finished/style.css
+* stickers-finished/script.js
+* stickers-finished/robot .png images
 
-(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, moguće je preuzeti kao `.zip` datoteke.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Ishodi učenja
+## Learning Objectives
 
-* Ovaj projekt uvodi uporabu CSS gradijenata kako bi stvorili zanimljive učinke. Studenti će također proširiti svoje znanje o CSS granicama i pozicioniranju. 
+* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
 
-Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Dizajnirajte osnovna 2D i 3D sredstva](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Izazovi
+## Challenges
 
-* "Stvorite svoju naljepnicu gradijenta" - dodavanje linearnih i radijalnih gradijenata u tekst;
-* "Napravite više naljepnica!" - Kombinirajte gradijente sa slikama i tekstom kako biste stvorili više naljepnica.
+* "Create your own gradient sticker" - adding linear and radial gradients to text;
+* "Make more stickers!" - Combine gradients with images and text to create more stickers.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Materijali projekta
+## title: Project materials
 
-## Resursi projekta
+## Project resources
 
-* [.zip datoteka koja sadrži sve materijale projekta](resources/stickers-project-resources.zip)
-* [Online Trinket koji sadrži sve resurse projekta 'Intro'](http://jumpto.cc/web-intro)
-* [Online Trinket koji sadrži sve resurse projekta "Naljepnice"](http://jumpto.cc/web-stickers)
-* [Online Trinket predložak](http://jumpto.cc/trinket-template)
-* [Online prazan Trinket](http://jumpto.cc/trinket-blank)
+* [.zip file containing all project resources](resources/stickers-project-resources.zip)
+* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
+* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Online blank Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
-* [naljepnice / index.html](resources/stickers-index.html)
-* [naljepnice / style.css](resources/stickers-style.css)
-* [naljepnice / prefixfree.js](resources/stickers-prefixfree.js)
-* [naljepnice / bluerobot.png](resources/stickers-bluerobot.png)
-* [naljepnice / firerobot.png](resources/stickers-firerobot.png)
-* [naljepnice / purplerobot.png](resources/stickers-purplerobot.png)
-* [naljepnice / spacerobot.png](resources/stickers-spacerobot.png)
-* [naljepnice / dogrobot.png](resources/stickers-dogrobot.png)
-* [naljepnice / greenrobot.png](resources/stickers-greenrobot.png)
-* [naljepnice / rainbowrobot.png](resources/stickers-rainbowrobot.png)
-* [naljepnice / yellowrobot.png](resources/stickers-yellowrobot.png)
+* [stickers/index.html](resources/stickers-index.html)
+* [stickers/style.css](resources/stickers-style.css)
+* [stickers/prefixfree.js](resources/stickers-prefixfree.js)
+* [stickers/bluerobot.png](resources/stickers-bluerobot.png)
+* [stickers/firerobot.png](resources/stickers-firerobot.png)
+* [stickers/purplerobot.png](resources/stickers-purplerobot.png)
+* [stickers/spacerobot.png](resources/stickers-spacerobot.png)
+* [stickers/dogrobot.png](resources/stickers-dogrobot.png)
+* [stickers/greenrobot.png](resources/stickers-greenrobot.png)
+* [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
+* [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Resursi voditelja kluba
+## Club leader resources
 
-* [.zip datoteka koja sadrži sve dovršene resurse projekta](resources/stickers-volunteer-resources.zip)
-* [Dovršeni Online Trinket projekt](https://trinket.io/html/bb4e538e0a)
-* [naljepnice-gotov / index.html](resources/stickers-finished-index.html)
-* [naljepnice-gotov / style.css](resources/stickers-finished-style.css)
-* [naljepnice-gotovi / prefixfree.js](resources/stickers-finished-prefixfree.js)
-* [naljepnice-gotov / bluerobot.png](resources/stickers-finished-bluerobot.png)
-* [naljepnice-gotov / firerobot.png](resources/stickers-finished-firerobot.png)
-* [naljepnice-gotov / purplerobot.png](resources/stickers-finished-purplerobot.png)
-* [naljepnice-gotov / spacerobot.png](resources/stickers-finished-spacerobot.png)
-* [naljepnice-gotov / dogrobot.png](resources/stickers-finished-dogrobot.png)
-* [naljepnice-gotov / greenrobot.png](resources/stickers-finished-greenrobot.png)
-* [naljepnice-gotov / rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
-* [naljepnice-gotov / yellowrobot.png](resources/stickers-finished-yellowrobot.png)
+* [.zip file containing all completed project resources](resources/stickers-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
+* [stickers-finished/index.html](resources/stickers-finished-index.html)
+* [stickers-finished/style.css](resources/stickers-finished-style.css)
+* [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
+* [stickers-finished/bluerobot.png](resources/stickers-finished-bluerobot.png)
+* [stickers-finished/firerobot.png](resources/stickers-finished-firerobot.png)
+* [stickers-finished/purplerobot.png](resources/stickers-finished-purplerobot.png)
+* [stickers-finished/spacerobot.png](resources/stickers-finished-spacerobot.png)
+* [stickers-finished/dogrobot.png](resources/stickers-finished-dogrobot.png)
+* [stickers-finished/greenrobot.png](resources/stickers-finished-greenrobot.png)
+* [stickers-finished/rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
+* [stickers-finished/yellowrobot.png](resources/stickers-finished-yellowrobot.png)
 
 \--- /collapse \---
