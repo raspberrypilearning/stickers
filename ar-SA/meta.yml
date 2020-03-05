@@ -1,3 +1,4 @@
+---
 Title: الملصقات
 hero_image: images/stickers.png
 theme: orange
@@ -16,10 +17,10 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: المقدمة
-- title: ملصق برمجة متعدد الألوان
-- title: ملصق HTML & CSS
-- title: 'التحدي: أنشئ ملصقًا متدرجًا من ابتكارك'
-- title: 'ملصق روبوت رائع '
-- title: 'التحدي: أنشئ ملصقات أخرى'
+steps:
+  - title: المقدمة
+  - title: ملصق برمجة متعدد الألوان
+  - title: ملصق HTML & CSS
+  - title: 'التحدي: أنشئ ملصقًا متدرج الالوان من ابتكارك'
+  - title: 'ملصق روبوت رائع '
+  - title: 'التحدي: أنشئ ملصقات أخرى'
