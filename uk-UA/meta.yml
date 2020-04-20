@@ -19,14 +19,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Colourful coding sticker
+    title: Кольорова наклейка про кодування
   - 
-    title: HTML & CSS sticker
+    title: Наклейка HTML & CSS
   - 
-    title: 'Challenge: Create your own gradient sticker'
+    title: 'Завдання: створи власну наклейку з градієнтом'
   - 
-    title: 'Fancy robot sticker '
+    title: 'Вишукана наклейка з роботом '
   - 
     title: 'Завдання: зроби більше наклейок'
