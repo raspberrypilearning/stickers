@@ -70,7 +70,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Project resources
 
-* [.zip file containing all project resources](resources/stickers-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/stickers-go)
 * [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
 * [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Club leader resources
 
-* [.zip file containing all completed project resources](resources/stickers-volunteer-resources.zip)
+* [.zip file containing all completed project resources](http://rpf.io/p/en/stickers-go)
 * [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
