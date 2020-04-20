@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## Наклейка HTML & CSS
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+Градієнти також можуть змінювати колір від центру до країв, це називається радіальним градієнтом.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ Давай створимо наклейку з текстом `HTML & CSS.` `&` — це ще один символ, який потребує кодування в HTML, його код — `&amp;`.
     
-    Add the highlighted code to create a new sticker:
+    Додай виділений код, щоб створити нову наклейку:
     
-    ![screenshot](images/stickers-web-html.png)
+    ![знімок екрана](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ Тепер перейди до свого файлу `style.css` і додай стиль для нової наклейки:
     
-    ![screenshot](images/stickers-web-font.png)
+    ![знімок екрана](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    Код `text-shadow` додає тінь, яка продовжується на 2 пікселі внизу та праворуч від тексту, щоб виділити його.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ Тепер до градієнту. Цього разу давай використовувати радіальний градієнт. Колір змінюватиметься від жовтого у центрі до оранжевого, а потім червоного кольору.
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![знімок екрана](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    Зверни увагу, що градієнти можуть включати кілька кольорів, а не тільки два.
 
-+ The sticker will look much better with some padding and a rounded border.
++ Наклейка буде виглядати набагато краще з невеликими відступами та заокругленою рамкою.
     
-    Add the highlighted code:
+    Додай виділений код:
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![знімок екрана](images/stickers-web-padding.png)
