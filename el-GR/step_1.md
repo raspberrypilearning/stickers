@@ -70,7 +70,7 @@
 
 ## Πόροι έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/stickers-project-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](http://rpf.io/p/en/stickers-go)
 * [Online Trinket που περιέχει όλους τους πόρους του έργου 'Εισαγωγή'](http://jumpto.cc/web-intro)
 * [Online Trinket που περιέχει όλους τους πόρους του έργου 'Αυτοκόλλητα'](http://jumpto.cc/web-stickers)
 * [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@
 
 ## Πόροι συντονιστή ομάδας
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/stickers-volunteer-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](http://rpf.io/p/en/stickers-go)
 * [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
