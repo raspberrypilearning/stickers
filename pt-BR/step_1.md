@@ -70,7 +70,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Recursos do projeto
 
-* [arquivo.zip contendo todos os recursos do projeto](resources/stickers-project-resources.zip)
+* [arquivo.zip contendo todos os recursos do projeto](http://rpf.io/p/en/stickers-go)
 * [Trinket Online contendo todos os recursos do projeto 'Intro'](http://jumpto.cc/web-intro)
 * [Trinket Online contendo todos os recursos do projeto 'Stickers'](http://jumpto.cc/web-stickers)
 * [Template Online Trinket](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Recursos do líder do clube
 
-* [arquivo .zip contém todos os recursos do projeto](resources/stickers-volunteer-resources.zip)
+* [arquivo .zip contém todos os recursos do projeto](http://rpf.io/p/en/stickers-go)
 * [Projeto Trinket online e completo](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
