@@ -70,7 +70,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbestanden](resources/stickers-project-resources.zip)
+* [.zip-bestand met alle projectbestanden](http://rpf.io/p/en/stickers-go)
 * [Online Trinket met alle 'Intro' projectbestanden](http://jumpto.cc/web-intro)
 * [Online Trinket met alle projectbestanden van 'Stickers'](http://jumpto.cc/web-stickers)
 * [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Clubleiderbronnen
 
-* [.zip-bestand met alle voltooide projectbestanden](resources/stickers-volunteer-resources.zip)
+* [.zip-bestand met alle voltooide projectbestanden](http://rpf.io/p/en/stickers-go)
 * [Online voltooid Trinket-project](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
