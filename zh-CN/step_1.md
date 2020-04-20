@@ -70,7 +70,7 @@
 
 ## 项目资源
 
-* [.zip 文件包含所有项目资源](resources/stickers-project-resources.zip)
+* [.zip 文件包含所有项目资源](http://rpf.io/p/en/stickers-go)
 * [在线Trinket包含所有“介绍”项目资源](http://jumpto.cc/web-intro)
 * [在线Trinket包含所有“贴纸“项目资源](http://jumpto.cc/web-stickers)
 * [在线Trinket模板](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@
 
 ## 俱乐部导师资源
 
-* [.zip 文件包含所有已完成的项目资源](resources/stickers-volunteer-resources.zip)
+* [.zip 文件包含所有已完成的项目资源](http://rpf.io/p/en/stickers-go)
 * [在线已完成的Trinkret项目](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
