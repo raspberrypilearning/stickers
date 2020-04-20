@@ -70,7 +70,7 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 
 ## Recursos del proyecto
 
-* [Archivo .zip que contiene todos los recursos del proyecto](resources/stickers-project-resources.zip)
+* [Archivo .zip que contiene todos los recursos del proyecto](http://rpf.io/p/en/stickers-go)
 * [Trinket en línea que contiene todos los recursos del proyecto "Intro"](http://jumpto.cc/web-intro)
 * [Trinket en línea que contiene todos los recursos del proyecto "Pegatinas"](http://jumpto.cc/web-stickers)
 * [Plantilla Trinket en línea](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 
 ## Recursos para los líderes de clubes
 
-* [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/stickers-volunteer-resources.zip)
+* [Archivo .zip que contiene todos los recursos de proyecto terminado](http://rpf.io/p/en/stickers-go)
 * [Proyecto Trinket terminado en línea](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
