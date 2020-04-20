@@ -28,7 +28,7 @@
 
 + 텍스트를 더 크게 만들고 위치를 지정해 주면 더 잘 보일 것입니다.
     
-    텍스트 위치를 지정하려면 `#greensticker`에 `position: relative;`, `#greentext`에 `position: absolute`를 추가합니다. 텍스트 위치 지정에 관련된 내용은 `로봇 만들기` 프로젝트를 참고하시기 바랍니다.
+    텍스트 위치를 지정하려면 `#firerobot`에 `position: relative;`, `#firetext`에 `position: absolute`를 추가합니다. 텍스트 위치 지정에 관련된 내용은 `로봇 만들기` 프로젝트를 참고하시기 바랍니다.
     
     다음 코드를 `style.css`에 추가하십시오:
     
