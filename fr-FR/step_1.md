@@ -70,7 +70,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création
 
 ## Ressources pour le projet
 
-* [Fichier .zip contenant toutes les ressources du projet](resources/stickers-project-resources.zip)
+* [Fichier .zip contenant toutes les ressources du projet](http://rpf.io/p/en/stickers-go)
 * [Trinket en ligne contenant toutes les ressources du projet 'Intro'](http://jumpto.cc/web-intro)
 * [Trinket en ligne contenant toutes les ressources du projet 'Autocollants'](http://jumpto.cc/web-stickers)
 * [Modèle de Trinket en ligne](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création
 
 ## Ressources pour le responsable de club
 
-* [Fichier .zip contenant toutes les ressources du projet terminé](resources/stickers-volunteer-resources.zip)
+* [Fichier .zip contenant toutes les ressources du projet terminé](http://rpf.io/p/en/stickers-go)
 * [Projet Trinket en ligne terminé](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
