@@ -70,7 +70,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zasoby
 
-* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/stickers-project-resources.zip)
+* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](http://rpf.io/p/en/stickers-go)
 * [Szablon startowy "Intro"](http://jumpto.cc/web-intro)
 * [Szablon startowy "Naklejki"](http://jumpto.cc/web-stickers)
 * [Pusty szablon](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zasoby dla lidera klubu
 
-* [Plik .zip zawierający zasoby z ukończonym projektem](resources/stickers-volunteer-resources.zip)
+* [Plik .zip zawierający zasoby z ukończonym projektem](http://rpf.io/p/en/stickers-go)
 * [Ukończony projekt "Naklejki"](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
