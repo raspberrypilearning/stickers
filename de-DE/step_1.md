@@ -70,7 +70,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Projektressourcen
 
-* [.zip-Datei mit allen Projektressourcen](resources/stickers-project-resources.zip)
+* [.zip-Datei mit allen Projektressourcen](http://rpf.io/p/en/stickers-go)
 * [Online-Trinket mit allen "Intro"-Projektressourcen](http://jumpto.cc/web-intro)
 * [Online-Trinket mit allen 'Aufkleber'-Projektressourcen](http://jumpto.cc/web-stickers)
 * [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/stickers-volunteer-resources.zip)
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](http://rpf.io/p/en/stickers-go)
 * [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/bb4e538e0a)
 * [sticker-finished/index.html](resources/stickers-finished-index.html)
 * [sticker-finished/style.css](resources/stickers-finished-style.css)
