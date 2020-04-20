@@ -70,7 +70,7 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 ## Risorse del progetto
 
-* [File .zip con tutte le risorse del progetto](resources/stickers-project-resources.zip)
+* [File .zip con tutte le risorse del progetto](http://rpf.io/p/en/stickers-go)
 * [Trinket online contenente tutte le risorse del progetto 'Introduzione'](http://jumpto.cc/web-intro)
 * [Trinket online contenente tutte le risorse del progetto 'Adesivi'](http://jumpto.cc/web-stickers)
 * [Modello di Trinket online](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 ## Risorse per gli organizzatori del club
 
-* [File .zip con tutte le risorse del progetto completate](resources/stickers-volunteer-resources.zip)
+* [File .zip con tutte le risorse del progetto completate](http://rpf.io/p/en/stickers-go)
 * [Trinket online completato](https://trinket.io/html/bb4e538e0a)
 * [adesivi-finiti/index.html](resources/stickers-finished-index.html)
 * [adesivi-finiti/style.css](resources/stickers-finished-style.css)
