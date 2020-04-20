@@ -70,7 +70,7 @@
 
 ## موارد المشروع
 
-* [ملف.zip يحتوي على جميع موارد المشروع](resources/stickers-project-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع](http://rpf.io/p/en/stickers-go)
 * [Trinket عبر الانترنت يحتوي على جميع موارد مشروع "Intro"](http://jumpto.cc/web-intro)
 * [Trinket عبر الانترنت يحتوي على جميع موارد مشروع "Stickers"](http://jumpto.cc/web-stickers)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@
 
 ## موارد قادة النادي
 
-* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/stickers-volunteer-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](http://rpf.io/p/en/stickers-go)
 * [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
