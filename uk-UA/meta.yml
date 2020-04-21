@@ -1,4 +1,5 @@
-Title: Наклейки!
+---
+Title: Наклейки
 hero_image: images/stickers.png
 theme: orange
 duration: 2
@@ -7,7 +8,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Наклейки!
-description: У цьому проекті ви створите багато веселих наклейок, які можна використовувати, щоб прикрасити веб-сторінки.
+description: Створюй веселі наклейки з роботом, щоб прикрасити свою веб-сторінку.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
@@ -16,5 +17,10 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Наклейки!
+steps:
+  - title: Вступ
+  - title: Кольорова наклейка про кодування
+  - title: Наклейка HTML & CSS
+  - title: 'Завдання: створи власну наклейку з градієнтом'
+  - title: 'Вишукана наклейка з роботом'
+  - title: 'Завдання: зроби більше наклейок'
