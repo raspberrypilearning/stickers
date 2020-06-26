@@ -1,45 +1,45 @@
-## Colourful coding sticker
+## Sticker de codificación colorida
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+Un degradado o gradiente es un cambio gradual de un color a otro. Los gradientes se pueden utilizar para crear efectos geniales. Los vas a utilizar para crear stickers que puedes usar en tus páginas web.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ Abre este trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    The project should look like this:
+    El proyecto debería parecerse a esto:
     
-    ![screenshot](images/stickers-starter.png)
+    ![captura de pantalla](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ Hagamos un sticker 'Yo <3 Programar'g' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    Utiliza un `<div>` con una clase `sticker` y un identificador `coding` para que puedas darle estilo:
     
-    ![screenshot](images/stickers-coding-error.png)
+    ![captura de pantalla](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ Mmm, ¿notaste que recibiste un error? Esto se debe a que '<' es un carácter especial en HTML. En lugar de '<' necesitas usar el código especial `&lt; `.
     
-    Update your code to use `&lt;` so that the error goes away.
+    Actualiza tu código usando `&lt; ` para que el error desaparezca.
     
-    ![screenshot](images/stickers-coding-fixed.png)
+    ![captura de pantalla](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` da una nueva línea.
 
-+ Now let's make the sticker look interesting.
++ Ahora vamos a hacer que el sticker se vea interesante.
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    Cambia al archivo `style.css`. Verás que la clase `.sticker` ha sido proporcionada para ti. Esto colocará los stickers en la página y centrará su contenido.
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    Recuerda que agregaste el identificador `coding` a tu sticker. En la parte inferior de ` style.css ` agrega el siguiente código para darle estilo al texto:
     
-    ![screenshot](images/stickers-coding-font.png)
+    ![captura de pantalla](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ Ahora puedes agregar un degradado para el fondo del sticker. Un degradado lineal cambia de un color a otro a lo largo de una línea recta.
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    Este degradado cambiará de rojo en la parte superior a magenta en la parte inferior. Agrega el código de degradado a tu estilo `coding`:
     
-    ![screenshot](images/stickers-coding-gradient.png)
+    ![captura de pantalla](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ Puedes mejorar el resultado agregando espacio alrededor y redondeando las esquinas.
     
-    Add the highlighted code:
+    Agrega el código resaltado:
     
-    ![screenshot](images/stickers-coding-padding.png)
+    ![captura de pantalla](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    El estilo `padding` agrega un espacio de 50px en la parte superior e inferior y 30px en la parte izquierda y derecha.
