@@ -1,5 +1,5 @@
 ---
-Title: Stickers
+Title: स्टिकर्स
 hero_image: images/stickers.png
 theme: orange
 duration: 2
@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Stickers!
-description: Create fun robot stickers to decorate your web pages.
+title: स्टिकर्स!
+description: अपने वेबपेजों की सजावट के लिए मज़ेदार रोबोट स्टिकर्स बनाएँ।
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
@@ -19,14 +19,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: भूमिका
   - 
-    title: Colourful coding sticker
+    title: रंगीन कोडिंग स्टिकर
   - 
-    title: HTML & CSS sticker
+    title: HTML और CSS स्टिकर
   - 
-    title: 'Challenge: Create your own gradient sticker'
+    title: 'चुनौती: अपना स्वयं का ग्रेडिएंट स्टिकर बनाएँ'
   - 
-    title: 'Fancy robot sticker '
+    title: 'फैंसी रोबोट स्टिकर '
   - 
-    title: 'Challenge: Make more stickers'
+    title: 'चुनौती: और स्टिकर बनाएँ'
