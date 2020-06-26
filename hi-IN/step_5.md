@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## फैंसी रोबोट स्टिकर
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+आप एक छवि का उपयोग करके एक ग्रेडिएंट स्टिकर बना सकते हैं। यदि आप एक पारदर्शी पृष्ठभूमि के साथ एक छवि का उपयोग करते हैं तो ग्रेडिएंट दिखाई देगा।
 
-You can also create gradients to run in different directions.
+आप विभिन्न दिशाओं में चलने वाला ग्रेडिएंट भी बना सकते हैं।
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ ` firerobot.png` छवि का उपयोग करते हुए ` index.html ` में एक स्टिकर लगाएं :
     
-    ![screenshot](images/stickers-fire-html.png)
+    ![स्क्रीनशॉट](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    आप ` height ` से छवि का आकार समायोजित कर सकते हैं, चौड़ाई अपने आप बदल जाएगी।
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ आम तौर पर एक रैखिक ग्रेडिएंट ऊपर से नीचे तक चलती है, लेकिन आप `to` का उपयोग कर दिशा बदल सकते हैं । उदाहरण के लिए: `to top` , `to left` या `to right` ।
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    एक विकर्ण ग्रेडिएंट के लिए आप दो दिशाएं देते हैं। यह उदाहरण `to bottom left ` का उपयोग करता है।
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    इस स्टाइल को ` style.css`में लगाकर अपने नए रोबोट स्टिकर को विकर्ण ग्रेडिएंट और फैंसी बॉर्डर दें :
     
-    ![screenshot](images/stickers-fire-gradient.png)
+    ![स्क्रीनशॉट](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    ध्यान दें कि आप `outline ` सामान्य सीमा के बाहर एक और सीमा बनाने के लिए उपयोग कर सकते हैं । `outline-offset` सीमा और रूपरेखा के बीच अंतर देता है।
 
-+ Let's add some text to this sticker.
++ आइए इस स्टिकर में कुछ टेक्स्ट जोड़ें।
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    ` index.html ` में एक `<span>` लगाएं जिसमे टेक्स्ट "ROBOTS" हो और उसे एक id दें।
     
-    ![screenshot](images/stickers-fire-span.png)
+    ![स्क्रीनशॉट](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ यदि आप इसे बड़ा बनाते हैं और स्तिथ करते हैं तो टेक्स्ट बेहतर दिखेगा।
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    टेक्स्ट को स्तिथ करने के लिए आपको `position: relative;`को `#greensticker` से और `position: absolute`को `#greentext` से जोड़ने की आवश्यकता होगी। पोजिशनिंग के बारे में विस्तार से ` एक रोबोट का निर्माण करें` प्रोजेक्ट में जानेंगे ।
     
-    Add the following code to `style.css`:
+    निम्नलिखित शैली को ` style.css ` में जोड़ें |
     
-    ![screenshot](images/stickers-fire-text-style.png)
+    ![स्क्रीनशॉट](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ और अब अंत में, टेक्स्ट को `transform: rotate`का उपयोग करके घुमाएँ ।
     
-    ![screenshot](images/stickers-fire-rotate.png)
+    ![स्क्रीनशॉट](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    टेक्स्ट को घुमाए जाने वाले डिग्री की संख्या को बदलने का प्रयास करें।
