@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## HTML ve CSS çıkartması
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+Gradyanlar ayrıca merkezden kenarlara doğru renk değiştirebilir, buna radyal gradyan denir.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ `HTML & CSS.` metnini içeren bir çıkartma oluşturalım. `&` HTML'de kodlanması gereken başka bir karakterdir. Kod `&amp;`.
     
-    Add the highlighted code to create a new sticker:
+    Yeni bir çıkartma oluşturmak için vurgulanan kodu ekleyin:
     
-    ![screenshot](images/stickers-web-html.png)
+    ![ekran görüntüsü](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ Şimdi `style.css` dosyasına geçin ve yeni çıkartmanız için bir stil ekleyin:
     
-    ![screenshot](images/stickers-web-font.png)
+    ![ekran görüntüsü](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    `text-shadow` kodu, daha belirgin hale getirmek için metnin altına ve sağına 2 piksel uzanan bir gölge ekler.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ Şimdi sıra gradyanda. Bu sefer radyal bir gradyan kullanalım. Renk, merkezden sarıdan, turuncuya ve daha sonra kırmızıya dönüşecektir.
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![ekran görüntüsü](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    Gradyanların yalnızca iki değil, birden fazla renk içerebileceğine dikkat edin.
 
-+ The sticker will look much better with some padding and a rounded border.
++ Çıkartma, bazı dolgu ve yuvarlak kenarlıklarla çok daha iyi görünecektir.
     
-    Add the highlighted code:
+    Vurgulanan kodu ekleyin:
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![ekran görüntüsü](images/stickers-web-padding.png)
