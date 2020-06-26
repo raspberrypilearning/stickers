@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## चुनौती: और स्टिकर बनाएँ
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+अब विभिन्न ग्रेडिएंट दिशाओं, चित्र और टेक्स्ट जोड़के और सीमाओं और रूपरेखा का उपयोग करके और अधिक स्टिकर बनाने का प्रयास करें।
 
-Tip: You'll need to add HTML and CSS for each sticker.
+युक्ति: आपको प्रत्येक स्टिकर के लिए HTML और CSS जोड़ना होगा।
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+आप अपने एक उदाहरण को कॉपी और एडिट कर सकते हैं और एक नया स्टिकर बनाने के लिए उसमे बदलाव कर सकते हैं।
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+आपके प्रोजेक्ट में पहले से ही रोबोट छवियों का एक सेट शामिल है। उपलब्ध छवियों को देखने के लिए चित्र आइकन पर क्लिक करें।
 
-![screenshot](images/stickers-images.png)
+![स्क्रीनशॉट](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+यह उदाहरण एक रैखिक ग्रेडिएंट के साथ `to right` का उपयोग करता है :
 
-![screenshot](images/stickers-green-html.png)
+![स्क्रीनशॉट](images/stickers-green-html.png)
 
-![screenshot](images/stickers-green-style.png)
+![स्क्रीनशॉट](images/stickers-green-style.png)
 
 \--- /challenge \---
