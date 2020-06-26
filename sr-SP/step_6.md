@@ -1,21 +1,21 @@
-\--- challenge \---
+\--- изазов \---
 
-## Challenge: Make more stickers
+## Изазов: Направите више налепница
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Сада покушајте да направите више налепница користећи различите правце градијента, додајте слике и текст користећи унутрашње и спољашње ивице.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+Савет: Морате да додате HTML и CSS за сваку налепницу.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Можете копирати и уређивати један од својих примера и уносити измене да бисте створили нову налепницу.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Ваш пројекат већ садржи скуп слика робота. Кликните на икону слике да бисте видели доступне слике.
 
-![screenshot](images/stickers-images.png)
+![слика екрана](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+Овај пример користи линеарни градијент са `to right`:
 
-![screenshot](images/stickers-green-html.png)
+![слика екрана](images/stickers-green-html.png)
 
-![screenshot](images/stickers-green-style.png)
+![слика екрана](images/stickers-green-style.png)
 
-\--- /challenge \---
+\--- / изазов \---
