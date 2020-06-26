@@ -1,45 +1,45 @@
-## Colourful coding sticker
+## रंगीन कोडिंग स्टिकर
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+ग्रेडिएंट एक रंग से दूसरे रंग में एक क्रमिक परिवर्तन होता है। ग्रेडिएंट सुन्दर इफेक्ट्स बनाने के लिए इस्तेमाल किया जा सकता है। उनसे आप स्टिकर बनाएँगे जिन्हे आप जिनका उपयोग आप अपने वेब पेजों पर कर सकते हैं।
 
-+ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ इस ट्रिंकेट को खोलें: <a href="http://jumpto.cc/web-stickers" target="_blank"> jumpto.cc/web-stickers </a> ।
     
-    The project should look like this:
+    प्रोजेक्ट इस तरह दिखना चाहिए:
     
-    ![screenshot](images/stickers-starter.png)
+    ![स्क्रीनशॉट](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ चलो एक 'I <3 कोडिंग' स्टिकर बनाते हैंg' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    ` sticker` क्लास के साथ `<div>` का उपयोग करें और ` coding` id ताकि आप इसे स्टाइल कर सकें:
     
-    ![screenshot](images/stickers-coding-error.png)
+    ![स्क्रीनशॉट](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ हम्म... आपने देखा कि आपको कोई एरर मिला? ऐसा इसलिए है क्योंकि HTML में '<' एक विशेष चरित्र है। '<' के बजाय आपको इस विशेष कोड का उपयोग करने की आवश्यकता है `&lt; ` 
     
-    Update your code to use `&lt;` so that the error goes away.
+    `&lt` का उपयोग करने के लिए अपने कोड को अपडेट करें; ताकि एरर दूर हो जाए।
     
-    ![screenshot](images/stickers-coding-fixed.png)
+    ![स्क्रीनशॉट](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` एक नई लाइन देता है।
 
-+ Now let's make the sticker look interesting.
++ अब स्टिकर को दिलचस्प बनाते हैं।
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    ` style.css` पर फ़ाइल स्विच करें। आप देखेंगे कि ` .sticker ` क्लास आपके लिए प्रदान की गई है। यह पेज परस्टिकर दिखाएगा और उनको केंद्र में रखेगा।
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    याद रखें कि आपने id ` coding`अपने स्टीकर में जोड़ा है । ` style.css ` के निचले भाग में टेक्स्ट को स्टाइल करने के लिए निम्न कोड जोड़ें:
     
-    ![screenshot](images/stickers-coding-font.png)
+    ![स्क्रीनशॉट](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ अब आप स्टिकर के बैकग्राउंड में एक ग्रेडिएंट लगा सकते हैं। एक रेखीय ग्रेडिएंट एक रंग से दूसरे में सीधी रेखा के साथ बदलता है।
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    यह ग्रेडिएंट नीचे से ऊपर की ओर लाल रंग से मैजेंटा में बदल जाएगा । अपने `coding `स्टाइल में ग्रेडिएंट कोड जोड़ें:
     
-    ![screenshot](images/stickers-coding-gradient.png)
+    ![स्क्रीनशॉट](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ आप पैडिंग और गोल कोनों को जोड़कर परिणाम में सुधार कर सकते हैं।
     
-    Add the highlighted code:
+    हाइलाइट किए गए कोड को जोड़ें:
     
-    ![screenshot](images/stickers-coding-padding.png)
+    ![स्क्रीनशॉट](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    `padding` स्टाइल ऊपर और नीचे 50px की पैडिंग और बाईं और दाईं ओर 30px जोड़ता है।
