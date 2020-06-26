@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Make more stickers
+## Meydan Okuma: Daha fazla çıkartma yapın
 
-Now try making more stickers using different gradient directions and adding images and text and using borders and outlines.
+Şimdi farklı gradyan yönlerini kullanarak daha fazla çıkartma yapmayı, resim ve metin eklemeyi ve kenarlıklarla anahatları kullanmayı deneyin.
 
-Tip: You'll need to add HTML and CSS for each sticker.
+İpucu: Her çıkartma için HTML ve CSS eklemeniz gerekir.
 
-You can copy and edit one of your examples and make changes to create a new sticker.
+Örneklerinizden birini kopyalayıp düzenleyebilir ve yeni bir çıkartma oluşturmak için üzerinde değişiklikler yapabilirsiniz.
 
-Your project already includes a set of robot images. Click on the images icon to see the available images.
+Projeniz zaten bir dizi robot görseli içeriyor. Kullanılabilir görselleri görüntülemek için resimler simgesine tıklayın.
 
-![screenshot](images/stickers-images.png)
+![ekran görüntüsü](images/stickers-images.png)
 
-This example uses a linear gradient with `to right`:
+Bu örnekte `to right` ile doğrusal bir gradyan kullanılmıştır:
 
-![screenshot](images/stickers-green-html.png)
+![ekran görüntüsü](images/stickers-green-html.png)
 
-![screenshot](images/stickers-green-style.png)
+![ekran görüntüsü](images/stickers-green-style.png)
 
 \--- /challenge \---
