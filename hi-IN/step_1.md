@@ -1,36 +1,36 @@
-## Introduction
+## भूमिका
 
-In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
+इस प्रोजेक्ट में, आप बहुत सारे मज़ेदार स्टिकर बनाएंगे जिनका उपयोग आप वेब पेजों को सजाने के लिए कर सकते हैं। आप ऐसे ग्रेडिएंट का उपयोग करने के बारे में जानेंगे जो धीरे-धीरे एक रंग को दूसरे रंग में बदलते है और जिनसे स्टिकर सुन्दर बनाया जा सकता है ।
 
-![screenshot](images/stickers-finished.png)
+![स्क्रीनशॉट](images/stickers-finished.png)
 
-### Additional information for club leaders
+### क्लब लीडरों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
+यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/stickers/print) का उपयोग करें।
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: क्लब लीडर के नोट्स
 
-## Introduction:
+## परिचय:
 
-In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
+इस प्रोजेक्ट में, बच्चों को CSS में रैखिक और रेडियल ग्रेडिएंट से परिचित कराया जाएगा। वे सीमाओं और स्थिति के बारे में अधिक जानेंगे।
 
-## Online Resources
+## ऑनलाइन संसाधन
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+हम HTML & CSS ऑनलाइन लिखने के लिए [ ट्रिंकेट ](https://trinket.io/) का उपयोग करने की सलाह देते हैं । इस प्रोजेक्ट में निम्नलिखित ट्रिंकेट शामिल हैं:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* ['स्टिकर' शुरुआती बिंदु - jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+बच्चे स्वयं HTML और CSS लिखने के लिए इस खाली ट्रिंकेट [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) काभी उपयोग कर सकते हैं, या वैकल्पिक तौर पर वे इस टैंपलेट ट्रिंकेट का उपयोग कर सकते हैं [(jumpto.cc/html-template)](http://jumpto.cc/html-template)।
 
-There is also a trinket containing a sample solution to the challenges:
+ऐसा ट्रिंकेट भी होता है, जिसमें चुनौतियों के लिए हल का नमूना शामिल होता है:
 
-* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* ['स्टिकर' समाप्त - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Offline Resources
+## ऑफ़लाइन संसाधन
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+यदि चाहें तो इस प्रोजेक्ट को [ऑफ़लाइन पूरा](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) किया जा सकता है। आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके प्रोजेक्ट के संसाधनों पर पहुँच सकते हैं। इस लिंक में 'प्रोजेक्ट संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस प्रोजेक्ट को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे के पास इन संसाधनों की एक प्रतिलिपि है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
 
 * intro/index.html
 * template/template.html
@@ -40,41 +40,41 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * stickers/script.js
 * stickers/robot .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+आप 'वालंटियर रिसोर्सेज' सेक्शन में इस प्रोजेक्ट की चुनौतियों का पूरा संस्करण भी पा सकते हैं, जिसमे शामिल हैं:
 
 * stickers-finished/index.html
 * stickers-finished/style.css
 * stickers-finished/script.js
 * stickers-finished/robot .png images
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(उपर्युक्त सभी संसाधन प्रोजेक्ट और स्वयंसेवक `.zip` फ़ाइलों के रूप में भी डाउनलोड किए जा सकते हैं।)
 
-## Learning Objectives
+## सीखने के उद्देश्य
 
-* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
+* यह प्रोजेक्ट दिलचस्प प्रभाव पैदा करने के लिए CSS ग्रेडिएंट का उपयोग करती है। छात्र CSS सीमाओं और स्थिति के बारे में और जानेंगे। 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [ बुनियादी 2D और 3D एसेट्स डिजाइन करें ](https://www.raspberrypi.org/curriculum/design/creator) ।
 
-## Challenges
+## चुनौतियाँ
 
-* "Create your own gradient sticker" - adding linear and radial gradients to text;
-* "Make more stickers!" - Combine gradients with images and text to create more stickers.
+* "अपने खुद के ग्रेडिएंट स्टिकर बनाएं" - text से रैखिक और रेडियल ग्रेडिएंट्स को जोड़ना;
+* "और स्टिकर बनाएं!" - अधिक स्टिकर बनाने के लिए छवि और text को ग्रेडिएंट से मिलाएं।
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: प्रोजेक्ट सामग्री
 
-## Project resources
+## प्रोजेक्ट संसाधन
 
-* [.zip file containing all project resources](http://rpf.io/p/en/stickers-go)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](http://rpf.io/p/en/stickers-go)
+* [ऑनलाइन ट्रिंकेट जिसमें सभी 'इंट्रो' प्रोजेक्ट संसाधन हैं](http://jumpto.cc/web-intro)
+* [ऑनलाइन trinket जिसमें सभी 'स्टिकर' प्रोजेक्ट संसाधन हैं](http://jumpto.cc/web-stickers)
+* [ऑनलाइन ट्रिंकेट टेम्प्लेट](http://jumpto.cc/trinket-template)
+* [ऑनलाइन खाली ट्रिंकेट](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -89,10 +89,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Club leader resources
+## क्लब लीडर संसाधन
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/stickers-go)
-* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
+* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](http://rpf.io/p/en/stickers-go)
+* [ऑनलाइन पूर्ण ट्रिंकेट प्रोजेक्ट](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
