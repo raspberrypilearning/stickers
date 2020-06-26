@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## Süslü robot çıkartması
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+Bir görsel kullanarak gradyan çıkartma yapabilirsiniz. Saydam arka planı olan bir görsel kullanırsanız, gradyan görünecektir.
 
-You can also create gradients to run in different directions.
+Farklı yönlerde çalışacak için gradyanlar da oluşturabilirsiniz.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ `index.html` dosyasına `firerobot.png` görselini kullanarak bir etiket ekleyin:
     
-    ![screenshot](images/stickers-fire-html.png)
+    ![ekran görüntüsü](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    Görüntüyü yeniden boyutlandırmak için `height` (yükseklik) ögesini ayarlayabilirsiniz. Genişlik otomatik olarak değişir.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ Normalde doğrusal bir gradyan yukarıdan aşağıya doğru çalışır, ancak yönünü değiştirmek için `to` kulllanabilirsiniz. Örneğin: `to top`, `to left`, veya `to right`.
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    Diyagonal -köşegen- gradyan için iki yön verin. Bu örnekte `to bottom left` kullanılmıştır.
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    Yeni robot çıkartmanıza diyagonal bir gradyan ve süslü bir kenarlık vermek için bu stili `style.css` dosyasına ekleyin:
     
-    ![screenshot](images/stickers-fire-gradient.png)
+    ![ekran görüntüsü](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    `outline` ögesini, mevcut olandan ayrı bir dış kenarlık oluşturmak için kullanabileceğinizi unutmayın. `outline-offset` kenarlık ve anahat arasındaki boşluğu belirtir.
 
-+ Let's add some text to this sticker.
++ Bu çıkartmaya biraz metin ekleyelim.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    `index.html` dosyasına "ROBOTS" metnini içeren bir `<span>` ekleyin </1> ve bir kimlik verin.
     
-    ![screenshot](images/stickers-fire-span.png)
+    ![ekran görüntüsü](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ Metni büyütür ve konumlandırırsanız daha iyi gözükecektir.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    Metni konumlandırmak için, `#greensticker` ögesine `position: relative;` ve`#greentext` ögesine `position: absolute` eklemeniz gerekir. Konumlandırma konusu, `Build a Robot` projesinde detaylı olarak anlatılacaktır.
     
-    Add the following code to `style.css`:
+    Aşağıdaki kodu `style.css` dosyasına ekleyin:
     
-    ![screenshot](images/stickers-fire-text-style.png)
+    ![ekran görüntüsü](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ `transform: rotate` kullanıp metni döndürerek son dokunuşu yapalım.
     
-    ![screenshot](images/stickers-fire-rotate.png)
+    ![ekran görüntüsü](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    Metnin döndürüleceği derece sayısını değiştirmeyi deneyin.
