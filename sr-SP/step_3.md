@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## HTML & CSS налепница
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+Градијенти такође могу мењати боју из центра према ивицама, то се назива радијални градијент.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ Направимо налепницу са текстом `HTML & CSS.` `&` је други знак који треба да програмирамо у HTML-у, код је `&amp;`.
     
-    Add the highlighted code to create a new sticker:
+    Додајте означени код да бисте створили нову налепницу:
     
-    ![screenshot](images/stickers-web-html.png)
+    ![слика екрана](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ Сада се пребаците на `style.css` датотеку и додајте стил својој новој налепници:
     
-    ![screenshot](images/stickers-web-font.png)
+    ![слика екрана](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    Текст `text-shadow` код додаје сенку која се протеже 2px испод и са десне стране текста како би се истакла.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ Сада за градијент. Овог пута искористимо радијални градијент. Боја ће се променити од жуте у средини до наранџасте, а затим до црвене.
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![слика екрана](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    Приметићете да градијенти могу укључивати више боја, а не само две.
 
-+ The sticker will look much better with some padding and a rounded border.
++ Налепница ће изгледати много боље са мало одстојанја и заобљеном оквиром.
     
-    Add the highlighted code:
+    Додајте означени код:
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![слика екрана](images/stickers-web-padding.png)
