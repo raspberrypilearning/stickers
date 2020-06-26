@@ -8,25 +8,25 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Stickers!
-description: Create fun robot stickers to decorate your web pages.
+description: Crea divertidos stickers de robots para decorar tus páginas web.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
-interests: art
+interests: arte
 technologies: html-css-javascript
-site_areas: projects
+site_areas: proyectos
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: Colourful coding sticker
+    title: Programación de sticker colorido
   - 
-    title: HTML & CSS sticker
+    title: Sticker HTML y CSS
   - 
-    title: 'Challenge: Create your own gradient sticker'
+    title: 'Desafío: Crea tu propio sticker con degradado'
   - 
-    title: 'Fancy robot sticker '
+    title: 'Sticker elegante de un robot '
   - 
-    title: 'Challenge: Make more stickers'
+    title: 'Desafío: Crea más stickers'
