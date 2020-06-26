@@ -1,36 +1,36 @@
-## Introduction
+## Увод
 
-In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
+У овом пројекту, направићете пуно интересантних налепница које можете да користите за украшавање веб страница. Научићете како да користите градијенте којима се боје постепено преливају од једне до друге да би постигли да налепница изгледа лепо.
 
-![screenshot](images/stickers-finished.png)
+![снимак екрана](images/stickers-finished.png)
 
-### Additional information for club leaders
+### Додатне информације за вође клуба
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
+Уколико је потребно да одштампате овај пројекат, молимо Вас користите [Верзију за штампање](https://projects.raspberrypi.org/en/projects/stickers/print).
 
-## \--- collapse \---
+## \--- рашири \---
 
-## title: Club leader notes
+## наслов: Белешке вође клуба
 
-## Introduction:
+## Увод:
 
-In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
+У овом пројекту деца ће се упознати са линеарним и радијалним градијентима у CSS-у. Такође ће научити више о границама и позиционирању.
 
-## Online Resources
+## Онлине ресурси
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Препоручујемо употребу [додатака](https://trinket.io/) да би писали HTML & CSS док сте на интернету. Овај пројекат садржи следеће додатке:
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* [Почетна тачка „налепница“ - jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Деца такође могу да користе овај празни додатак [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) да напишу свој HTML & CSS или могу користити овај шаблон додатка [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Постоји и додатак која садржи узорак решења за изазове:
 
-* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* [Завршена налепница - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Offline Resources
+## Ресурси за које није потребан интернет
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Овај пројекат може бити [ завршен без интернета ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) ако је пожељно. Изворима пројекта можете приступити кликом на везу „Пројектни материјали“ за овај пројекат. Ова веза садржи одељак „Ресурси пројекта“ који укључује ресурсе који ће деци требати да би извршили овај пројекат без интернета. Проверите да ли свако дете има приступ копији ових ресурса. Овај одељак садржи следеће датотеке:
 
 * intro/index.html
 * template/template.html
@@ -38,43 +38,43 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * stickers/index.html
 * stickers/style.css
 * stickers/script.js
-* stickers/robot .png images
+* stickers/robot.png слике
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Такође можете пронаћи довршену верзију изазова овог пројекта у одељку 'Ресурси за волонтере' који садржи:
 
 * stickers-finished/index.html
 * stickers-finished/style.css
 * stickers-finished/script.js
-* stickers-finished/robot .png images
+* stickers-finished/robot.png слике
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Сви ресурси изнад могу се преузети и као пројектни и волонтерски `.zip` фајлови.)
 
-## Learning Objectives
+## Циљеви учења
 
-* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
+* Овај пројекат представља употребу CSS градијената за стварање занимљивих ефеката. Студенти ће такође проширити своје знање о CSS-u, ивицама и позиционирању. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Овај пројекат покрива елементе из следећих делова [ Распберри Пи израда дигиталног наставног плана и програма ](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [ Дизајн основних 2Д и 3Д материјала ](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Изазови
 
-* "Create your own gradient sticker" - adding linear and radial gradients to text;
-* "Make more stickers!" - Combine gradients with images and text to create more stickers.
+* „Креирајте своју налепницу за градијент“ - додавањем линеарних и радијалних градијената у текст;
+* "Направите још налепница!" - Комбинујте градијенте са сликама и текстом да бисте створили више налепница.
 
-\--- /collapse \---
+\--- /рашири \---
 
-## \--- collapse \---
+## \--- рашири \---
 
-## title: Project materials
+## наслов: Пројектни материјали
 
 ## Project resources
 
-* [.zip file containing all project resources](http://rpf.io/p/en/stickers-go)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [.zip датотека која садржи све ресурсе пројекта](http://rpf.io/p/en/stickers-go)
+* [Интернет додатак која садржи све 'Увод' ресурсе из пројекта](http://jumpto.cc/web-intro)
+* [Интернет додатак која садржи све 'Nalepnice' ресурсе из пројекта](http://jumpto.cc/web-stickers)
+* [Образац за додатке са Интернета](http://jumpto.cc/trinket-template)
+* [Празан додатак са Интернета](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -89,10 +89,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Club leader resources
+## Ресурси вођа клуба
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/stickers-go)
-* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
+* [.zip датотека која садржи све завршене ресурсе пројекта](http://rpf.io/p/en/stickers-go)
+* [Завршени Додатак пројекта са Интернета](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
@@ -105,4 +105,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [stickers-finished/rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
 * [stickers-finished/yellowrobot.png](resources/stickers-finished-yellowrobot.png)
 
-\--- /collapse \---
+\--- /рашири \---
