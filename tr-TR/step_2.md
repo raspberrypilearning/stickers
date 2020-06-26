@@ -1,45 +1,45 @@
-## Colourful coding sticker
+## Renkli kodlama çıkartması
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+Gradyan, bir renkten diğerine kademeli bir geçiştir. Gradyanlar, havalı efektler oluşturmak için kullanılabilir. Bunları web sayfalarınızda kullanabileceğiniz çıkartmalar oluşturmak için kullanacaksınız.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ Şu trinketi açın: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    The project should look like this:
+    Proje şöyle görünmeli:
     
-    ![screenshot](images/stickers-starter.png)
+    ![ekran görüntüsü](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ Haydi 'I <3 Codin' çıkartması yapalımg' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    Bir `<div>`, bir `sticker` sınıfı, bir de `coding` id'si kullanın, böylelikle çıkartmanızı şekillendirebileceksiniz:
     
-    ![screenshot](images/stickers-coding-error.png)
+    ![ekran görüntüsü](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ Hmm bir hatanın olduğunu fark ettin mi? Çünkü '<' HTML'ye özel bir karakterdir. Onun yerine `&lt;` özel kodunu kullanman gerekir.
     
-    Update your code to use `&lt;` so that the error goes away.
+    `&lt;` ögesini kullanabilmek için kodunuzu güncelleyin, böylelikle hata ortadan kalkacaktır.
     
-    ![screenshot](images/stickers-coding-fixed.png)
+    ![ekran görüntüsü](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` yeni bir çizgi verir.
 
-+ Now let's make the sticker look interesting.
++ Şimdi çıkartmanın ilginç görünmesini sağlayalım.
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    `style.css` dosyasını açın. `.sticker` sınıfının sizin için ayrıldığını göreceksiniz. Bu, sayfadaki çıkartmaları düzenler ve içeriklerini ortalar.
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    Çıkartmanıza `coding` id'sini eklemeyi unutmayın. `style.css` dosyasının en aşağısına, metni biçimlendirmek için aşağıdaki kodu eklemeyi unutmayın:
     
-    ![screenshot](images/stickers-coding-font.png)
+    ![ekran görüntüsü](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ Şimdi çıkartmanın arka planı için bir gradyan ekleyebilirsiniz. Doğrusal bir gradyan, düz bir çizgi boyunca bir renkten diğerine geçer.
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    Bu gradyan, yukarıdan aşağıya doğru kırmızıdan macentaya dönüşecektir. `coding` stil dosyanıza gradyan kodunu ekleyin:
     
-    ![screenshot](images/stickers-coding-gradient.png)
+    ![ekran görüntüsü](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ Dolgu ve yuvarlak köşeler ekleyerek elde ettiğiniz sonucu iyileştirebilirsiniz.
     
-    Add the highlighted code:
+    Vurgulanan kodu ekleyin:
     
-    ![screenshot](images/stickers-coding-padding.png)
+    ![ekran görüntüsü](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    `padding` stili, üstten ve alttan 50, soldan ve sağdan 30 piksel dolgu ekler.
