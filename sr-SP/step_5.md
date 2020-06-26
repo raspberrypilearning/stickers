@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## Модерна налепница са роботима
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+Помоћу слике можете направити градијент налепницу. Ако користите слику с прозирном позадином, градијент ће бити видљив.
 
-You can also create gradients to run in different directions.
+Такође можете да креирате градијенте усмерене у различитим правцима.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ Додајте налепницу у `index.html` користећи `firerobot.png` слику:
     
-    ![screenshot](images/stickers-fire-html.png)
+    ![слика екрана](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    Можете подесити `height` Да бисте променили висину слике, ширина ће се аутоматски променити.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ Обично линеарни градијент тече од врха до дна, али можете да користите `to` да промените смер. На пример: `to top`, `to left`, or `to right`.
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    За дијагонални градијент дајете две смернице. Овај пример користи `to bottom left`.
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    Додајте овај стил у `style.css` да бисте својој новој роботској налепници дали дијагонални градијент и лепу ивицу:
     
-    ![screenshot](images/stickers-fire-gradient.png)
+    ![слика екрана](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    Имајте на уму да можете користити `outline` да бисте створили још једну ивицу изван уобичајене. `outline-offset` даје размак између ивице и контуре.
 
-+ Let's add some text to this sticker.
++ Додајмо неки текст овој налепници.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    Додајте `<span>` који садржи текст „РОБОТИ“ у `index.html` и дајте му id.
     
-    ![screenshot](images/stickers-fire-span.png)
+    ![слика екрана](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ Текст ће изгледати боље ако га повећате и лепо позиционирате.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    За позиционирање текста требате додати `position: relative;` до `#greensticker` и `position: absolute` to `#greentext`. Позиционирање је детаљније описано у ` Изради робота ` пројекату.
     
-    Add the following code to `style.css`:
+    Следећи код додајте у `style.css`:
     
-    ![screenshot](images/stickers-fire-text-style.png)
+    ![слика екрана](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ А за задњу промену, ротирајмо текст користећи `transform: rotate`.
     
-    ![screenshot](images/stickers-fire-rotate.png)
+    ![слика екрана](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    Покушајте да промените број степени за закретање текста.
