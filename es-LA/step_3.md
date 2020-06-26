@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## Sticker HTML & CSS
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+Los degradados también pueden cambiar de color desde el centro hacia los bordes, esto se denomina degradado radial.
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ Vamos a crear un sticker con el texto ` HTML & CSS. ` `&` es otro carácter que necesita codificación en HTML, el código es `&amp; `.
     
-    Add the highlighted code to create a new sticker:
+    Agrega el código resaltado para crear un nuevo sticker:
     
-    ![screenshot](images/stickers-web-html.png)
+    ![captura de pantalla](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ Ahora abre tu archivo ` style.css ` y añade un estilo para tu nuevo sticker:
     
-    ![screenshot](images/stickers-web-font.png)
+    ![captura de pantalla](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    El código ` text-shadow ` agrega una sombra que se extiende 2px por debajo y a la derecha del texto para resaltarlo.
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ Ahora el degradado. Esta vez utilizaremos un degradado radial. El color cambiará de amarillo en el centro hasta naranja y luego rojo.
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![captura de pantalla](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    Ten en cuenta que los degradados pueden incluir varios colores, no solo dos.
 
-+ The sticker will look much better with some padding and a rounded border.
++ El sticker se verá mucho mejor con un poco de espacio y un borde redondeado.
     
-    Add the highlighted code:
+    Agrega el código resaltado:
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![captura de pantalla](images/stickers-web-padding.png)
