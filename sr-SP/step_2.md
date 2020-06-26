@@ -1,45 +1,45 @@
-## Colourful coding sticker
+## Шарене налепнице за прогармирање
 
-A gradient is a gradual change from one colour to another. Gradients can be used to create cool effects. You're going to use them to create stickers that you can use on your web pages.
+Градијент је постепена промена једне боје у другу. Градијенти се могу користити за креирање ефеката. Користићете их за прављење налепница које можете користити на својим веб страницама.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
++ Отворите овај додатак: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>.
     
-    The project should look like this:
+    Пројекат би требало да изгледа овако:
     
-    ![screenshot](images/stickers-starter.png)
+    ![слика екрана](images/stickers-starter.png)
 
-+ Let's make an 'I <3 Coding' sticker.
++ Направимо 'Ја <3 програмирањеg' sticker.
     
-    Use a `<div>` with a `sticker` class and a `coding` id so that you can style it:
+    Користите `<div>`са налепницом` ` class и `coding` id да бисте га могли стилизовати:
     
-    ![screenshot](images/stickers-coding-error.png)
+    ![слика екрана](images/stickers-coding-error.png)
 
-+ Hmm did you notice that you got an error? This is because '<' is a special character in HTML. Instead of '<' you need to use the special code `&lt;`.
++ Хмм, да ли сте приметили да сте добили грешку? То је зато што је '<' посебан знак у HTML-у. Уместо '<' требате користити посебни код `&lt;`.
     
-    Update your code to use `&lt;` so that the error goes away.
+    Ажурирајте код да бисте користили `&lt;` тако да грешка нестаје.
     
-    ![screenshot](images/stickers-coding-fixed.png)
+    ![слика екрана](images/stickers-coding-fixed.png)
     
-    `<br>` gives a new line.
+    `<br>` даје нову линију.
 
-+ Now let's make the sticker look interesting.
++ А сада да учинимо да налепница изгледа занимљиво.
     
-    Switch to the `style.css` file. You'll see that the `.sticker` class has been provided for you. This will layout stickers on the page and centre their content.
+    Пребаците се на `style.css` датотеку. Видећете да је налепница `.sticker` class обезбеђена за вас. Ово ће поставит налепнице на страницу и центрирати њихов садржај.
     
-    Remember that you added the id `coding` to your sticker. At the bottom of `style.css` add the following code to style the text:
+    Не заборавите да сте додали id `coding` на вашу налепницу. На дну `style.css` додајте следећи код да бисте стилизовали текст:
     
-    ![screenshot](images/stickers-coding-font.png)
+    ![слика екрана](images/stickers-coding-font.png)
 
-+ Now you can add a gradient for the background of the sticker. A linear gradient changes from one colour to another along a straight line.
++ Сада можете додати градијент за позадину налепнице. Линеарни градијент се мења из једне у другу боју дуж праве линије.
     
-    This gradient will change from red at the top to magenta at the bottom. Add the gradient code to your `coding` style:
+    Овај градијент ће се променити од црвене на врху до магента на дну. Додајте код градијента у програмирање `coding` стил:
     
-    ![screenshot](images/stickers-coding-gradient.png)
+    ![слика екрана](images/stickers-coding-gradient.png)
 
-+ You can improve on the result by adding padding and rounded corners.
++ Резултат можете побољшати додавањем одстојања и заобљених углова.
     
-    Add the highlighted code:
+    Додајте означени код:
     
-    ![screenshot](images/stickers-coding-padding.png)
+    ![слика екрана](images/stickers-coding-padding.png)
     
-    The `padding` style adds padding of 50px at the top and bottom and 30px on the left and right.
+    `padding` стил додаје одстојање од 50px на врху и на дну и 30px на левој и десној страни.
