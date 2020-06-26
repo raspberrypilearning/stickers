@@ -1,20 +1,20 @@
 \--- challenge \---
 
-## Challenge: Create your own gradient sticker
+## चुनौती: अपना स्वयं का ग्रेडिएंट स्टिकर बनाएँ
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
+अब अपना स्वयं का ग्रेडिएंट स्टिकर बनाएँ । कई HTML रंगों का उपयोग करके रैखिक और रेडियल ग्रेडिएंट्स आज़माएं।
 
-You'll need to:
+आपको इसकी आवश्यकता होगी:
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
++ ` index.html ` पर अपने स्टिकर टेक्स्ट के साथ `<div>` जोड़ें और इसे ` sticker `क्लास दें और एक नया ` id` ।
++ ` id` के लिए वो स्टाइल लगाएं जो आपने ` style.css` में चुना है । आप उन स्टिकर स्टाइलो में से एक को कॉपी और एडिट कर सकते हैं जो आपने पहले ही बनाये थे। 
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+आपके उपयोग लिए के लिए सभी रंगों की सूची आपको यहाँ मिलेंगी: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), जिसमें `tomato`, `firebrick` और `peachpuff` जैसे रंगों के नाम शामिल हैं।
 
-If you want to change the text colour you can use `color:`.
+यदि आप टेक्स्ट का रंग बदलना चाहते हैं, तो आप `color:` का उपयोग कर सकते हैं ।
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+यह एक रैखिक ग्रेडिएंट में कई रंगों के साथ का उदाहरण है :
 
-![screenshot](images/stickers-save-robots.png)
+![स्क्रीनशॉट](images/stickers-save-robots.png)
 
 \--- /challenge \---
