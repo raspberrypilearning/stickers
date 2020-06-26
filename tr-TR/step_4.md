@@ -1,20 +1,20 @@
 \--- challenge \---
 
-## Challenge: Create your own gradient sticker
+## Meydan Okuma: Kendi gradyan çıkartmanızı oluşturun
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
+Şimdi kendi gradyan çıkartmanızı yapın. Birden çok HTML rengi kullanarak doğrusal ve radyal gradyanlar oluşturmayı deneyin.
 
-You'll need to:
+Şunlara ihtiyacınız olacak:
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
++ `index.html` dosyasına etiket metninizle birlikte bir de `<div>` ekleyin ardından onu `sticker` etiket sınıfına ve yeni bir `id` etiketine verin.
++ `style.ccs` içerisinde seçtiğiniz `id` için stil ekleyin. Yapmış olduğunuz çıkartma stillerinden birini kopyalayabilir ve düzenleyebilirsiniz. 
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Kullanabileceğiniz tüm renk isimlerinin bir listesi var: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), `tomato`, `firebrick` ve `peachpuff` gibi renk isimlerini içerir.
 
-If you want to change the text colour you can use `color:`.
+Metin rengini değiştirmek isterseniz `color:` ögesini kullanabilirsiniz.
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+Doğrusal bir gradyanda birçok renkle neler yapabileceğinize bir örnek:
 
-![screenshot](images/stickers-save-robots.png)
+![ekran görüntüsü](images/stickers-save-robots.png)
 
 \--- /challenge \---
