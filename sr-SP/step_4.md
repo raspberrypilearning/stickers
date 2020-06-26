@@ -1,20 +1,20 @@
-\--- challenge \---
+\--- изазов \---
 
-## Challenge: Create your own gradient sticker
+## Изазов: Креирајте своју налепницу са градијентом
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
+Сада направите своју налепницу са градијентом. Испробајте линеарне и радијалне градијенте користећи више HTML боја.
 
-You'll need to:
+Требаће вам:
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
++ Додајте `<div>` са текстом налепнице у `index.html` и дајте му `sticker` class и нови `id`.
++ Додајте стил за `id` који сте изабрали у `style.css`. Можете копирати један од стилова налепница које сте већ направили и уредити је. 
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Постоји листа свих имена боја које можете користити: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), која укључује називе боја попут `парадајз`, `цигла црвена` и `бресква`.
 
-If you want to change the text colour you can use `color:`.
+Ако желите да промените боју текста, можете да користите `color:`.
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+Ево примера шта можете учинити са више боја у линеарном градијенту:
 
-![screenshot](images/stickers-save-robots.png)
+![снимак екрана](images/stickers-save-robots.png)
 
-\--- /challenge \---
+\--- / изазов \---
