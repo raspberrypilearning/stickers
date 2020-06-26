@@ -1,41 +1,41 @@
-## Fancy robot sticker
+## Sticker elegante de un robot
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through.
+Puedes crear un sticker de degradado usando una imagen. Si utilizas una imagen con un fondo transparente, el degradado se mostrará a través de la imagen.
 
-You can also create gradients to run in different directions.
+También puedes crear degradados que van en diferentes direcciones.
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
++ Añade un sticker a `index.html` utilizando la imagen `firerobot.png`:
     
-    ![screenshot](images/stickers-fire-html.png)
+    ![captura de pantalla](images/stickers-fire-html.png)
     
-    You can adjust the `height` to resize the image, the width will change automatically.
+    Puedes ajustar la `height` (altura) para redimensionar la imagen, el ancho cambiará automáticamente.
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
++ Normalmente, un degradado lineal se ejecuta de arriba a abajo, pero puedes usar `to` (hacia) para cambiar la dirección. Por ejemplo: `to top` (hacia arriba), `to left` (hacia la izquierda) o `to right` (hacia la derecha).
     
-    For a diagonal gradient you give two directions. This example uses `to bottom left`.
+    Para un degradado diagonal se dan dos direcciones. Este ejemplo usa `to bottom left` (hacia abajo izquierda).
     
-    Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+    Agrega este estilo a `style.css` para darle a tu nuevo sticker de robot un gradiente diagonal y un borde elegante:
     
-    ![screenshot](images/stickers-fire-gradient.png)
+    ![captura de pantalla](images/stickers-fire-gradient.png)
     
-    Note that you can use `outline` to create another border outside the usual one. `outline-offset` gives the gap between the border and the outline.
+    Ten en cuenta que puedes utilizar `outline` (contorno) para crear otro borde por fuera del habitual. `outline-offset` (espacio-contorno) da la separación entre el borde y el contorno.
 
-+ Let's add some text to this sticker.
++ Añadamos algo de texto a este sticker.
     
-    Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id.
+    Agrega un `<span>` que contenga el texto "ROBOTS" a `index.html` y dale un id (identificador).
     
-    ![screenshot](images/stickers-fire-span.png)
+    ![captura de pantalla](images/stickers-fire-span.png)
 
-+ The text will look better if you make it bigger and position it.
++ El texto se verá mejor si lo haces más grande y lo posicionas.
     
-    To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project.
+    Para posicionar el texto, debes agregar `position: relative;` a `#greensticker` y `position: absolute` a `#greentext`. El posicionamiento se trata con más detalle en el proyecto `Build a Robot` (Construir un Robot).
     
-    Add the following code to `style.css`:
+    Agrega el siguiente código a `style.css`:
     
-    ![screenshot](images/stickers-fire-text-style.png)
+    ![captura de pantalla](images/stickers-fire-text-style.png)
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
++ Y para el detalle final, giremos el texto usando `transform: rotate`.
     
-    ![screenshot](images/stickers-fire-rotate.png)
+    ![captura de pantalla](images/stickers-fire-rotate.png)
     
-    Try changing the number of degrees that the text is rotated.
+    Intenta cambiar el número de grados en que se gira el texto.
