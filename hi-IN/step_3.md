@@ -1,27 +1,27 @@
-## HTML & CSS sticker
+## HTML और CSS स्टिकर
 
-Gradients can also change colour from the centre out towards the edges, this is called a radial gradient.
+ग्रेडिएंट केंद्र से किनारों की ओर भी रंग बदल सकते हैं, इसे रेडियल ग्रेडिएंट कहा जाता है।
 
-+ Let's create a sticker with the text `HTML & CSS.` `&` is another character that needs encoding in HTML, the code is `&amp;`.
++ एक स्टिकर बनाते है ` HTML & CSS` के साथ । `&` एक अन्य वर्ण है जिसकी HTML में एन्कोडिंग की आवश्यकता है, कोड है `&amp; ` ।
     
-    Add the highlighted code to create a new sticker:
+    नया स्टिकर बनाने के लिए हाइलाइट किया गया कोड जोड़ें:
     
-    ![screenshot](images/stickers-web-html.png)
+    ![स्क्रीनशॉट](images/stickers-web-html.png)
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
++ अब अपने ` style.css` फ़ाइल पर स्विच करें और अपने नए स्टिकर के लिए एक स्टाइल जोड़ें:
     
-    ![screenshot](images/stickers-web-font.png)
+    ![स्क्रीनशॉट](images/stickers-web-font.png)
     
-    The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out.
+    ` text-shadow` कोड एक छाया जोड़ता है जो टेक्स्ट के 2px नीचे और दाईं ओर तक फैली है ताकि वो अलग से दिखाई दे सके ।
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red.
++ अब ग्रेडिएंट की बात करते है । इस बार चलो एक रेडियल ग्रेडिएंट का उपयोग करें। केंद्र में पीले से नारंगी और फिर लाल रंग में बदला जाएगा।
     
-    ![screenshot](images/stickers-web-gradient.png)
+    ![स्क्रीनशॉट](images/stickers-web-gradient.png)
     
-    Notice that gradients can include multiple colours, not just two.
+    ध्यान दें कि ग्रेडिएंट में दो ही नहीं, कई रंग शामिल हो सकते हैं।
 
-+ The sticker will look much better with some padding and a rounded border.
++ स्टिकर थोड़ी पैडिंग और एक गोल सीमा के साथ बहुत बेहतर लगेगा।
     
-    Add the highlighted code:
+    हाइलाइट किए गए कोड को जोड़ें:
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![स्क्रीनशॉट](images/stickers-web-padding.png)
