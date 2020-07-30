@@ -2,13 +2,13 @@
 
 Os gradientes também podem mudar de cor do centro para as bordas, isso é chamado de gradiente radial.
 
-+ Vamos criar um adesivo com o texto ` HTML & CSS. ` `&` é outro caractere que precisa ser codificado em HTML, o código é `&amp; `.
++ Vamos criar um adesivo com o texto `HTML & CSS.` `&` é outro caractere que precisa ser codificado em HTML, o código é `&amp;`.
     
     Adicione o código destacado para criar um novo adesivo:
     
     ![captura de tela](images/stickers-web-html.png)
 
-+ Agora mude para o seu arquivo ` style.css ` e adicione um estilo para o seu novo adesivo:
++ Agora mude para o seu arquivo `style.css` e adicione um estilo para o seu novo adesivo:
     
     ![captura de tela](images/stickers-web-font.png)
     
@@ -24,4 +24,4 @@ Os gradientes também podem mudar de cor do centro para as bordas, isso é chama
     
     Adicione o código destacado:
     
-    ![screenshot](images/stickers-web-padding.png)
+    ![captura de tela](images/stickers-web-padding.png)
