@@ -1,4 +1,4 @@
-## Sticker HTML & CSS
+## Sticker HTML y CSS
 
 Los degradados también pueden cambiar de color desde el centro hacia los bordes, esto se denomina degradado radial.
 

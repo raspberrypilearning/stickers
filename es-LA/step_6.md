@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: Crea más stickers
+## Desafío: crea más stickers
 
 Ahora intenta crear más stickers usando diferentes direcciones de degradado, agregando imágenes y texto, y utilizando bordes y contornos.
 

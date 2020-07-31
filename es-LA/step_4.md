@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: Crea tu propio sticker degradado
+## Desafío: crea tu propio sticker degradado
 
 Ahora haz tu propio sticker degradado. Prueba los degradados lineales y radiales utilizando múltiples colores HTML.
 
