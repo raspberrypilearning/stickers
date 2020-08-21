@@ -22,7 +22,7 @@ Farklı yönlerde çalışacak için gradyanlar da oluşturabilirsiniz.
 
 + Bu çıkartmaya biraz metin ekleyelim.
     
-    `index.html` dosyasına "ROBOTS" metnini içeren bir `<span>` ekleyin ve bir kimlik verin.
+    `index.html` dosyasına "ROBOTLAR" metnini içeren bir `<span>` ekleyin ve bir kimlik verin.
     
     ![ekran görüntüsü](images/stickers-fire-span.png)
 
