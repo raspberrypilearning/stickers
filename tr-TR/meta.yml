@@ -1,0 +1,26 @@
+---
+Title: Çıkartmalar
+hero_image: images/stickers.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Çıkartmalar!
+description: Web sayfalarınızı süslemek için eğlenceli robot çıkartmaları oluşturun.
+original_url: https://codeclubprojects.org/en-GB/webdev/stickers
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Giriş
+  - title: Renkli kodlama çıkartması
+  - title: HTML ve CSS çıkartması
+  - title: 'Meydan Okuma: Kendi gradyan çıkartmanızı oluşturun'
+  - title: 'Süslü robot çıkartması '
+  - title: 'Meydan Okuma: Daha fazla çıkartma yapın'
