@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Naljepnica o programiranju u više boja
-  - title: HTML & CSS naljepnica
-  - title: 'Izazov: Kreiraj svoju naljepnicu sa gradijentom'
-  - title: 'Ukrašena naljepnica sa robotom '
-  - title: 'Izazov: Napravi više naljepnica'
+- title: Uvod
+  completion: engaged
+- title: Naljepnica o programiranju u više boja
+- title: HTML & CSS naljepnica
+- title: 'Izazov: Kreiraj svoju naljepnicu sa gradijentom'
+- title: 'Ukrašena naljepnica sa robotom '
+  completion: internal
+- title: 'Izazov: Napravi više naljepnica'

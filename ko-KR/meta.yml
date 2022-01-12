@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 소개
-  - title: 다채로운 코딩 스티커
-  - title: HTML 및 CSS 스티커
-  - title: '과제 : 직접 그라데이션 스티커 만들기'
-  - title: '멋진 로봇 스티커 '
-  - title: '과제 : 더 많은 스티커 만들기'
+- title: 소개
+  completion: engaged
+- title: 다채로운 코딩 스티커
+- title: HTML 및 CSS 스티커
+- title: '과제 : 직접 그라데이션 스티커 만들기'
+- title: '멋진 로봇 스티커 '
+  completion: internal
+- title: '과제 : 더 많은 스티커 만들기'

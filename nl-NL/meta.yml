@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Kleurrijke code sticker
-  - title: HTML & CSS-sticker
-  - title: 'Uitdaging: maak je eigen sticker met verloop'
-  - title: 'Leuke robot sticker '
-  - title: 'Uitdaging: meer stickers maken'
+- title: Inleiding
+  completion: engaged
+- title: Kleurrijke code sticker
+- title: HTML & CSS-sticker
+- title: 'Uitdaging: maak je eigen sticker met verloop'
+- title: 'Leuke robot sticker '
+  completion: internal
+- title: 'Uitdaging: meer stickers maken'

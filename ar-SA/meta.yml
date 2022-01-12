@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: ملصق برمجة متعدد الألوان
-  - title: ملصق HTML & CSS
-  - title: 'التحدي: أنشئ ملصقًا متدرج الالوان من ابتكارك'
-  - title: 'ملصق روبوت رائع '
-  - title: 'التحدي: أنشئ ملصقات أخرى'
+- title: المقدمة
+  completion: engaged
+- title: ملصق برمجة متعدد الألوان
+- title: ملصق HTML & CSS
+- title: 'التحدي: أنشئ ملصقًا متدرج الالوان من ابتكارك'
+- title: 'ملصق روبوت رائع '
+  completion: internal
+- title: 'التحدي: أنشئ ملصقات أخرى'

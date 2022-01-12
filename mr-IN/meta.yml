@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: परिचय
-  - title: रंगीबेरंगी कोडिंग स्टिकर
-  - title: HTML & CSS स्टिकर्स
-  - title: 'आव्हान: आपले स्वतःचे ग्रेडियंट स्टिकर तयार करा'
-  - title: 'आकर्षक रोबोट स्टिकर्स '
-  - title: 'आव्हान: आणखी स्टिकर्स बनवा'
+- title: परिचय
+  completion: engaged
+- title: रंगीबेरंगी कोडिंग स्टिकर
+- title: HTML & CSS स्टिकर्स
+- title: 'आव्हान: आपले स्वतःचे ग्रेडियंट स्टिकर तयार करा'
+- title: 'आकर्षक रोबोट स्टिकर्स '
+  completion: internal
+- title: 'आव्हान: आणखी स्टिकर्स बनवा'

@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Giriş
-  - title: Renkli kodlama çıkartması
-  - title: HTML ve CSS çıkartması
-  - title: 'Meydan Okuma: Kendi gradyan çıkartmanızı oluşturun'
-  - title: 'Süslü robot çıkartması '
-  - title: 'Meydan Okuma: Daha fazla çıkartma yapın'
+- title: Giriş
+  completion: engaged
+- title: Renkli kodlama çıkartması
+- title: HTML ve CSS çıkartması
+- title: 'Meydan Okuma: Kendi gradyan çıkartmanızı oluşturun'
+- title: 'Süslü robot çıkartması '
+  completion: internal
+- title: 'Meydan Okuma: Daha fazla çıkartma yapın'
