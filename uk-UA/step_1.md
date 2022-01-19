@@ -54,7 +54,7 @@ title: Нотатки керівника клубу
 
 * Цей проєкт знайомить із використанням градієнтів в CSS для створення цікавих ефектів. Учні також розширять свої знання про межі та розміщення в CSS. 
 
-Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](https://rpf.io/curriculum):
 
 * [Розробка простих ресурсів 2D та 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -72,7 +72,7 @@ title: Матеріали проєкту
 
 ## Ресурси проєкту
 
-* [.zip-файл, що містить всі ресурси проєкту](http://rpf.io/p/uk-UA/stickers-go)
+* [.zip-файл, що містить всі ресурси проєкту](https://rpf.io/p/uk-UA/stickers-go)
 * [Онлайн проєкт Trinket, що містить всі ресурси проєкту "Знайомство"](http://jumpto.cc/web-intro)
 * [Онлайн проєкт Trinket, що містить всі ресурси проєкту "Наклейки"](http://jumpto.cc/web-stickers)
 * [Онлайн шаблон проєкту Trinket](http://jumpto.cc/trinket-template)
@@ -93,7 +93,7 @@ title: Матеріали проєкту
 
 ## Ресурси керівника клубу
 
-* [.zip-файл, що містить всі завершені проєктні ресурси](http://rpf.io/p/uk-UA/stickers-go)
+* [.zip-файл, що містить всі завершені проєктні ресурси](https://rpf.io/p/uk-UA/stickers-go)
 * [Завершений онлайн проєкт Trinket](https://trinket.io/html/b7745d2f4b)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)

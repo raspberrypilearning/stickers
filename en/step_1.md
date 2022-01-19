@@ -55,7 +55,7 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 + This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -72,7 +72,7 @@ title: Project materials
 
 ## Project resources
 
-* [.zip file containing all project resources](http://rpf.io/p/en/stickers-go)
+* [.zip file containing all project resources](https://rpf.io/p/en/stickers-go)
 * [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
 * [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
@@ -93,7 +93,7 @@ title: Project materials
 
 ## Club leader resources
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/stickers-go)
+* [.zip file containing all completed project resources](https://rpf.io/p/en/stickers-go)
 * [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)

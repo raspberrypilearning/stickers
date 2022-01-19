@@ -54,7 +54,7 @@ Una versione completa delle sfide di questo progetto è presente anche nella sez
 
 * Questo progetto introduce l'uso dei gradienti CSS per creare interessanti effetti visivi. Gli studenti estenderanno anche la loro conoscenza dei bordi e del posizionamento in CSS. 
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](https://rpf.io/curriculum):
 
 * [Design di base in 2D e risorse 3D](https://www.raspberrypi.org/curriculum/design/creator).
 

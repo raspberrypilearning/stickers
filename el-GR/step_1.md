@@ -54,7 +54,7 @@ title: Σημειώσεις συντονιστή ομάδας
 
 * Αυτό το έργο εισάγει τη χρήση των διαβαθμίσεων CSS για τη δημιουργία ενδιαφέροντων αποτελεσμάτων. Οι μαθητές θα επεκτείνουν επίσης τις γνώσεις τους σχετικά με τα όρια CSS και την τοποθέτηση. 
 
-Αυτό το έργο περιλαμβάνει στοιχεία από τα παρακάτω μαθήματα του [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Αυτό το έργο περιλαμβάνει στοιχεία από τα παρακάτω μαθήματα του [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
