@@ -54,7 +54,7 @@ title: 俱乐部导师说明
 
 * 此项目介绍了CSS渐变的使用来创建有趣效果。学生们将能拓展他们CSS边框以及定位的知识。 
 
-此项目涵盖了[Raspberry Pi数字制作课程](http://rpf.io/curriculum)如下的内容：
+此项目涵盖了[Raspberry Pi数字制作课程](https://rpf.io/curriculum)如下的内容：
 
 * [设计基本的2D和3D资源](https://www.raspberrypi.org/curriculum/design/creator)。
 

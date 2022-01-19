@@ -54,7 +54,7 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 * Este proyecto introduce el uso de gradientes CSS para crear efectos interesantes. Los estudiantes también ampliarán sus conocimientos de fronteras y posicionamiento CSS. 
 
-Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
+Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](https://rpf.io/curriculum):
 
 * [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 

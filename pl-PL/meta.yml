@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Naklejka z liniowym gradientem
-  - title: Naklejka z promienistym gradientem
-  - title: 'Wyzwanie: Twoja własna naklejka z gradientem'
-  - title: 'Naklejka z robotem'
-  - title: 'Wyzwanie: Jeszcze więcej naklejek'
+- title: Wprowadzenie
+  completion: engaged
+- title: Naklejka z liniowym gradientem
+- title: Naklejka z promienistym gradientem
+- title: 'Wyzwanie: Twoja własna naklejka z gradientem'
+- title: Naklejka z robotem
+  completion: internal
+- title: 'Wyzwanie: Jeszcze więcej naklejek'

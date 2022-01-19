@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Вступ
-  - title: Кольорова наклейка про кодування
-  - title: Наклейка HTML & CSS
-  - title: 'Завдання: створи власну наклейку з градієнтом'
-  - title: 'Вишукана наклейка з роботом'
-  - title: 'Завдання: зроби більше наклейок'
+- title: Вступ
+  completion: engaged
+- title: Кольорова наклейка про кодування
+- title: Наклейка HTML & CSS
+- title: 'Завдання: створи власну наклейку з градієнтом'
+- title: Вишукана наклейка з роботом
+  completion: internal
+- title: 'Завдання: зроби більше наклейок'

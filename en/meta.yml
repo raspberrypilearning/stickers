@@ -1,3 +1,4 @@
+---
 Title: Stickers
 hero_image: images/stickers.png
 theme: orange
@@ -16,10 +17,12 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Colourful coding sticker
 - title: HTML & CSS sticker
 - title: 'Challenge: Create your own gradient sticker'
 - title: 'Fancy robot sticker '
+  completion: internal
 - title: 'Challenge: Make more stickers'

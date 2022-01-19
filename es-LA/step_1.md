@@ -54,7 +54,7 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 * Este proyecto introduce el uso de degradados CSS para crear efectos interesantes. Los estudiantes también ampliarán su conocimiento de bordes y posiciones en CSS. 
 
-Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -72,7 +72,7 @@ title: Materiales del proyecto
 
 ## Recursos del proyecto
 
-* [Archivo .zip que contiene todos los recursos del proyecto](http://rpf.io/p/es-LA/stickers-go)
+* [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/es-LA/stickers-go)
 * [Trinket en línea que contiene todos los recursos del proyecto 'Intro'](http://jumpto.cc/web-intro)
 * [Trinket en línea que contiene todos los recursos del proyecto 'Stickers'](http://jumpto.cc/web-stickers)
 * [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
@@ -93,7 +93,7 @@ title: Materiales del proyecto
 
 ## Recursos del líder del club
 
-* [Archivo .zip que contiene todos los recursos del proyecto](http://rpf.io/p/es-LA/stickers-go)
+* [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/es-LA/stickers-go)
 * [Proyecto Trinket completado en línea](https://trinket.io/html/829e01ea88)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)

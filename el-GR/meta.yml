@@ -8,7 +8,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Αυτοκόλλητα!
-description: Δημιούργησε αστεία αυτοκόλλητα ρομπότ για να διακοσμήσεις τις ιστοσελίδες σου.
+description: Δημιούργησε αστεία αυτοκόλλητα ρομπότ για να διακοσμήσεις τις ιστοσελίδες
+  σου.
 original_url: https://codeclubprojects.org/en-GB/webdev/stickers
 interests: art
 technologies: html-css-javascript
@@ -18,9 +19,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Εισαγωγή
-  - title: Πολύχρωμα αυτοκόλλητα κώδικα
-  - title: Αυτοκόλλητο HTML & CSS
-  - title: 'Πρόκληση: Δημιούργησε το δικό σου διαβαθμισμένο αυτοκόλλητο'
-  - title: 'Φανταστικό αυτοκόλλητο ρομπότ'
-  - title: 'Πρόκληση: Φτιάξε περισσότερα αυτοκόλλητα'
+- title: Εισαγωγή
+  completion: engaged
+- title: Πολύχρωμα αυτοκόλλητα κώδικα
+- title: Αυτοκόλλητο HTML & CSS
+- title: 'Πρόκληση: Δημιούργησε το δικό σου διαβαθμισμένο αυτοκόλλητο'
+- title: Φανταστικό αυτοκόλλητο ρομπότ
+  completion: internal
+- title: 'Πρόκληση: Φτιάξε περισσότερα αυτοκόλλητα'

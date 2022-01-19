@@ -54,7 +54,7 @@ title: 교육자 노트
 
 * 이 프로젝트는 CSS 그라데이션을 사용하여 재미있는 효과를 만들어냅니다. 학생들은 CSS 경계와 위치에 대한 지식을 넓힐 것입니다. 
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](https://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
 * [2D와 3D 디자인](https://www.raspberrypi.org/curriculum/design/creator)
 

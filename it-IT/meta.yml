@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduzione
-  - title: Programmare un adesivo colorato
-  - title: Adesivi in HTML & CSS
-  - title: 'Sfida: crea il tuo adesivo sfumato'
-  - title: Adesivo con un robot di fantasia
-  - title: 'Sfida: crea più adesivi'
+- title: Introduzione
+  completion: engaged
+- title: Programmare un adesivo colorato
+- title: Adesivi in HTML & CSS
+- title: 'Sfida: crea il tuo adesivo sfumato'
+- title: Adesivo con un robot di fantasia
+  completion: internal
+- title: 'Sfida: crea più adesivi'

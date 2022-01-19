@@ -48,7 +48,7 @@ Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer
 ## Lernziele
 + Dieses Projekt führt die Nutzung von CSS-Gradienten ein, um interessante Effekte zu produzieren. Die Schüler werden ebenfalls ihr Wissen über CSS-Rahmen und Positionerung erweiteren. 
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
+Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](https://rpf.io/curriculum):
 
 + [Design Grundlagen: 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
 

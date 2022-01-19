@@ -54,7 +54,7 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 * हा प्रकल्प मनोरंजक प्रभाव तयार करण्यासाठी CSS ग्रेडियंट्सच्या (gradients) वापराची ओळख करुन देतो. विद्यार्थी CSS borders आणि positioning बद्दल चे ज्ञान देखील वाढवतील. 
 
-या प्रकल्पात [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) चे खालील घटक समाविष्ट आहेत:
+या प्रकल्पात [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum) चे खालील घटक समाविष्ट आहेत:
 
 * [मूलभूत 2D आणि 3D ऍसेटस्(asset's)डिझाइन करणे](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -72,7 +72,7 @@ title: प्रकल्प साहित्य
 
 ## प्रकल्प संसाधने
 
-* [सर्व प्रकल्पाची संसाधने असलेली .zip फाइल](http://rpf.io/p/mr-IN/stickers-go)
+* [सर्व प्रकल्पाची संसाधने असलेली .zip फाइल](https://rpf.io/p/mr-IN/stickers-go)
 * [ऑनलाईन Trinket ज्यामध्ये सर्व 'intro' प्रकल्प संसाधने आहेत](http://jumpto.cc/web-intro)
 * [ऑनलाईन Trinket ज्यामध्ये सर्व ' स्टिकर्स ' आहेत](http://jumpto.cc/web-stickers)
 * [ऑनलाइन Trinket टेम्पलेट](http://jumpto.cc/trinket-template)
@@ -93,7 +93,7 @@ title: प्रकल्प साहित्य
 
 ## क्लब प्रमुख साठी संसाधने
 
-* [सर्व पूर्ण झालेली प्रोजेक्ट संसाधने असलेली .zip फाइल](http://rpf.io/p/mr-IN/stickers-go)
+* [सर्व पूर्ण झालेली प्रोजेक्ट संसाधने असलेली .zip फाइल](https://rpf.io/p/mr-IN/stickers-go)
 * [ऑनलाइन पूर्ण झालेले Trinket प्रोजेक्ट](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)

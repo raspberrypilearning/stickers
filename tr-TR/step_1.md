@@ -54,7 +54,7 @@ Bu projenin meydan okumalarının tamamlanmış bir sürümünü 'Gönüllü Kay
 
 * Bu proje, ilginç efektler oluşturmak için CSS gradyanlarının kullanımını tanıtmaktadır. Öğrenciler ayrıca CSS kenarlıkları ve konumlandırma bilgilerini de geliştireceklerdir. 
 
-Bu proje, [Raspberry Pi Sayısal Yapım Müfredatı](http://rpf.io/curriculum) 'nın aşağıdaki bölümlerinden unsurları kapsamaktadır:
+Bu proje, [Raspberry Pi Sayısal Yapım Müfredatı](https://rpf.io/curriculum) 'nın aşağıdaki bölümlerinden unsurları kapsamaktadır:
 
 * [Temel 2B ve 3B varlıkların tasarlanması](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -72,7 +72,7 @@ title: Proje materyalleri
 
 ## Proje kaynakları
 
-* [tüm proje kaynaklarını içeren .zip dosyası](http://rpf.io/p/tr-TR/stickers-go)
+* [tüm proje kaynaklarını içeren .zip dosyası](https://rpf.io/p/tr-TR/stickers-go)
 * [Tüm 'Giriş' proje kaynaklarını içeren çevrimiçi Trinket](http://jumpto.cc/web-intro)
 * [Tüm 'Çıkartmalar' proje kaynaklarını içeren çevrimiçi Trinket](http://jumpto.cc/web-stickers)
 * [Çevrimiçi Trinket şablonu](http://jumpto.cc/trinket-template)
@@ -93,7 +93,7 @@ title: Proje materyalleri
 
 ## Kulüp lideri için kaynaklar
 
-* [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](http://rpf.io/p/tr-TR/stickers-go)
+* [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](https://rpf.io/p/tr-TR/stickers-go)
 * [Çevrimiçi tamamlanmış Trinket projesi](https://trinket.io/html/a737ebca56)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)

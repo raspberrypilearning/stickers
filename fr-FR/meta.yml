@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Autocollant de codage coloré
-  - title: Autocollant HTML & CSS
-  - title: 'Défi: Crée ton propre autocollant dégradé'
-  - title: Autocollant robot fantaisiste
-  - title: 'Défi: Faire plus d''autocollants'
+- title: Introduction
+  completion: engaged
+- title: Autocollant de codage coloré
+- title: Autocollant HTML & CSS
+- title: 'Défi: Crée ton propre autocollant dégradé'
+- title: Autocollant robot fantaisiste
+  completion: internal
+- title: 'Défi: Faire plus d''autocollants'

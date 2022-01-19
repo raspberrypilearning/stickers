@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Sticker colorido de programación
-  - title: Sticker HTML y CSS
-  - title: 'Desafío: crea tu propio sticker degradado'
-  - title: 'Sticker elegante de un robot'
-  - title: 'Desafío: crea más stickers'
+- title: Introducción
+  completion: engaged
+- title: Sticker colorido de programación
+- title: Sticker HTML y CSS
+- title: 'Desafío: crea tu propio sticker degradado'
+- title: Sticker elegante de un robot
+  completion: internal
+- title: 'Desafío: crea más stickers'

@@ -54,7 +54,7 @@ title: क्लब लीडर के नोट्स
 
 * यह प्रोजेक्ट दिलचस्प प्रभाव पैदा करने के लिए CSS ग्रेडिएंट का उपयोग करती है। छात्र CSS सीमाओं और स्थिति के बारे में और जानेंगे। 
 
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](https://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
 
 * [ बुनियादी 2D और 3D एसेट्स डिजाइन करें ](https://www.raspberrypi.org/curriculum/design/creator) ।
 
@@ -72,7 +72,7 @@ title: प्रोजेक्ट सामग्री
 
 ## प्रोजेक्ट संसाधन
 
-* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](http://rpf.io/p/hi-IN/stickers-go)
+* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/hi-IN/stickers-go)
 * [ऑनलाइन ट्रिंकेट जिसमें सभी 'इंट्रो' प्रोजेक्ट संसाधन हैं](http://jumpto.cc/web-intro)
 * [ऑनलाइन trinket जिसमें सभी 'स्टिकर' प्रोजेक्ट संसाधन हैं](http://jumpto.cc/web-stickers)
 * [ऑनलाइन ट्रिंकेट टेम्प्लेट](http://jumpto.cc/trinket-template)
@@ -93,7 +93,7 @@ title: प्रोजेक्ट सामग्री
 
 ## क्लब लीडर संसाधन
 
-* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](http://rpf.io/p/hi-IN/stickers-go)
+* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/hi-IN/stickers-go)
 * [ऑनलाइन पूर्ण ट्रिंकेट प्रोजेक्ट](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
