@@ -53,7 +53,7 @@ Je kunt ook van de uitdagingen een voltooide versie van dit project vinden in de
 
 * Dit project introduceert het gebruik van CSS voor verlopen om interessante effecten te creëren. Studenten breiden ook hun kennis uit over CSS voor randen en positionering. 
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Ontwerp standaard 2D- en 3D-objecten](https://www.raspberrypi.org/curriculum/design/creator).
 

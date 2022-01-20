@@ -53,7 +53,7 @@ Takođe, završenu verziju izazova ovoga projekta možete naći u odjeljku 'Izvo
 
 * U ovom projektu predstavljena je upotreba CSS gradijenata za kreiranje zanimljivih efekata. Učenici će takođe proširiti svoje znanje o CSS okvirima i pozicioniranju. 
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Dizajniranje osnovnih 2D i 3D elemenata](https://www.raspberrypi.org/curriculum/design/creator).
 

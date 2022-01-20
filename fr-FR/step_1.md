@@ -54,7 +54,7 @@ Vous pouvez aussi trouver une version terminée du projet dans la section "Resso
 
 * Ce projet introduit l'utilisation de dégradés CSS pour créer des effets intéressants. Les étudiants approfondiront également leurs connaissances des bordures et du positionnement CSS. 
 
-Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création Numérique](http://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création Numérique](https://rpf.io/curriculum):
 
 * [Concevoir des éléments de base 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
