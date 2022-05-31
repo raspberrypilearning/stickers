@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Naklejka z liniowym gradientem
 - title: Naklejka z promienistym gradientem
+  completion:
+  - engaged
 - title: 'Wyzwanie: Twoja własna naklejka z gradientem'
 - title: Naklejka z robotem
-  completion: internal
+  completion:
+  - internal
 - title: 'Wyzwanie: Jeszcze więcej naklejek'

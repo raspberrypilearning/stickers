@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: भूमिका
-  completion: engaged
 - title: रंगीन कोडिंग स्टिकर
 - title: HTML और CSS स्टिकर
+  completion:
+  - engaged
 - title: 'चुनौती: अपना स्वयं का ग्रेडिएंट स्टिकर बनाएँ'
 - title: 'फैंसी रोबोट स्टिकर '
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: और स्टिकर बनाएँ'

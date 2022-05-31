@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Pegatina colorida de programación
 - title: Pegatina HTML & CSS
+  completion:
+  - engaged
 - title: 'Desafío: crea tu propia etiqueta de gradiente'
 - title: 'Pegatina lujosa de un robot '
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: haz más pegatinas'

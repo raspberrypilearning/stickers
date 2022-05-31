@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Kleurrijke code sticker
 - title: HTML & CSS-sticker
+  completion:
+  - engaged
 - title: 'Uitdaging: maak je eigen sticker met verloop'
 - title: 'Leuke robot sticker '
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: meer stickers maken'

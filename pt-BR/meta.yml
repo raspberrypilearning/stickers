@@ -19,10 +19,12 @@ version: 3
 last_tested: 01/01/2017
 steps:
 - title: Introdução
-  completion: engaged
 - title: Adesivo colorido sobre Programação
 - title: Adesivo de HTML & CSS
+  completion:
+  - engaged
 - title: 'Desafio: criar seu próprio adesivo com gradiente'
 - title: 'Adesivo de robô enfeitado '
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: faça mais adesivos'

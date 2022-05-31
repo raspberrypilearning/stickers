@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Naljepnica o programiranju u više boja
 - title: HTML & CSS naljepnica
+  completion:
+  - engaged
 - title: 'Izazov: Kreiraj svoju naljepnicu sa gradijentom'
 - title: 'Ukrašena naljepnica sa robotom '
-  completion: internal
+  completion:
+  - internal
 - title: 'Izazov: Napravi više naljepnica'
