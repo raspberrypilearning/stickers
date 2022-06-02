@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: 介绍
-  completion: engaged
 - title: 彩色编码贴纸
 - title: HTML & CSS 贴纸
+  completion:
+  - engaged
 - title: 挑战：创建你自己的渐变贴纸
 - title: 绚丽的机器人贴纸
-  completion: internal
+  completion:
+  - internal
 - title: 挑战：制作更多贴纸

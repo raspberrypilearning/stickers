@@ -20,10 +20,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einführung
-  completion: engaged
 - title: Farbig kodierte Aufkleber
 - title: HTML und CSS Aufkleber
+  completion:
+  - engaged
 - title: 'Aufgabe: Erstelle deinen eigenen Gradienten-Aufkleber'
 - title: Ausgefallener Roboter-Aufkleber
-  completion: internal
+  completion:
+  - internal
 - title: 'Aufgabe: Noch mehr Aufkleber erstellen'

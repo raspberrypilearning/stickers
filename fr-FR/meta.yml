@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Autocollant de codage coloré
 - title: Autocollant HTML & CSS
+  completion:
+  - engaged
 - title: 'Défi: Crée ton propre autocollant dégradé'
 - title: Autocollant robot fantaisiste
-  completion: internal
+  completion:
+  - internal
 - title: 'Défi: Faire plus d''autocollants'

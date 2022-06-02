@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Sticker colorido de programación
 - title: Sticker HTML y CSS
+  completion:
+  - engaged
 - title: 'Desafío: crea tu propio sticker degradado'
 - title: Sticker elegante de un robot
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: crea más stickers'

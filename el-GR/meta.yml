@@ -20,10 +20,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Πολύχρωμα αυτοκόλλητα κώδικα
 - title: Αυτοκόλλητο HTML & CSS
+  completion:
+  - engaged
 - title: 'Πρόκληση: Δημιούργησε το δικό σου διαβαθμισμένο αυτοκόλλητο'
 - title: Φανταστικό αυτοκόλλητο ρομπότ
-  completion: internal
+  completion:
+  - internal
 - title: 'Πρόκληση: Φτιάξε περισσότερα αυτοκόλλητα'
