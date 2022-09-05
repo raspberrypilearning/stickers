@@ -1,6 +1,6 @@
 ## Farbig kodierte Aufkleber
 
-Ein Gradient ist eine graduelle Veränderung von einer Farbe zur Nächsten. Gradienten können benutzt werden, um coole Effekte zu erzeugen Du wirst die Gradienten benutzen, um Aufkleber herzustellen, die du dann auf deinen Webseiten benutzen kannst. 
+Ein Gradient ist eine graduelle Veränderung von einer Farbe zur Nächsten. Gradienten können benutzt werden, um coole Effekte zu erzeugen. Du wirst die Gradienten benutzen, um Aufkleber herzustellen, die du dann auf deinen Webseiten benutzen kannst. 
 
 + Dieses Trinket öffnen: <a href="http://jumpto.cc/web-stickers" target="_blank">jumpto.cc/web-stickers</a>. 
 
@@ -25,9 +25,9 @@ Ein Gradient ist eine graduelle Veränderung von einer Farbe zur Nächsten. Grad
 
 + Lass uns jetzt deinen Aufkleber noch interessanter gestalten. 
 
-	Schalte zur `style.css` Datei hinüber. Du wirst sehen, dass dir die `.sticker` (Aufkleber) Klasse hier schon bereit gestellt wurde. Dies wird das Layout der Aufkleber auf der Seite für dich herstellen sowie den Inhalt automatisch in die Mitte setzen. 
+	Schalte zur `style.css` Datei hinüber. Du wirst sehen, dass dir die `.sticker` (Aufkleber) Klasse hier schon bereitgestellt wurde. Dies wird das Layout der Aufkleber auf der Seite für dich herstellen, sowie den Inhalt automatisch in die Mitte setzen. 
 
-	Denk daran, dass du das ID `coding` zu deinem Aufkleber hinzugefügt hast. Füge unten beim `style.css` den folgenden Code hinzu, um den Text zu stylen:
+	Denk daran, dass du die ID `coding` zu deinem Aufkleber hinzugefügt hast. Füge unten beim `style.css` den folgenden Code hinzu, um den Text zu stylen:
 
 	![screenshot](images/stickers-coding-font.png)
 
