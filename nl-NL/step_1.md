@@ -30,7 +30,7 @@ Er is ook een voorbeeld trinket met een oplossing voor de uitdagingen:
 
 ## Offline bronnen
 
-Dit project kan indien gewenst [geheel offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een 'Projectbronnen'-sectie die bronnen bevat om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een 'Projectbronnen'-sectie die bronnen bevat om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ Je kunt ook van de uitdagingen een voltooide versie van dit project vinden in de
 
 * Dit project introduceert het gebruik van CSS voor verlopen om interessante effecten te creëren. Studenten breiden ook hun kennis uit over CSS voor randen en positionering. 
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Ontwerp standaard 2D- en 3D-objecten](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbestanden](http://rpf.io/p/en/stickers-go)
+* [.zip-bestand met alle projectbestanden](https://rpf.io/p/en/stickers-go)
 * [Online Trinket met alle 'Intro' projectbestanden](http://jumpto.cc/web-intro)
 * [Online Trinket met alle projectbestanden van 'Stickers'](http://jumpto.cc/web-stickers)
 * [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Clubleiderbronnen
 
-* [.zip-bestand met alle voltooide projectbestanden](http://rpf.io/p/en/stickers-go)
+* [.zip-bestand met alle voltooide projectbestanden](https://rpf.io/p/en/stickers-go)
 * [Online voltooid Trinket-project](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
