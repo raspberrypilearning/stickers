@@ -30,7 +30,7 @@
 
 ## オフラインリソース
 
-This project can be [completed offline](https://rpf.io/html-offline) if preferred. 「プロジェクト資料」のリンクをクリックすると、このプロジェクトのリソースにアクセスできます。 このリンクには「プロジェクト資料」のセクションがあり、子どもたちがこのプロジェクトをオフラインで完了するのに必要なリソースが含まれています。 子どもたちがこれらのリソースのコピーにアクセスできるか確認してください。 このセクションには、次のファイルが含まれています。
+このプロジェクトは[オフライン](https://rpf.io/html-offline)で完成することも可能です。 「プロジェクト資料」のリンクをクリックすると、このプロジェクトのリソースにアクセスできます。 このリンクには「プロジェクト資料」のセクションがあり、子どもたちがこのプロジェクトをオフラインで完了するのに必要なリソースが含まれています。 子どもたちがこれらのリソースのコピーにアクセスできるか確認してください。 このセクションには、次のファイルが含まれています。
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ This project can be [completed offline](https://rpf.io/html-offline) if preferre
 
 * このプロジェクトでは、面白い効果を作り出すCSSグラデーションの使い方を紹介します。生徒たちはまた、CSSの境界や位置調整の知識を広げます。 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+このプロジェクトでは 、[Raspberry Pi デジタル・メイキング・カリキュラム](https://rpf.io/curriculum)の以下の要素をカバーしています。
 
 * [基本的な2Dおよび3Dアセットを設計する](https://www.raspberrypi.org/curriculum/design/creator)。
 
