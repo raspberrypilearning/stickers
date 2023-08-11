@@ -24,9 +24,13 @@ steps:
     title: Naklejka z liniowym gradientem
   - 
     title: Naklejka z promienistym gradientem
+    completion:
+      - engaged
   - 
     title: 'Wyzwanie: Twoja własna naklejka z gradientem'
   - 
     title: 'Naklejka z robotem '
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: Jeszcze więcej naklejek'
