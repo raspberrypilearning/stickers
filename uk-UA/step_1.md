@@ -30,7 +30,7 @@
 
 ## Офлайн Ресурси
 
-За бажанням цей проєкт може бути [реалізовано офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Ви можете отримати доступ до ресурсів проєкту, натиснувши на посилання "Матеріали проєкту". Це посилання містить розділ "Ресурси проєкту", який включає в себе ресурси, необхідні дітям для реалізації цього проєкту в режимі офлайн. Переконайтеся, що кожна дитина має доступ до копії цих ресурсів. Цей розділ містить наступні файли:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Ви можете отримати доступ до ресурсів проєкту, натиснувши на посилання "Матеріали проєкту". Це посилання містить розділ "Ресурси проєкту", який включає в себе ресурси, необхідні дітям для реалізації цього проєкту в режимі офлайн. Переконайтеся, що кожна дитина має доступ до копії цих ресурсів. Цей розділ містить наступні файли:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@
 
 * Цей проєкт знайомить із використанням градієнтів в CSS для створення цікавих ефектів. Учні також розширять свої знання про межі та розміщення в CSS. 
 
-Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Розробка простих ресурсів 2D та 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@
 
 ## Ресурси проєкту
 
-* [.zip-файл, що містить всі ресурси проєкту](http://rpf.io/p/en/stickers-go)
+* [.zip-файл, що містить всі ресурси проєкту](https://rpf.io/p/en/stickers-go)
 * [Онлайн проєкт Trinket, що містить всі ресурси проєкту "Знайомство"](http://jumpto.cc/web-intro)
 * [Онлайн проєкт Trinket, що містить всі ресурси проєкту "Наклейки"](http://jumpto.cc/web-stickers)
 * [Онлайн шаблон проєкту Trinket](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@
 
 ## Ресурси керівника клубу
 
-* [.zip-файл, що містить всі завершені проєктні ресурси](http://rpf.io/p/en/stickers-go)
+* [.zip-файл, що містить всі завершені проєктні ресурси](https://rpf.io/p/en/stickers-go)
 * [Завершений онлайн проєкт Trinket](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
@@ -105,4 +105,4 @@
 * [stickers-finished/rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
 * [stickers-finished/yellowrobot.png](resources/stickers-finished-yellowrobot.png)
 
--- /collapse \---
+\--- /collapse \---
