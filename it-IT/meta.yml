@@ -24,9 +24,13 @@ steps:
     title: Programmare un adesivo colorato
   - 
     title: Adesivo HTML & CSS
+    completion:
+      - engaged
   - 
     title: 'Sfida: crea il tuo adesivo sfumato'
   - 
     title: 'Adesivo con un robot di fantasia'
+    completion:
+      - internal
   - 
     title: 'Sfida: crea più adesivi'
