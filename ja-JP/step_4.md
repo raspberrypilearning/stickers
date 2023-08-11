@@ -1,20 +1,20 @@
 \--- challenge \---
 
-## Challenge: Create your own gradient sticker
+## チャレンジ：自分だけのグラデーションステッカーを作ろう
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours.
+今度はあなた自身のグラデーションステッカーを作ってみましょう。複数のHTMLカラーを使って、直線および放射状のグラデーションを試してみましょう。
 
-You'll need to:
+次のことをする必要があります：
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
++ ステッカーに `<div>` を追加し、 `index.html` に書き加え、そしてそれを`sticker` と、クラス、新たな `id`に追加します。
++ あなたが選んだ設定を`id`に追加します。idは`style.css`内にあります 。すでに作ったステッカーの設定をコピーして編集できます。 
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+使用できるすべての色の名前のリストがあります: [jumpto.cc/web-colours](http://jumpto.cc/web-colours)には、`tomato`（トマト）、 `firebrick` （耐火レンガ）および `peachpuff`（ピーチパフ）などの色の名前が含まれています。
 
-If you want to change the text colour you can use `color:`.
+テキストの色を変更したい場合は、 `color:`（色）を使えます。
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+直線のグラデーションで複数の色を使ってできることの例を次に示します。
 
-![screenshot](images/stickers-save-robots.png)
+![スクリーンショット](images/stickers-save-robots.png)
 
 \--- /challenge \---
