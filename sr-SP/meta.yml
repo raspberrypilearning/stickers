@@ -24,9 +24,13 @@ steps:
     title: Colourful coding sticker
   - 
     title: HTML & CSS sticker
+    completion:
+      - engaged
   - 
     title: 'Challenge: Create your own gradient sticker'
   - 
     title: 'Fancy robot sticker '
+    completion:
+      - internal
   - 
     title: 'Challenge: Make more stickers'
