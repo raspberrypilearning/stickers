@@ -24,9 +24,13 @@ steps:
     title: Kleurrijke code sticker
   - 
     title: HTML & CSS-sticker
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: maak je eigen stcker met verloop'
   - 
     title: 'Leuke robot sticker '
+    completion:
+      - internal
   - 
     title: 'Uitdaging: meer stickers maken'
