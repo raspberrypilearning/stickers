@@ -24,9 +24,13 @@ steps:
     title: Sticker colorido de programación
   - 
     title: Sticker HTML y CSS
+    completion:
+      - engaged
   - 
     title: 'Desafío: Crea tu propio sticker con degradado'
   - 
     title: 'Sticker elegante de un robot '
+    completion:
+      - internal
   - 
     title: 'Desafío: Crea más stickers'
