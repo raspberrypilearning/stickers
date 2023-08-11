@@ -24,9 +24,13 @@ steps:
     title: Autocollant de codage coloré
   - 
     title: Autocollant HTML & CSS
+    completion:
+      - engaged
   - 
     title: 'Défi : Crée ton propre autocollant dégradé'
   - 
     title: 'Autocollant robot fantaisiste '
+    completion:
+      - internal
   - 
     title: 'Défi : Faire plus d''autocollants'
