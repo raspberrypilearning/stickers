@@ -24,9 +24,13 @@ steps:
     title: Crear una pegatina con degradado lineal
   - 
     title: Crea una pegatina con degradado radial
+    completion:
+      - engaged
   - 
     title: 'Desafío: crea tu propia etiqueta con degradado'
   - 
     title: 'Pegatina lujosa de un robot '
+    completion:
+      - internal
   - 
     title: 'Desafío: haz más pegatinas'
