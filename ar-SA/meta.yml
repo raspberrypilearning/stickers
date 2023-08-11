@@ -24,9 +24,13 @@ steps:
     title: ملصق برمجة متعدد الألوان
   - 
     title: ملصق HTML & CSS
+    completion:
+      - engaged
   - 
     title: 'التحدي: أنشئ ملصقًا متدرج الالوان من ابتكارك'
   - 
     title: 'ملصق روبوت رائع '
+    completion:
+      - internal
   - 
     title: 'التحدي: أنشئ ملصقات أخرى'
