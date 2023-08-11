@@ -24,9 +24,13 @@ steps:
     title: Adesivo colorido de programação
   - 
     title: Adesivo de HTML & CSS
+    completion:
+      - engaged
   - 
     title: 'Desafio: Crie seu próprio adesivo com gradiente'
   - 
     title: 'Adesivo de robô enfeitado '
+    completion:
+      - internal
   - 
     title: 'Desafio: Faça mais adesivos'
