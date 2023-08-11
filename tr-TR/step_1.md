@@ -30,7 +30,7 @@ Ayrıca meydan okumalara örnek bir çözüm içeren trinket da var:
 
 ## Çevrimdışı Kaynaklar
 
-Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) olarak tamamlanabilir. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ Bu projenin meydan okumalarının tamamlanmış bir sürümünü 'Gönüllü Kay
 
 * Bu proje, ilginç efektler oluşturmak için CSS gradyanlarının kullanımını tanıtmaktadır. Öğrenciler ayrıca CSS kenarlıkları ve konumlandırma bilgilerini de geliştireceklerdir. 
 
-Bu proje, [Raspberry Pi Sayısal Yapım Müfredatı](http://rpf.io/curriculum) 'nın aşağıdaki bölümlerinden unsurları kapsamaktadır:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Temel 2B ve 3B varlıkların tasarlanması](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ Bu proje, [Raspberry Pi Sayısal Yapım Müfredatı](http://rpf.io/curriculum) '
 
 ## Proje kaynakları
 
-* [tüm proje kaynaklarını içeren .zip dosyası](http://rpf.io/p/en/stickers-go)
+* [tüm proje kaynaklarını içeren .zip dosyası](https://rpf.io/p/en/stickers-go)
 * [Tüm 'Giriş' proje kaynaklarını içeren çevrimiçi Trinket](http://jumpto.cc/web-intro)
 * [Tüm 'Çıkartmalar' proje kaynaklarını içeren çevrimiçi Trinket](http://jumpto.cc/web-stickers)
 * [Çevrimiçi Trinket şablonu](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Bu proje, [Raspberry Pi Sayısal Yapım Müfredatı](http://rpf.io/curriculum) '
 
 ## Kulüp lideri için kaynaklar
 
-* [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](http://rpf.io/p/en/stickers-go)
+* [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](https://rpf.io/p/en/stickers-go)
 * [Çevrimiçi tamamlanmış Trinket projesi](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
