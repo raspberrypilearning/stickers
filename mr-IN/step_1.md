@@ -30,7 +30,7 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 ## ऑफलाइन संसाधने
 
-पसंत असल्यास हा प्रकल्प [ऑफलाइन पूर्ण केला जाऊ शकतो](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). आपण या प्रकल्पाची संसाधने 'Project Material' लिंक वर​ क्लिक करून मिळवू शकता. या लिंक मध्ये 'प्रकल्प सांसाधने' विभाग आहे, ज्यामध्ये मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी आवश्यक असणारी संसाधने आहेत. प्रत्येक मुलाकडे संसाधनांची प्रत असल्याचे सुनिश्चित करा. या विभागात खालील फाईल्स चा समावेश आहे:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. आपण या प्रकल्पाची संसाधने 'Project Material' लिंक वर​ क्लिक करून मिळवू शकता. या लिंक मध्ये 'प्रकल्प सांसाधने' विभाग आहे, ज्यामध्ये मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी आवश्यक असणारी संसाधने आहेत. प्रत्येक मुलाकडे संसाधनांची प्रत असल्याचे सुनिश्चित करा. या विभागात खालील फाईल्स चा समावेश आहे:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 * हा प्रकल्प मनोरंजक प्रभाव तयार करण्यासाठी CSS ग्रेडियंट्सच्या (gradients) वापराची ओळख करुन देतो. विद्यार्थी CSS borders आणि positioning बद्दल चे ज्ञान देखील वाढवतील. 
 
-या प्रकल्पात [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) चे खालील घटक समाविष्ट आहेत:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [मूलभूत 2D आणि 3D ऍसेटस्(asset's)डिझाइन करणे](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 ## प्रकल्प संसाधने
 
-* [सर्व प्रकल्पाची संसाधने असलेली .zip फाइल](http://rpf.io/p/en/stickers-go)
+* [सर्व प्रकल्पाची संसाधने असलेली .zip फाइल](https://rpf.io/p/en/stickers-go)
 * [ऑनलाईन Trinket ज्यामध्ये सर्व 'intro' प्रकल्प संसाधने आहेत](http://jumpto.cc/web-intro)
 * [ऑनलाईन Trinket ज्यामध्ये सर्व ' स्टिकर्स ' आहेत](http://jumpto.cc/web-stickers)
 * [ऑनलाइन Trinket टेम्पलेट](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 ## क्लब प्रमुख साठी संसाधने
 
-* [सर्व पूर्ण झालेली प्रोजेक्ट संसाधने असलेली .zip फाइल](http://rpf.io/p/en/stickers-go)
+* [सर्व पूर्ण झालेली प्रोजेक्ट संसाधने असलेली .zip फाइल](https://rpf.io/p/en/stickers-go)
 * [ऑनलाइन पूर्ण झालेले Trinket प्रोजेक्ट](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
