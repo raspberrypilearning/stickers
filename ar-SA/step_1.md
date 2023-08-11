@@ -30,7 +30,7 @@
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
-هذا المشروع يمكن [إكماله دون اتصال بالإنترنت](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) إذا كنت تفضل ذلك. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال بالإنترنت. تأكد من أن كل طفل لديه حق الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال بالإنترنت. تأكد من أن كل طفل لديه حق الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@
 
 * يقدم هذا المشروع استخدام تدرجات CSS لإنشاء تأثيرات مثيرة للاهتمام. سيقوم الطلاب أيضًا بتوسيع معرفتهم لحدود CSS وتحديد المواقع. 
 
-يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [التصاميم الأساسية لنماذج ثنائية وثلاثية الأبعاد.](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@
 
 ## موارد المشروع
 
-* [ملف.zip يحتوي على جميع موارد المشروع](http://rpf.io/p/en/stickers-go)
+* [ملف.zip يحتوي على جميع موارد المشروع](https://rpf.io/p/en/stickers-go)
 * [Trinket عبر الانترنت يحتوي على جميع موارد مشروع "Intro"](http://jumpto.cc/web-intro)
 * [Trinket عبر الانترنت يحتوي على جميع موارد مشروع "Stickers"](http://jumpto.cc/web-stickers)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@
 
 ## موارد قادة النادي
 
-* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](http://rpf.io/p/en/stickers-go)
+* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](https://rpf.io/p/en/stickers-go)
 * [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
