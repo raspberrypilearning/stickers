@@ -30,7 +30,7 @@
 
 ## Offline (εκτός σύνδεσης διαδικτύου) Πόροι
 
-Αυτό το έργο μπορεί να [ολοκληρωθεί χωρίς σύνδεση](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), αν προτιμάς. Μπορείς να αποκτήσεις πρόσβαση στους πόρους του έργου κάνοντας κλικ στον σύνδεσμο 'Υλικό έργου'. Αυτός ο σύνδεσμος περιέχει μια ενότητα 'Πόροι έργου', η οποία περιλαμβάνει πόρους που τα παιδιά θα χρειαστούν για να ολοκληρώσουν αυτό το έργο εκτός σύνδεσης. Βεβαιωθείτε ότι κάθε παιδί έχει πρόσβαση σε ένα αντίγραφο αυτών των πόρων. Αυτή η ενότητα περιλαμβάνει τα ακόλουθα αρχεία:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Μπορείς να αποκτήσεις πρόσβαση στους πόρους του έργου κάνοντας κλικ στον σύνδεσμο 'Υλικό έργου'. Αυτός ο σύνδεσμος περιέχει μια ενότητα 'Πόροι έργου', η οποία περιλαμβάνει πόρους που τα παιδιά θα χρειαστούν για να ολοκληρώσουν αυτό το έργο εκτός σύνδεσης. Βεβαιωθείτε ότι κάθε παιδί έχει πρόσβαση σε ένα αντίγραφο αυτών των πόρων. Αυτή η ενότητα περιλαμβάνει τα ακόλουθα αρχεία:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@
 
 * Αυτό το έργο εισάγει τη χρήση των διαβαθμίσεων CSS για τη δημιουργία ενδιαφέροντων αποτελεσμάτων. Οι μαθητές θα επεκτείνουν επίσης τις γνώσεις τους σχετικά με τα όρια CSS και την τοποθέτηση. 
 
-Αυτό το έργο περιλαμβάνει στοιχεία από τα παρακάτω μαθήματα του [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@
 
 ## Πόροι έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](http://rpf.io/p/en/stickers-go)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/stickers-go)
 * [Online Trinket που περιέχει όλους τους πόρους του έργου 'Εισαγωγή'](http://jumpto.cc/web-intro)
 * [Online Trinket που περιέχει όλους τους πόρους του έργου 'Αυτοκόλλητα'](http://jumpto.cc/web-stickers)
 * [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@
 
 ## Πόροι συντονιστή ομάδας
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](http://rpf.io/p/en/stickers-go)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/stickers-go)
 * [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
