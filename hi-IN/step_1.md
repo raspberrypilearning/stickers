@@ -1,6 +1,6 @@
-## भूमिका
+## परिचय
 
-इस प्रोजेक्ट में, आप बहुत सारे मज़ेदार स्टिकर बनाएंगे जिनका उपयोग आप वेब पेजों को सजाने के लिए कर सकते हैं। आप ऐसे ग्रेडिएंट का उपयोग करने के बारे में जानेंगे जो धीरे-धीरे एक रंग को दूसरे रंग में बदलते है और जिनसे स्टिकर सुन्दर बनाया जा सकता है ।
+इस प्रोजेक्ट में, आप बहुत सारे मज़ेदार स्टिकर बनाएंगे जिनका उपयोग आप वेब पृष्ठो को सजाने के लिए कर सकते हैं। आप ऐसे ग्रेडिएंट का उपयोग करने के बारे में जानेंगे जो धीरे-धीरे एक रंग को दूसरे रंग में बदलते है और जिनसे स्टिकर सुन्दर बनाया जा सकता है ।
 
 ![स्क्रीनशॉट](images/stickers-finished.png)
 
@@ -18,19 +18,19 @@
 
 ## ऑनलाइन संसाधन
 
-हम HTML & CSS ऑनलाइन लिखने के लिए [ ट्रिंकेट ](https://trinket.io/) का उपयोग करने की सलाह देते हैं । इस प्रोजेक्ट में निम्नलिखित ट्रिंकेट शामिल हैं:
+हम HTML & CSS ऑनलाइन लिखने के लिए [trinket](https://trinket.io/) का उपयोग करने की सलाह देते हैं । इस प्रोजेक्ट में निम्नलिखित trinkets शामिल हैं:
 
 * ['स्टिकर' शुरुआती बिंदु - jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-बच्चे स्वयं HTML और CSS लिखने के लिए इस खाली ट्रिंकेट [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) काभी उपयोग कर सकते हैं, या वैकल्पिक तौर पर वे इस टैंपलेट ट्रिंकेट का उपयोग कर सकते हैं [(jumpto.cc/html-template)](http://jumpto.cc/html-template)।
+बच्चे स्वयं HTML और CSS लिखने के लिए इस खाली trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) काभी उपयोग कर सकते हैं, या वैकल्पिक तौर पर वे इस नमूना trinket का उपयोग कर सकते हैं [(jumpto.cc/html-template)](http://jumpto.cc/html-template)।
 
-ऐसा ट्रिंकेट भी होता है, जिसमें चुनौतियों के लिए हल का नमूना शामिल होता है:
+ऐसा trinket भी होता है, जिसमें चुनौतियों के लिए हल का नमूना शामिल होता है:
 
 * ['स्टिकर' समाप्त - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
 ## ऑफ़लाइन संसाधन
 
-यदि चाहें तो इस प्रोजेक्ट को [ऑफ़लाइन पूरा](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) किया जा सकता है। आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके प्रोजेक्ट के संसाधनों पर पहुँच सकते हैं। इस लिंक में 'प्रोजेक्ट संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस प्रोजेक्ट को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे के पास इन संसाधनों की एक प्रतिलिपि है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके प्रोजेक्ट के संसाधनों पर पहुँच सकते हैं। इस लिंक में 'प्रोजेक्ट संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस प्रोजेक्ट को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे के पास इन संसाधनों की एक प्रतिलिपि है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
 
 * intro/index.html
 * template/template.html
@@ -53,9 +53,9 @@
 
 * यह प्रोजेक्ट दिलचस्प प्रभाव पैदा करने के लिए CSS ग्रेडिएंट का उपयोग करती है। छात्र CSS सीमाओं और स्थिति के बारे में और जानेंगे। 
 
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
-* [ बुनियादी 2D और 3D एसेट्स डिजाइन करें ](https://www.raspberrypi.org/curriculum/design/creator) ।
+* [बुनियादी 2D और 3D एसेट्स डिजाइन करें](https://www.raspberrypi.org/curriculum/design/creator) ।
 
 ## चुनौतियाँ
 
@@ -70,11 +70,11 @@
 
 ## प्रोजेक्ट संसाधन
 
-* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](http://rpf.io/p/en/stickers-go)
-* [ऑनलाइन ट्रिंकेट जिसमें सभी 'इंट्रो' प्रोजेक्ट संसाधन हैं](http://jumpto.cc/web-intro)
+* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/en/stickers-go)
+* [ऑनलाइन ट्रिंकेट जिसमें सभी 'Intro' प्रोजेक्ट संसाधन हैं](http://jumpto.cc/web-intro)
 * [ऑनलाइन trinket जिसमें सभी 'स्टिकर' प्रोजेक्ट संसाधन हैं](http://jumpto.cc/web-stickers)
-* [ऑनलाइन ट्रिंकेट टेम्प्लेट](http://jumpto.cc/trinket-template)
-* [ऑनलाइन खाली ट्रिंकेट](http://jumpto.cc/trinket-blank)
+* [ऑनलाइन Trinket टेम्प्लेट](http://jumpto.cc/trinket-template)
+* [ऑनलाइन खाली Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -91,8 +91,8 @@
 
 ## क्लब लीडर संसाधन
 
-* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](http://rpf.io/p/en/stickers-go)
-* [ऑनलाइन पूर्ण ट्रिंकेट प्रोजेक्ट](https://trinket.io/html/bb4e538e0a)
+* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/en/stickers-go)
+* [ऑनलाइन पूर्ण Trinket प्रोजेक्ट](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
