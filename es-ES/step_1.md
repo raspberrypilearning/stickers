@@ -30,7 +30,7 @@ También hay un Trinket que contiene una solución de muestra a los desafíos:
 
 ## Recursos sin conexión
 
-Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrese de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrese de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 * Este proyecto introduce el uso de gradientes CSS para crear efectos interesantes. Los estudiantes también ampliarán sus conocimientos de fronteras y posicionamiento CSS. 
 
-Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 
 ## Recursos del proyecto
 
-* [Archivo .zip que contiene todos los recursos del proyecto](http://rpf.io/p/en/stickers-go)
+* [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/en/stickers-go)
 * [Trinket en línea que contiene todos los recursos del proyecto "Intro"](http://jumpto.cc/web-intro)
 * [Trinket en línea que contiene todos los recursos del proyecto "Pegatinas"](http://jumpto.cc/web-stickers)
 * [Plantilla Trinket en línea](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 
 ## Recursos para los líderes de clubes
 
-* [Archivo .zip que contiene todos los recursos de proyecto terminado](http://rpf.io/p/en/stickers-go)
+* [Archivo .zip que contiene todos los recursos de proyecto terminado](https://rpf.io/p/en/stickers-go)
 * [Proyecto Trinket terminado en línea](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
