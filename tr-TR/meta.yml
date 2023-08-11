@@ -24,9 +24,13 @@ steps:
     title: Renkli kodlama çıkartması
   - 
     title: HTML ve CSS çıkartması
+    completion:
+      - engaged
   - 
     title: 'Meydan Okuma: Kendi gradyan çıkartmanızı oluşturun'
   - 
     title: 'Süslü robot çıkartması '
+    completion:
+      - internal
   - 
     title: 'Meydan Okuma: Daha fazla çıkartma yapın'
