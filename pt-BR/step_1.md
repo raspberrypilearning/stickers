@@ -30,7 +30,7 @@ Há também um Trinket contendo um exemplo de solução para os desafios:
 
 ## Recursos Offline
 
-Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção 'Recursos do Projeto', que inclui recursos que as crianças precisarão para concluir esse projeto offline. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção 'Recursos do Projeto', que inclui recursos que as crianças precisarão para concluir esse projeto offline. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 * Este projeto introduz o uso de gradientes CSS para criar alguns efeitos interessantes. Os alunos também ampliarão seus conhecimentos sobre bordas e posicionamento de CSS. 
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Design básico de elementos 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Recursos do projeto
 
-* [arquivo .zip contendo todos os recursos do projeto](http://rpf.io/p/en/stickers-go)
+* [arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/stickers-go)
 * [Trinket Online contendo todos os recursos do projeto 'Intro'](http://jumpto.cc/web-intro)
 * [Trinket Online contendo todos os recursos do projeto 'Adesivos'](http://jumpto.cc/web-stickers)
 * [Template Online Trinket](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Recursos do líder do clube
 
-* [arquivo .zip contendo todos os recursos do projeto](http://rpf.io/p/en/stickers-go)
+* [arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/stickers-go)
 * [Projeto Trinket online completo](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
