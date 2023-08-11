@@ -24,9 +24,13 @@ steps:
     title: Farbig kodierte Aufkleber
   - 
     title: HTML & CSS Aufkleber
+    completion:
+      - engaged
   - 
     title: 'Aufgabe: Erstelle deinen eigenen Farbverlaufs-Aufkleber (Gradienten)'
   - 
     title: 'Ausgefallener Roboter-Aufkleber'
+    completion:
+      - internal
   - 
     title: 'Aufgabe: Noch mehr Aufkleber erstellen'
