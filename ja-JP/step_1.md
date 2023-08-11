@@ -1,36 +1,36 @@
-## Introduction
+## はじめに
 
-In this project, you'll create lots of fun stickers that you can use to decorate web pages. You'll learn about using gradients that gradually change from one colour to another to make your stickers look cool.
+このプロジェクトでは、ウェブページを飾るのに使える楽しいステッカーをたくさん作ります。 ある色から別の色に徐々に変化するグラデーションを使用して、ステッカーをかっこよく見せる方法について学びます。
 
-![screenshot](images/stickers-finished.png)
+![スクリーンショット](images/stickers-finished.png)
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/stickers/print).
+このプロジェクトを印刷する必要がある場合は、[印刷用バージョン](https://projects.raspberrypi.org/en/projects/stickers/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: クラブリーダー用ノート
 
-## Introduction:
+## はじめに
 
-In this project, children will be introduced to linear and radial gradients in CSS. They will also learn more about borders and positioning.
+このプロジェクトでは、CSSの線形および放射状グラデーションを子どもたちに紹介します。また、境界と配置についても学びます。
 
-## Online Resources
+## オンラインリソース
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+オンラインでHTMLやCSSを書くために[trinket](https://trinket.io/)を使うことをおすすめします。このプロジェクトには次のtrinketが含まれています。
 
-* ['Stickers' starting point -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
+* [「ステッカー」の出発点 -- jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+子どもたちは空白のtrinket[（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) を使って独自のHTMLやCSSを書くことができます。あるいは、trinketテンプレート[（jumpto.cc/html-template）](http://jumpto.cc/html-template)を使うこともできます。
 
-There is also a trinket containing a sample solution to the challenges:
+また、チャレンジの回答例を含むtrinketもあります。
 
-* ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+* [「ステッカー」の完成したもの - trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-## Offline Resources
+## オフラインリソース
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. 「プロジェクト資料」のリンクをクリックすると、このプロジェクトのリソースにアクセスできます。 このリンクには「プロジェクト資料」のセクションがあり、子どもたちがこのプロジェクトをオフラインで完了するのに必要なリソースが含まれています。 子どもたちがこれらのリソースのコピーにアクセスできるか確認してください。 このセクションには、次のファイルが含まれています。
 
 * intro/index.html
 * template/template.html
@@ -38,43 +38,43 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * stickers/index.html
 * stickers/style.css
 * stickers/script.js
-* stickers/robot .png images
+* stickers/robot .png画像
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+このプロジェクトのチャレンジの完成版は、次の内容を含む「ボランティアリソース」セクションでも見つけることができます。
 
 * stickers-finished/index.html
 * stickers-finished/style.css
 * stickers-finished/script.js
-* stickers-finished/robot .png images
+* stickers-finished/robo .png 画像
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+（上記のリソースはすべて、プロジェクトおよびボランティア`.zip`ファイルとしてダウンロードすることもできます。）
 
-## Learning Objectives
+## 学習のねらい
 
-* This project introduces the use of CSS gradients to create interesting effects. Students will also extend their knowledge of CSS borders and positioning. 
+* このプロジェクトでは、面白い効果を作り出すCSSグラデーションの使い方を紹介します。生徒たちはまた、CSSの境界や位置調整の知識を広げます。 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [基本的な2Dおよび3Dアセットを設計する](https://www.raspberrypi.org/curriculum/design/creator)。
 
-## Challenges
+## チャレンジ
 
-* "Create your own gradient sticker" - adding linear and radial gradients to text;
-* "Make more stickers!" - Combine gradients with images and text to create more stickers.
+* 「自分だけのグラデーションステッカーを作ろう」 - テキストに直線および放射状のグラデーションを追加する。
+* 「もっとステッカーを作ろう！」 - グラデーションを画像やテキストに組み合わせてもっとステッカーを作成する。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: プロジェクト資料
 
-## Project resources
+## プロジェクトリソース
 
-* [.zip file containing all project resources](http://rpf.io/p/en/stickers-go)
-* [Online Trinket containing all 'Intro' project resources](http://jumpto.cc/web-intro)
-* [Online Trinket containing all 'Stickers' project resources](http://jumpto.cc/web-stickers)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [全プロジェクトリソースが入った.zipファイル](https://rpf.io/p/en/stickers-go)
+* [全「入門」プロジェクトリソースを含むオンラインTrinket](http://jumpto.cc/web-intro)
+* [全「ステッカー」プロジェクトリソースを含むオンラインTrinket](http://jumpto.cc/web-stickers)
+* [オンラインTrinketテンプレート](http://jumpto.cc/trinket-template)
+* [空のオンラインTrinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [stickers/index.html](resources/stickers-index.html)
@@ -89,10 +89,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
 * [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
 
-## Club leader resources
+## クラブリーダー向けリソース
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/stickers-go)
-* [Online completed Trinket project](https://trinket.io/html/bb4e538e0a)
+* [全プロジェクトの完成版リソースの入った.zipファイル](https://rpf.io/p/en/stickers-go)
+* [オンラインの完成版Trinketプロジェクト](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
 * [stickers-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
