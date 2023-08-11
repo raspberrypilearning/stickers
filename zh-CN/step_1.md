@@ -30,7 +30,7 @@
 
 ## 离线资源
 
-如果您愿意，可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)此项目。 您可以点击该项目的“项目材料”链接来获取项目资源。 此链接包含一个“项目资源”部分，里面有孩子们离线完成该项目所需的资源。 请确保每个孩子都能获取这些资源。 该部分包含如下文件：
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. 您可以点击该项目的“项目材料”链接来获取项目资源。 此链接包含一个“项目资源”部分，里面有孩子们离线完成该项目所需的资源。 请确保每个孩子都能获取这些资源。 该部分包含如下文件：
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@
 
 * 此项目介绍了CSS渐变的使用来创建有趣效果。学生们将能拓展他们CSS边框以及定位的知识。 
 
-此项目涵盖了[Raspberry Pi数字制作课程](http://rpf.io/curriculum)如下的内容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [设计基本的2D和3D资源](https://www.raspberrypi.org/curriculum/design/creator)。
 
@@ -70,7 +70,7 @@
 
 ## 项目资源
 
-* [.zip 文件包含所有项目资源](http://rpf.io/p/en/stickers-go)
+* [.zip 文件包含所有项目资源](https://rpf.io/p/en/stickers-go)
 * [在线Trinket包含所有“介绍”项目资源](http://jumpto.cc/web-intro)
 * [在线Trinket包含所有“贴纸“项目资源](http://jumpto.cc/web-stickers)
 * [在线Trinket模板](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@
 
 ## 俱乐部导师资源
 
-* [.zip 文件包含所有已完成的项目资源](http://rpf.io/p/en/stickers-go)
+* [.zip 文件包含所有已完成的项目资源](https://rpf.io/p/en/stickers-go)
 * [在线已完成的Trinkret项目](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
