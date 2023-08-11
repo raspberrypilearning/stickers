@@ -30,7 +30,7 @@
 
 ## Ресурси за које није потребан интернет
 
-Овај пројекат може бити [ завршен без интернета ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) ако је пожељно. Изворима пројекта можете приступити кликом на везу „Пројектни материјали“ за овај пројекат. Ова веза садржи одељак „Ресурси пројекта“ који укључује ресурсе који ће деци требати да би извршили овај пројекат без интернета. Проверите да ли свако дете има приступ копији ових ресурса. Овај одељак садржи следеће датотеке:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Изворима пројекта можете приступити кликом на везу „Пројектни материјали“ за овај пројекат. Ова веза садржи одељак „Ресурси пројекта“ који укључује ресурсе који ће деци требати да би извршили овај пројекат без интернета. Проверите да ли свако дете има приступ копији ових ресурса. Овај одељак садржи следеће датотеке:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@
 
 * Овај пројекат представља употребу CSS градијената за стварање занимљивих ефеката. Студенти ће такође проширити своје знање о CSS-u, ивицама и позиционирању. 
 
-Овај пројекат покрива елементе из следећих делова [ Распберри Пи израда дигиталног наставног плана и програма ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [ Дизајн основних 2Д и 3Д материјала ](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@
 
 ## Project resources
 
-* [.zip датотека која садржи све ресурсе пројекта](http://rpf.io/p/en/stickers-go)
+* [.zip датотека која садржи све ресурсе пројекта](https://rpf.io/p/en/stickers-go)
 * [Интернет додатак која садржи све 'Увод' ресурсе из пројекта](http://jumpto.cc/web-intro)
 * [Интернет додатак која садржи све 'Nalepnice' ресурсе из пројекта](http://jumpto.cc/web-stickers)
 * [Образац за додатке са Интернета](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@
 
 ## Ресурси вођа клуба
 
-* [.zip датотека која садржи све завршене ресурсе пројекта](http://rpf.io/p/en/stickers-go)
+* [.zip датотека која садржи све завршене ресурсе пројекта](https://rpf.io/p/en/stickers-go)
 * [Завршени Додатак пројекта са Интернета](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
