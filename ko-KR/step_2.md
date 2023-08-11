@@ -8,7 +8,7 @@
     
     ![스크린샷](images/stickers-starter.png)
 
-+ I <3 코딩을 만들어 봅시다.g' sticker.
++ I <3 코딩 스티커를 만들어 봅시다.g' sticker.
     
     스타일을 입힐 수 있도록 `<div>` 내 `sticker` 클래스, `coding` id를 지정합니다:
     
