@@ -30,7 +30,7 @@ Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
 ## Zasoby Offline
 
-Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła", która zawiera zasoby potrzebne dzieciom do wykonania projektu w trybie offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła", która zawiera zasoby potrzebne dzieciom do wykonania projektu w trybie offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
 
 * Ten projekt wprowadza użycie gradientów CSS do tworzenia ciekawych efektów. Uczniowie poszerzą również swoją wiedzę na temat ramek i pozycjonowania w CSS. 
 
-Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zasoby
 
-* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](http://rpf.io/p/en/stickers-go)
+* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](https://rpf.io/p/en/stickers-go)
 * [Szablon startowy "Intro"](http://jumpto.cc/web-intro)
 * [Szablon startowy "Naklejki"](http://jumpto.cc/web-stickers)
 * [Pusty szablon](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zasoby dla lidera klubu
 
-* [Plik .zip zawierający zasoby z ukończonym projektem](http://rpf.io/p/en/stickers-go)
+* [Plik .zip zawierający zasoby z ukończonym projektem](https://rpf.io/p/en/stickers-go)
 * [Ukończony projekt "Naklejki"](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
