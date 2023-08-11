@@ -30,7 +30,7 @@ Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
 ## Offline-Ressourcen
 
-Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stelle sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stelle sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 
 * In diesem Projekt wird in die Verwendung von CSS-Gradianten eingeführt, um interessante Effekte zu erzielen. Die Schüler werden auch ihre Kenntnisse über CSS-Umrandungen und -Positionierung erweitern. 
 
-Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Projektressourcen
 
-* [.zip-Datei mit allen Projektressourcen](http://rpf.io/p/en/stickers-go)
+* [.zip-Datei mit allen Projektressourcen](https://rpf.io/p/en/stickers-go)
 * [Online-Trinket mit allen "Intro"-Projektressourcen](http://jumpto.cc/web-intro)
 * [Online-Trinket mit allen 'Aufkleber'-Projektressourcen](http://jumpto.cc/web-stickers)
 * [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertig gestellten Projektressourcen](http://rpf.io/p/en/stickers-go)
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](https://rpf.io/p/en/stickers-go)
 * [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/bb4e538e0a)
 * [sticker-finished/index.html](resources/stickers-finished-index.html)
 * [sticker-finished/style.css](resources/stickers-finished-style.css)
