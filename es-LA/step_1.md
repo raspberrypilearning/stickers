@@ -6,7 +6,7 @@ En este proyecto, crearás muchos stickers divertidos que puedes usar para decor
 
 ### Información adicional para los líderes del club
 
-Si necesitas imprimir este proyecto, por favor usa la [Versión amigable de impresión](https://projects.raspberrypi.org/en/projects/stickers/print).
+Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/stickers/print).
 
 ## \--- collapse \---
 
@@ -30,7 +30,7 @@ También hay un trinket que contiene una solución de muestra para los desafíos
 
 ## Recursos sin conexión
 
-Si prefieres, este proyecto se puede [completar fuera de línea](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto fuera de línea. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto fuera de línea. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * intro/index.html
 * template/template.html
@@ -53,7 +53,7 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 * Este proyecto introduce el uso de degradados CSS para crear efectos interesantes. Los estudiantes también ampliarán su conocimiento de bordes y posiciones en CSS. 
 
-Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 
 ## Recursos del proyecto
 
-* [Archivo .zip que contiene todos los recursos del proyecto](http://rpf.io/p/en/stickers-go)
+* [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/en/stickers-go)
 * [Trinket en línea que contiene todos los recursos del proyecto 'Intro'](http://jumpto.cc/web-intro)
 * [Trinket en línea que contiene todos los recursos del proyecto 'Stickers'](http://jumpto.cc/web-stickers)
 * [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
@@ -91,7 +91,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 
 ## Recursos del líder del club
 
-* [Archivo .zip que contiene todos los recursos del proyecto](http://rpf.io/p/en/stickers-go)
+* [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/en/stickers-go)
 * [Proyecto Trinket completado en línea](https://trinket.io/html/bb4e538e0a)
 * [stickers-finished/index.html](resources/stickers-finished-index.html)
 * [stickers-finished/style.css](resources/stickers-finished-style.css)
