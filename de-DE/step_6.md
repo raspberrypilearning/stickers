@@ -1,22 +1,21 @@
 --- challenge ---
-## Aufgabe: Noch mehr Aufkleber erstellen
 
-Lass uns jetzt noch mehr Aufkleber mit Hilfe von verschiedenen Gradienten-Richtungen erstellen und Bilder sowie Text hinzufügen und dann auch Rahmen und Konturen benutzen. 
+## Aufgabe: Noch mehr Sticker erstellen
 
-Tipp: Du musst für jeden Aufkleber HTML und CSS hinzufügen. 
+Nun versuche mehr Sticker mit verschiedenen Farbverlaufsrichtungen zu benutzen und Bilder und Text hinzuzufügen und Ränder und Umrisse zu verwenden.
 
-Du kannst eins unserer Beispiele kopieren und bearbeiten und Änderungen an dem neuen Aufkleber vornehmen. 
+Tipp: Du solltest für jeden Sticker HTML und CSS hinzufügen.
 
-Dein Projekt beinhaltet bereits ein Set an Roboterbildern. Klicke auf das Bilder-Symbol, um die verfügbaren Bilder sehen zu können. 
+Du kannst ein Beispiel kopieren und bearbeiten und Änderungen vornehmen, um einen neuen Sticker zu erstellen.
 
-![screenshot](images/stickers-images.png)
+Dein Projekt enthält bereits eine Reihe von Roboterbildern. Klicke auf auf das Bildsymbol, um die verfügbaren Bilder anzuzeigen.
 
-Dieses Beispiel benutzt einen linearen Gradienten mit `to right` (nach rechts):
+![Screenshot](images/stickers-images.png)
 
-![screenshot](images/stickers-green-html.png)
+In diesem Beispiel wird ein linearer Farbverlauf mit nach rechts (`to right`) verwendet:
 
-![screenshot](images/stickers-green-style.png)
+![Screenshot](images/stickers-green-html.png)
 
-
+![Screenshot](images/stickers-green-style.png)
 
 --- /challenge ---

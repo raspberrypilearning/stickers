@@ -1,60 +1,110 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt wirst du viele tolle Aufkleber kreieren, die du benutzen kannst, um deine Webseiten damit zu dekorieren. Du wirst über die Nutzung von Gradienten lernen, bei denen die Farbschattierung nach und nach von einer Farbe zur Anderen hinübergleitet, damit deine Aufkleber dann so richtig cool aussehen. 
+In diesem Projekt erstellst du viele lustige Sticker, mit denen du Webseiten dekorieren kannst. Du wirst lernen, wie du Gradienten verwendest, die sich allmählich von einer Farbe zum anderen ändern, um deine Sticker cool aussehen zu lassen.
 
-![screenshot](images/stickers-finished.png)
+![Screenshot](images/stickers-finished.png)
+
+### Zusätzliche Information für Clubleiter
+
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/stickers/print).
 
 --- collapse ---
 ---
-title: Notizen für den Club-Leiter
+title: Anmerkungen für Clubleiter
 ---
 
-## Einführung:
-In diesem Projekt erhalten die Kinder eine Einführung in lineare und radiale Gradienten in CSS. Sie werden auch noch mehr über Rahmen und Positionierung lernen. 
+## Einleitung:
 
-## Online Ressourcen
+In diesem Projekt werden Kinder in lineare und radiale Gradienten in CSS eingeführt. Sie lernen auch mehr über Ränder und Positionierung.
 
-Wir empfehlen [Trinket](https://trinket.io/) zu benutzen, um HTML und CSS online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
+## Online-Ressourcen
 
-+ ['Sunrise' starting point  -- jumpto.cc/web-sunrise](http://jumpto.cc/web-sunrise)
+Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um online HTML & CSS schreiben zu können. Dieses Projekt enthält folgende Trinkets:
 
-Die Kinder können auch von diesem leeren Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) Gebrauch machen, um ihren eigenen HTML und CSS Code zu schreiben, bzw. alternativ können sie dieses Vorlage-Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
+* [Startpunkt 'Stickers' - jumpto.cc/web-stickers](http://jumpto.cc/web-stickers)
 
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
+Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-+ ['Stickers' Finished -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
+Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-## Offline Ressourcen
-Dieses Projekt kann [offline fertig gestellt werden](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+* ['Stickers' beendet -- trinket.io/html/bb4e538e0a](https://trinket.io/html/bb4e538e0a)
 
-+ intro/index.html
-+ template/template.html
-+ template/style.css
-+ stickers/index.html
-+ stickers/style.css
-+ stickers/script.js
-+ stickers/robot .png images
+## Offline-Ressourcen
 
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stelle sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
-+ stickers-finished/index.html
-+ stickers-finished/style.css
-+ stickers-finished/script.js
-+ stickers-finished/robot .png images
+* intro/index.html
+* template/template.html
+* template/style.css
+* stickers/index.html
+* stickers/style.css
+* stickers/script.js
+* stickers/robot .png images
 
+Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwilligenhelfer". Diese enthält:
 
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
+* sticker-finished/index.html
+* sticker-finished/style.css
+* sticker-finished/script.js
+* stickers-finished/robot .png images
+
+(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwilligenhelfer heruntergeladen werden.)
 
 ## Lernziele
-+ Dieses Projekt führt die Nutzung von CSS-Gradienten ein, um interessante Effekte zu produzieren. Die Schüler werden ebenfalls ihr Wissen über CSS-Rahmen und Positionerung erweiteren. 
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](https://rpf.io/curriculum):
+* In diesem Projekt wird in die Verwendung von CSS-Gradianten eingeführt, um interessante Effekte zu erzielen. Die Schüler werden auch ihre Kenntnisse über CSS-Umrandungen und -Positionierung erweitern. 
 
-+ [Design Grundlagen: 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
-## Aufgaben
-+ „Erstelle deinen eigenen Gradienten-Aufkleber“: Füge lineare und radiale Gradienten zu einem Text hinzu;
-+ „Fertige noch mehr Aufkleber an!“ - Kombiniere die Gradienten mit Bildern und Text, um noch mehr Aufkleber anzufertigen.
+* [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 
+## Herausforderungen
+
+* "Erstelle deinen eigenen Farbverlaufs-Aufkleber" - Füge lineare und radiale Farbverläufe zum Text hinzu;
+* "Erstelle weitere Aufkleber!" - Kombiniere Farbverläufe mit Bildern und Text, um mehr Aufkleber zu erstellen.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Projektmaterial
+---
+
+## Projektressourcen
+
+* [.zip-Datei mit allen Projektressourcen](https://rpf.io/p/de-DE/stickers-go)
+* [Online-Trinket mit allen "Intro"-Projektressourcen](http://jumpto.cc/web-intro)
+* [Online-Trinket mit allen 'Aufkleber'-Projektressourcen](http://jumpto.cc/web-stickers)
+* [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
+* [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [stickers/index.html](resources/stickers-index.html)
+* [stickers/style.css](resources/stickers-style.css)
+* [stickers/prefixfree.js](resources/stickers-prefixfree.js)
+* [stickers/bluerobot.png](resources/stickers-bluerobot.png)
+* [stickers/firerobot.png](resources/stickers-firerobot.png)
+* [stickers/purplerobot.png](resources/stickers-purplerobot.png)
+* [stickers/spacerobot.png](resources/stickers-spacerobot.png)
+* [stickers/dogrobot.png](resources/stickers-dogrobot.png)
+* [stickers/greenrobot.png](resources/stickers-greenrobot.png)
+* [stickers/rainbowrobot.png](resources/stickers-rainbowrobot.png)
+* [stickers/yellowrobot.png](resources/stickers-yellowrobot.png)
+
+## Ressourcen für Clubleiter
+
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](https://rpf.io/p/de-DE/stickers-go)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/bb4e538e0a)
+* [sticker-finished/index.html](resources/stickers-finished-index.html)
+* [sticker-finished/style.css](resources/stickers-finished-style.css)
+* [sticker-finished/prefixfree.js](resources/stickers-finished-prefixfree.js)
+* [sticker-finished/bluerobot.png](resources/stickers-finished-bluerobot.png)
+* [sticker-finished/firerobot.png](resources/stickers-finished-firerobot.png)
+* [sticker-finished/purplerobot.png](resources/stickers-finished-purplerobot.png)
+* [sticker-finished/spacerobot.png](resources/stickers-finished-spacerobot.png)
+* [sticker-finished/dogrobot.png](resources/stickers-finished-dogrobot.png)
+* [sticker-finished/greenrobot.png](resources/stickers-finished-greenrobot.png)
+* [sticker-finished/rainbowrobot.png](resources/stickers-finished-rainbowrobot.png)
+* [sticker-finished/yellowrobot.png](resources/stickers-finished-yellowrobot.png)
 
 --- /collapse ---
