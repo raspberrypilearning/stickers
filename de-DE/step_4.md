@@ -1,22 +1,20 @@
 --- challenge ---
-## Aufgabe: Erstelle deinen eigenen Gradienten-Aufkleber 
 
-Stelle jetzt deinen eigenen Gradienten-Aufkleber her. Probiere mal die linearen und radialen Gradienten mit Hilfe der HTML Farben aus. 
+## Aufgabe: Erstelle deinen eigenen Gradienten-Aufkleber
 
-Du musst:
+Erstelle nun deinen eigenen Gradient-Aufkleber. Probiere lineare und radiale Verläufe mit mehreren HTML-Farben aus.
 
-+ Füge ein `<div>` zu deinem Aufklebertext `index.html` (Inhaltsverzeichnis) hinzu und gib ihm die `sticker` (Aufkleber) Klasse und eine neue `id` (ID).
-+ Füge den Stil für die `id` (ID), die du in `style.css` gewählt hast, hinzu. Du könntest einen der Aufkleberstile, den du bereits erstellt hast, kopieren und diesen dann bearbeiten. 
+Dazu musst du:
 
-Es gibt eine Liste mit all den Farbnamen unter denen du wählen kannst: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), dies enthält Namen wie `tomato` (Tomate), `firebrick` (Feuerziegel) und `peachpuff` (Pfirsichhauch).
++ Ein `<div>` mit deinem Aufkleber-Text zu `index.html` hinzufügen und die `Sticker` Klasse und eine neue `id` geben.
++ Einen Stil für die `id` hinzufügen, den du in `style.css` ausgewählt hast. Du könntest einen der Aufkleber-Stile kopieren, die du bereits erstellt hast, und diese bearbeiten. 
 
-Wenn du die Textfarbe ändern möchtest, kannst du `color:` (Farbe) benutzen.
+Es gibt eine List von allen Farbnamen, die du benutzen kannst: [umpto.cc/colours](http://jumpto.cc/web-colours), welche Farbnamen wie `tomato`, `firebrick` und `peachpuff` enthält.
 
-Hier ist ein Beispiel, was du mit mehreren Farbein in einem linearen Gradienten erreichen kannst:
+Wenn du die Textfarbe ändern möchtest, kannst du `Farbe:` verwenden.
+
+Hier ist ein Beispiel dafür, was du mit mehreren Farben in einem linearen Farbverlauf tun kannst:
 
 ![screenshot](images/stickers-save-robots.png)
-
-
-
 
 --- /challenge ---
