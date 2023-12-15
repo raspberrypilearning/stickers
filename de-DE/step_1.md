@@ -53,7 +53,7 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 
 * In diesem Projekt wird in die Verwendung von CSS-Gradianten eingeführt, um interessante Effekte zu erzielen. Die Schüler werden auch ihre Kenntnisse über CSS-Umrandungen und -Positionierung erweitern. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](https://rpf.io/curriculum):
 
 * [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 
