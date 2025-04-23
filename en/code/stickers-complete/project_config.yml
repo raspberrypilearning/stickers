@@ -1,0 +1,4 @@
+name: 'Stickers - Complete'
+identifier: 'stickers-complete'
+type: 'html'
+build: true
