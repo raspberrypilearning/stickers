@@ -1,46 +1,44 @@
-## Fancy robot sticker 
 
-You can make a gradient sticker using an image. If you use an image with a transparent background then the gradient will show through. 
+--- challenge ---
 
-You can also create gradients to run in different directions. 
+### Create your own gradient
 
-+ Add a sticker to `index.html` using the `firerobot.png` image:
+--- task ---
 
-	![screenshot](images/stickers-fire-html.png)
+Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
 
-	You can adjust the `height` to resize the image, the width will change automatically. 
+--- /task ---
 
-+ Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
+--- task ---
 
-	For a diagonal gradient you give two directions. This example uses `to bottom left`.
+In `style.css`, add styling for the `id` you chose. You could copy one of the sticker styles you have already made and edit that.
 
-	Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border:
+--- /task ---
 
-	![screenshot](images/stickers-fire-gradient.png)
+There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
 
-	Note that you can use `outline` to create another border outside the usual one. 
-	`outline-offset` gives the gap between the border and the outline. 
+If you want to change the text colour you can use `color:`.
 
-+ Let's add some text to this sticker. 
+Here’s an example of what you can do with multiple colours in a linear gradient:
 
-	Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id. 
+![Rainbow linear gradient with the white text 'Save the Robots'](images/stickers-save-robots.png)
 
-	![screenshot](images/stickers-fire-span.png)
+--- /challenge ---
 
-+ The text will look better if you make it bigger and position it. 
+--- challenge ---
 
-	To position the text you'll need to add `position: relative;` to `#greensticker` and `position: absolute` to `#greentext`. Positioning is covered in more detail in the `Build a Robot` project. 
+### Make more stickers
 
-	Add the following code to `style.css`:
+--- task ---
 
-	![screenshot](images/stickers-fire-text-style.png)
+Make more stickers using different gradient directions and adding images and text and using borders and outlines. 
 
-+ And for a final twist, let's rotate the text using `transform: rotate`.
+--- /task ---
 
-	![screenshot](images/stickers-fire-rotate.png)
+**Tip**: You'll need to add HTML and CSS for each sticker. 
 
-	Try changing the number of degrees that the text is rotated. 
+You can copy and edit one of your examples and make changes to create a new sticker. 
 
+Your project already includes a set of robot images. Click on the images icon to see the available images. 
 
-
-
+--- /challenge ---

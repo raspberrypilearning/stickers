@@ -2,30 +2,101 @@
 
 Gradients can also change colour from the centre out towards the edges, this is called a radial gradient. 
 
-+ Let's create a sticker with the text `HTML & CSS.`  `&` is another character that needs encoding in HTML, the code is `&amp;`.
+--- task ---
 
-	Add the highlighted code to create a new sticker: 
+Create a new sticker with the text `HTML & CSS.`  
 
-	![screenshot](images/stickers-web-html.png)
+`&` is another character that needs encoding in HTML, the code is `&amp;`.
 
-+ Now switch to your `style.css` file and add a style for your new sticker:
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 7
+line_highlights: 10
+---
+<body>
 
-	![screenshot](images/stickers-web-font.png)
+  <div class="sticker" id="coding">I &lt;3 <br> Coding</div>
+  <div class="sticker" id="web">HTML &amp; CSS</div>
 
-	The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out. 
+</body>
 
-+ Now for the gradient. This time let's use a radial gradient. The colour will change from yellow in the centre through to orange and then red. 
+--- /code ---
 
-	![screenshot](images/stickers-web-gradient.png)
+--- /task ---
 
-	Notice that gradients can include multiple colours, not just two. 
+--- task ---
 
-+ The sticker will look much better with some padding and a rounded border. 
+Switch to your `style.css` file and add a style for your new sticker:
 
-	Add the highlighted code:
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 21
+line_highlights:
+---
+#web {
+  font-size: 40px;
+  font-family: Impact;
+  text-shadow: 2px 2px grey;
+}
 
-	![screenshot](images/stickers-web-padding.png)
+--- /code ---
 
+The `text-shadow` code adds a shadow which extends 2px below and to the right of the text to make it stand out. 
 
+--- /task ---
 
+--- task ---
 
+Add a radial gradient for the background. 
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 21
+line_highlights: 25
+---
+#web {
+  font-size: 40px;
+  font-family: Impact;
+  text-shadow: 2px 2px grey;
+  background: radial-gradient(yellow, orange, red);
+}
+
+--- /code ---
+
+The colour will change from yellow in the centre through to orange and then red. 
+
+--- /task ---
+
+--- task ---
+
+Add padding and a border to improve the sticker.
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 21
+line_highlights: 26-27
+---
+#web {
+  font-size: 40px;
+  font-family: Impact;
+  text-shadow: 2px 2px grey;
+  background: radial-gradient(yellow, orange, red);
+  padding: 30px;
+  border-radius: 100px;
+}
+
+--- /code ---
+
+--- /task ---

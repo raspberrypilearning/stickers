@@ -1,20 +1,171 @@
---- challenge ---
+## Fancy robot sticker 
 
-## Challenge: Create your own gradient sticker
+### Add an image
 
-Now make your own gradient sticker. Try linear and radial gradients using multiple HTML colours. 
+--- task ---
 
-You'll need to:
+Add a sticker to `index.html` using the `firerobot.png` image.
 
-+ Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
-+ Add style for the `id` you chose in `style.css`. You could copy one of the sticker styles you have already made and edit that. 
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 7
+line_highlights: 11-13
+---
+<body>
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+  <div class="sticker" id="coding">I &lt;3 <br> Coding</div>
+  <div class="sticker" id="web">HTML &amp; CSS</div>
+  <div class="sticker" id="firerobot">
+    <img height="180" src="firerobot.png"/>
+	</div>
 
-If you want to change the text colour you can use `color:`.
+</body>
 
-Here's an example of what you can do with multiple colours in a linear gradient:
+--- /code ---
 
-![screenshot](images/stickers-save-robots.png)
+--- /task ---
 
---- /challenge ---
+**Tip**: You can adjust the `height` to resize the image, the width will change automatically. 
+
+### Change the gradient direction
+
+Gradients can run in different directions. 
+
+Normally a linear gradient runs from top to bottom, but you can use `to` to change the direction. For example: `to top`, `to left`, or `to right`.
+
+For a diagonal gradient you give two directions. This example uses `to bottom left`.
+
+--- task ---
+
+Open `style.css`
+
+--- /task ---
+
+--- task ---
+
+Add this style to `style.css` to give your new robot sticker a diagonal gradient and a fancy border.
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: false
+line_number_start: 
+line_highlights:
+---
+#firerobot {
+  background: linear-gradient(to bottom left, white, yellow, tomato);
+  border: 10px dashed tomato;
+  outline: 4px solid tomato;
+  outline-offset: 2px;
+}
+
+--- /code ---
+
+This uses `outline` to create another border outside the usual one. 
+`outline-offset` gives the gap between the border and the outline. 
+
+--- /task ---
+
+### Add text
+
+--- task ---
+
+Open `index.html`
+
+--- /task ---
+
+--- task ---
+
+Add a `<span>` containing the text "ROBOTS" to `index.html` and give it an id. 
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 7
+line_highlights: 13
+---
+<body>
+
+  <div class="sticker" id="coding">I &lt;3 <br> Coding</div>
+  <div class="sticker" id="web">HTML &amp; CSS</div>
+  <div class="sticker" id="firerobot">
+    <img height="180" src="firerobot.png"/>
+    <span id="firetext">ROBOTS</span>
+  </div>
+
+</body>
+
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Open style.css
+
+--- /task ---
+
+Make the text bigger and position it. 
+
+--- task ---
+
+In style.css, add `position: relative;` to `#firerobot` and style `#firetext`, including `position: absolute`. 
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: false
+line_number_start: 
+---
+#firerobot {
+  background: linear-gradient(to bottom left, white, yellow, tomato);
+  border: 10px dashed tomato;
+  outline: 4px solid tomato;
+  outline-offset: 2px;
+  position: relative;
+}
+
+#firetext {
+  font-size: 30px;
+  font-family: Impact;
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+}
+
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Rotate the text using `transform: rotate`.
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: false
+line_number_start: 
+---
+#firetext {
+  font-size: 30px;
+  font-family: Impact;
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+  transform: rotate(-15deg);
+}
+
+--- /code ---
+
+**Tip**: Try changing the number of degrees that the text is rotated. 
+
+--- /task ---
