@@ -23,8 +23,7 @@ steps:
 - title: HTML & CSS sticker
   completion:
   - engaged
-- title: 'Challenge: Create your own gradient sticker'
-- title: 'Fancy robot sticker '
+- title: Fancy robot sticker
   completion:
   - internal
 - title: Challenge
