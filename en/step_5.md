@@ -1,8 +1,7 @@
-## Challenge
 
 --- challenge ---
 
-## Create your own gradient
+### Create your own gradient
 
 --- task ---
 
@@ -28,7 +27,7 @@ Here’s an example of what you can do with multiple colours in a linear gradien
 
 --- challenge ---
 
-## Make more stickers
+### Make more stickers
 
 --- task ---
 

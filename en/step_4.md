@@ -40,7 +40,7 @@ For a diagonal gradient you give two directions. This example uses `to bottom le
 
 --- task ---
 
-Open style.css
+Open `style.css`
 
 --- /task ---
 
@@ -70,11 +70,11 @@ This uses `outline` to create another border outside the usual one.
 
 --- /task ---
 
-### Add text
+### Add text
 
 --- task ---
 
-Open index.html
+Open `index.html`
 
 --- /task ---
 
@@ -121,7 +121,7 @@ In style.css, add `position: relative;` to `#firerobot` and style `#firetext`, i
 ---
 language: css
 filename: style.css
-line_numbers: true
+line_numbers: false
 line_number_start: 
 ---
 #firerobot {
@@ -152,7 +152,7 @@ Rotate the text using `transform: rotate`.
 ---
 language: css
 filename: style.css
-line_numbers: true
+line_numbers: false
 line_number_start: 
 ---
 #firetext {

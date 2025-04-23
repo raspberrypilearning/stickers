@@ -128,9 +128,8 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 12
-line_highlights: 17,18
+line_highlights: 17-18
 ---
-
 #coding {
   font-size: 40px;
   font-weight: bold;

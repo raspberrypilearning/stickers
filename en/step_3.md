@@ -61,7 +61,7 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 21
-line_highlights:
+line_highlights: 25
 ---
 #web {
   font-size: 40px;
@@ -86,7 +86,7 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 21
-line_highlights:
+line_highlights: 26-27
 ---
 #web {
   font-size: 40px;
