@@ -1,4 +1,3 @@
 name: 'Stickers - Starter'
 identifier: 'stickers-starter'
 type: 'html'
-build: true
